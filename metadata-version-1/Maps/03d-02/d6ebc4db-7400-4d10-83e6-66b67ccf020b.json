@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "d6ebc4db-7400-4d10-83e6-66b67ccf020b",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Plat book of Des Moines County, Iowa",
+  "dct_provenance_s": "University of Iowa",
+  "layer_slug_s": "d6ebc4db-7400-4d10-83e6-66b67ccf020b",
+  "solr_geom": "ENVELOPE(-91.4095,-90.9449,41.0741,40.6956)",
+  "solr_year_i": "1930",
+  "dc_description_s": "W.W. Hixson & Co.'s 1930 plat book of Des Moines County, Iowa, containing a map of the county and township maps showing land ownership 1 atlas: 16 l.; 21 X 28 cm.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_480\"}",
+  "dct_spatial_sm": [
+    "Des Moines County, Iowa",
+    "Iowa"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-10-04T22:07:32Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "W.W. Hixson & Co.",
+  "dct_issued_s": "1930",
+  "dct_temporal_sm": [
+    "1930"
+  ]
+}

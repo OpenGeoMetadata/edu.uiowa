@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "f6a308e0-1996-484a-a6e9-64b687ed9e8b",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Plat Book of Clayton County, Iowa, 1886",
+  "dct_provenance_s": "University of Iowa",
+  "layer_slug_s": "f6a308e0-1996-484a-a6e9-64b687ed9e8b",
+  "solr_geom": "ENVELOPE(-91.606,-90.896,43.0817,42.6437)",
+  "solr_year_i": "1886",
+  "dc_description_s": "(Warner & Foote Publishing Co., 1886, Plat Book of Clayton County, Iowa); 1 atlas: b&w.; 40 X 46 cm. Material in the public domain. No restrictions on use. State Historical Society of Iowa (Iowa City)",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_9312\"}",
+  "dct_spatial_sm": [
+    "Clayton County, Iowa",
+    "Iowa"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-10-04T22:07:36Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Warner & Foote",
+  "dct_issued_s": "1886",
+  "dct_temporal_sm": [
+    "1886"
+  ]
+}

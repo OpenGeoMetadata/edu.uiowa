@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "3ea630d6-fdec-442d-89dc-a3e7acc759c9",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Denmark Township",
+  "dct_provenance_s": "University of Iowa",
+  "layer_slug_s": "3ea630d6-fdec-442d-89dc-a3e7acc759c9",
+  "solr_geom": "ENVELOPE(-94.9139,-94.4412,43.504,43.2556)",
+  "solr_year_i": "1918",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_650\"}",
+  "dct_spatial_sm": [
+    "Emmet County, Iowa",
+    "Iowa"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-07T19:15:12Z",
+  "dc_publisher_s": "Geo. A. Ogle & Co.",
+  "dct_isPartOf_sm": [
+    "30972c42-36ea-44af-9950-6538d7a38867"
+  ],
+  "dct_issued_s": "1918",
+  "dct_temporal_sm": [
+    "1918"
+  ]
+}

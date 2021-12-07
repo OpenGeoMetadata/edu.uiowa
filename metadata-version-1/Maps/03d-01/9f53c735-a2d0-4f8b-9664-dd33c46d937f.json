@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "9f53c735-a2d0-4f8b-9664-dd33c46d937f",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Topographical map of Sac County Iowa",
+  "dct_provenance_s": "University of Iowa",
+  "layer_slug_s": "9f53c735-a2d0-4f8b-9664-dd33c46d937f",
+  "solr_geom": "ENVELOPE(-96.6395,-90.1401,43.5012,40.3754)",
+  "solr_year_i": "1904",
+  "dc_creator_sm": [
+    "Huebinger, Melchoir"
+  ],
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_110\"}",
+  "dct_spatial_sm": [
+    "Iowa"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-10-04T22:07:20Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Iowa Publishing Co.",
+  "dct_isPartOf_sm": [
+    "5f08f194-e1e3-4c20-8294-d92b0bb7320a"
+  ],
+  "dct_issued_s": "1904",
+  "dct_temporal_sm": [
+    "1904"
+  ]
+}

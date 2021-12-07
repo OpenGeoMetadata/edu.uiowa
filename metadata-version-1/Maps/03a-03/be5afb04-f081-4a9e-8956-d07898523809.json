@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "be5afb04-f081-4a9e-8956-d07898523809",
+  "dc_rights_s": "Public",
+  "dc_title_s": "General Land Office Plats: Van Buren County, Iowa, 1836-1859",
+  "dct_provenance_s": "University of Iowa",
+  "layer_slug_s": "be5afb04-f081-4a9e-8956-d07898523809",
+  "solr_geom": "ENVELOPE(-92.1798,-91.7164,40.9014,40.5985)",
+  "solr_year_i": "1836",
+  "dc_description_s": "This is a raster dataset of georeferenced township maps from the General Land Office (GLO) surveys beginning in 1836 through 1859. The source of the georeferenced images is scanned microfilm of plats from the State Archives. These plats represent maps drawn from the original field notes by the Surveyor General's Dubuque office.",
+  "dc_format_s": "GeoTIFF",
+  "dc_subject_sm": [
+    "Surveying--Public lands"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://iowageodata.s3.amazonaws.com/imageryBaseMapsEarthCover/baseMaps/GLO_Maps/GLO_maps_89.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://athene.gis.iastate.edu/arcgis/rest/services/ortho/glo_survey/MapServer\"}",
+  "dct_spatial_sm": [
+    "Van Buren County, Iowa",
+    "Iowa"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-11-19T20:33:49Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "State of Iowa",
+  "dct_temporal_sm": [
+    "1836-1859"
+  ]
+}

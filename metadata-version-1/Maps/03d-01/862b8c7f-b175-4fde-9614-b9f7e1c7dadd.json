@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "862b8c7f-b175-4fde-9614-b9f7e1c7dadd",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Atlas and Directory of Rural Taxpayers of Linn County, Iowa, 1914",
+  "dct_provenance_s": "University of Iowa",
+  "layer_slug_s": "862b8c7f-b175-4fde-9614-b9f7e1c7dadd",
+  "solr_geom": "ENVELOPE(-91.8342,-91.3649,42.2987,41.8603)",
+  "solr_year_i": "1914",
+  "dc_description_s": "(Wingert & Leefers Publishing Co., 1914, Atlas and Directory of Rural Taxpayers of Linn County, Iowa); 1 atlas: b&w.; 29 X 39 cm. Material in the public domain. No restrictions on use. State Historical Society of Iowa (Iowa City)",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_9897\"}",
+  "dct_spatial_sm": [
+    "Linn County, Iowa",
+    "Iowa"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-07-15T13:59:06Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Wingert & Leefers Publishing Co.",
+  "dct_issued_s": "1914",
+  "dct_temporal_sm": [
+    "1914"
+  ]
+}

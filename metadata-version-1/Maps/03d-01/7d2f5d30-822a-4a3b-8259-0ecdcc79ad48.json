@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "7d2f5d30-822a-4a3b-8259-0ecdcc79ad48",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Atlas of Cedar County Iowa, 1872",
+  "dct_provenance_s": "University of Iowa",
+  "layer_slug_s": "7d2f5d30-822a-4a3b-8259-0ecdcc79ad48",
+  "solr_geom": "ENVELOPE(-91.3677,-90.8997,41.9483,41.5974)",
+  "solr_year_i": "1872",
+  "dc_description_s": "Harrison and Warner's 1872 Atlas of Cedar County Iowa.; 1 l. Material in the public domain. No restrictions on use. State Historical Society of Iowa (Iowa City)",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_2895\"}",
+  "dct_spatial_sm": [
+    "Cedar County, Iowa",
+    "Iowa"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-07-15T13:59:07Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Harrison & Warner",
+  "dct_issued_s": "1872",
+  "dct_temporal_sm": [
+    "1872"
+  ]
+}
