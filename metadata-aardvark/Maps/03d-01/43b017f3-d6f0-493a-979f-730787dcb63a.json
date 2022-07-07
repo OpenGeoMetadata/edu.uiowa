@@ -1,0 +1,56 @@
+{
+  "dct_title_s": "Plat Book of Boone County, Iowa, 1896",
+  "dct_description_sm": [
+    "(North West Publishing Co., 1896, Plat Book of Boone County, Iowa); 1 atlas: b&w; 38 X 48 cm. Material in the public domain. No restrictions on use. Iowa State University Library (Ames)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "North West Publishing Co."
+  ],
+  "schema_provider_s": "University of Iowa",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Atlases"
+  ],
+  "dcat_keyword_sm": [
+    "Real property",
+    "Land ownership",
+    "Iowa Counties Historic Atlases"
+  ],
+  "dct_temporal_sm": [
+    "1896"
+  ],
+  "dct_issued_s": "1896",
+  "gbl_indexYear_im": [
+    "1896"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1896 TO 1896]"
+  ],
+  "dct_spatial_sm": [
+    "Boone County, Iowa",
+    "Iowa"
+  ],
+  "locn_geometry": "ENVELOPE(-94.1673,-93.6998,42.2094,41.8621)",
+  "dcat_bbox": "ENVELOPE(-94.1673,-93.6998,42.2094,41.8621)",
+  "dcat_centroid": "42.03575,-93.93355",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "03d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_8563\"}",
+  "id": "43b017f3-d6f0-493a-979f-730787dcb63a",
+  "dct_identifier_sm": [
+    "43b017f3-d6f0-493a-979f-730787dcb63a"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:28:43Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

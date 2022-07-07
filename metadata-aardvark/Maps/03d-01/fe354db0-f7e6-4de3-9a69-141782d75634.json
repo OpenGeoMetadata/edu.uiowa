@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Standard atlas of Audubon County, Iowa, 1900",
+  "dct_description_sm": [
+    "2 in. to the mile Material in the public domain. No restrictions on use. University of Iowa. Libraries. Map Collection"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Geo. A. Ogle & Co."
+  ],
+  "dct_publisher_sm": [
+    "Geo. A. Ogle & Co."
+  ],
+  "schema_provider_s": "University of Iowa",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Atlases"
+  ],
+  "dcat_keyword_sm": [
+    "Real property",
+    "Land ownership",
+    "Iowa Counties Historic Atlases"
+  ],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "dct_issued_s": "1900",
+  "gbl_indexYear_im": [
+    "1900"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1900 TO 1900]"
+  ],
+  "dct_spatial_sm": [
+    "Audubon County, Iowa",
+    "Iowa"
+  ],
+  "locn_geometry": "ENVELOPE(-95.0947,-94.7014,41.8626,41.5032)",
+  "dcat_bbox": "ENVELOPE(-95.0947,-94.7014,41.8626,41.5032)",
+  "dcat_centroid": "41.682900000000004,-94.89805000000001",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "03d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_11436\"}",
+  "id": "fe354db0-f7e6-4de3-9a69-141782d75634",
+  "dct_identifier_sm": [
+    "fe354db0-f7e6-4de3-9a69-141782d75634"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:22:26Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

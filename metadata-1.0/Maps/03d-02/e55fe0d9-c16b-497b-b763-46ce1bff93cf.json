@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "e55fe0d9-c16b-497b-b763-46ce1bff93cf",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Plat book of Crawford County, Iowa",
+  "dct_provenance_s": "University of Iowa",
+  "layer_slug_s": "e55fe0d9-c16b-497b-b763-46ce1bff93cf",
+  "solr_geom": "ENVELOPE(-95.6735,-95.0913,42.2099,41.8619)",
+  "solr_year_i": "1930",
+  "dc_description_s": "W.W. Hixson & Co.'s 1930 plat book of Crawford County, Iowa, containing a map of the county and township maps showing land ownership 1 atlas: 22 l.; 21 X 28 cm.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_394\"}",
+  "dct_spatial_sm": [
+    "Crawford County, Iowa",
+    "Iowa"
+  ],
+  "layer_modified_dt": "2022-04-01T15:25:03Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "W.W. Hixson & Co.",
+  "dct_issued_s": "1930",
+  "dct_temporal_sm": [
+    "1930"
+  ]
+}

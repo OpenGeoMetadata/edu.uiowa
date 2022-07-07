@@ -1,0 +1,56 @@
+{
+  "dct_title_s": "Atlas of Hardin County, Iowa, 1918",
+  "dct_description_sm": [
+    "(Midland Map Co., 1918, Atlas of Hardin County, Iowa); 1 atlas: b&w.; 43 X 44 cm. Material in the public domain. No restrictions on use. Iowa State University Library (Ames)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "Midland Map Co."
+  ],
+  "schema_provider_s": "University of Iowa",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Atlases"
+  ],
+  "dcat_keyword_sm": [
+    "Real property",
+    "Land ownership",
+    "Iowa Counties Historic Atlases"
+  ],
+  "dct_temporal_sm": [
+    "1918"
+  ],
+  "dct_issued_s": "1918",
+  "gbl_indexYear_im": [
+    "1918"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1918 TO 1918]"
+  ],
+  "dct_spatial_sm": [
+    "Hardin County, Iowa",
+    "Iowa"
+  ],
+  "locn_geometry": "ENVELOPE(-93.5002,-93.0022,42.557,42.2081)",
+  "dcat_bbox": "ENVELOPE(-93.5002,-93.0022,42.557,42.2081)",
+  "dcat_centroid": "42.38255,-93.25120000000001",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "03d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_8212\"}",
+  "id": "71001dd1-73e7-40ff-94e5-d48846d31d7a",
+  "dct_identifier_sm": [
+    "71001dd1-73e7-40ff-94e5-d48846d31d7a"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:23:53Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

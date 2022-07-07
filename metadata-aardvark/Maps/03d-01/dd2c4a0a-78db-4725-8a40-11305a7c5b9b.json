@@ -1,0 +1,56 @@
+{
+  "dct_title_s": "Standard atlas of Floyd County, Iowa, 1913",
+  "dct_description_sm": [
+    "1 atlas: 29 p.; 42 cm Material in the public domain. No restrictions on use. State Historical Society of Iowa (Iowa City)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "Anderson Publishing Co."
+  ],
+  "schema_provider_s": "University of Iowa",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Atlases"
+  ],
+  "dcat_keyword_sm": [
+    "Real property",
+    "Land ownership",
+    "Iowa Counties Historic Atlases"
+  ],
+  "dct_temporal_sm": [
+    "1913"
+  ],
+  "dct_issued_s": "1913",
+  "gbl_indexYear_im": [
+    "1913"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1913 TO 1913]"
+  ],
+  "dct_spatial_sm": [
+    "Floyd County, Iowa",
+    "Iowa"
+  ],
+  "locn_geometry": "ENVELOPE(-93.026,-92.5536,43.2129,42.9059)",
+  "dcat_bbox": "ENVELOPE(-93.026,-92.5536,43.2129,42.9059)",
+  "dcat_centroid": "43.0594,-92.7898",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "03d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_2101\"}",
+  "id": "dd2c4a0a-78db-4725-8a40-11305a7c5b9b",
+  "dct_identifier_sm": [
+    "dd2c4a0a-78db-4725-8a40-11305a7c5b9b"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:26:54Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

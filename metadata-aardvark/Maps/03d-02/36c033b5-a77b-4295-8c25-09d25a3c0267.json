@@ -1,0 +1,55 @@
+{
+  "dct_title_s": "Plat book of Cass County, Iowa",
+  "dct_description_sm": [
+    "W.W. Hixson & Co.'s 1930 plat book of Cass County, Iowa, containing a map of the county and township maps showing land ownership 1 atlas: 18 l.; 21 X 28 cm."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "W.W. Hixson & Co."
+  ],
+  "schema_provider_s": "University of Iowa",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Atlases"
+  ],
+  "dcat_keyword_sm": [
+    "Agriculture and Rural Life",
+    "Hixson Plat Map Atlases of Iowa"
+  ],
+  "dct_temporal_sm": [
+    "1930"
+  ],
+  "dct_issued_s": "1930",
+  "gbl_indexYear_im": [
+    "1930"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1930 TO 1930]"
+  ],
+  "dct_spatial_sm": [
+    "Cass County, Iowa",
+    "Iowa"
+  ],
+  "locn_geometry": "ENVELOPE(-95.1569,-94.7014,41.5041,41.1572)",
+  "dcat_bbox": "ENVELOPE(-95.1569,-94.7014,41.5041,41.1572)",
+  "dcat_centroid": "41.330650000000006,-94.92914999999999",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "03d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_256\"}",
+  "id": "36c033b5-a77b-4295-8c25-09d25a3c0267",
+  "dct_identifier_sm": [
+    "36c033b5-a77b-4295-8c25-09d25a3c0267"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:27:15Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

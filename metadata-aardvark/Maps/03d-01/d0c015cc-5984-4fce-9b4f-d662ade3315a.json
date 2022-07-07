@@ -1,0 +1,56 @@
+{
+  "dct_title_s": "Plat Book of Clay County, Iowa, 1887",
+  "dct_description_sm": [
+    "Interstate Publishing Co.'s 1887 Plat Book of Clay County, Iowa; 1 atlas: b&w.: 45 X 38 cm. Material in the public domain. No restrictions on use. State Historical Society of Iowa (Iowa City)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "Interstate Publishing Co."
+  ],
+  "schema_provider_s": "University of Iowa",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Atlases"
+  ],
+  "dcat_keyword_sm": [
+    "Real property",
+    "Land ownership",
+    "Iowa Counties Historic Atlases"
+  ],
+  "dct_temporal_sm": [
+    "1887"
+  ],
+  "dct_issued_s": "1887",
+  "gbl_indexYear_im": [
+    "1887"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1887 TO 1887]"
+  ],
+  "dct_spatial_sm": [
+    "Clay County, Iowa",
+    "Iowa"
+  ],
+  "locn_geometry": "ENVELOPE(-95.3882,-94.9132,43.256,42.9085)",
+  "dcat_bbox": "ENVELOPE(-95.3882,-94.9132,43.256,42.9085)",
+  "dcat_centroid": "43.08225,-95.1507",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "03d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6218\"}",
+  "id": "d0c015cc-5984-4fce-9b4f-d662ade3315a",
+  "dct_identifier_sm": [
+    "d0c015cc-5984-4fce-9b4f-d662ade3315a"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:33:24Z",
+  "gbl_mdVersion_s": "Aardvark"
+}
