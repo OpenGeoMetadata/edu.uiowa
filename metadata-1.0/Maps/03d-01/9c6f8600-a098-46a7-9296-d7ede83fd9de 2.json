@@ -1,0 +1,25 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "9c6f8600-a098-46a7-9296-d7ede83fd9de",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Plat of Mason Township",
+  "dct_provenance_s": "University of Iowa",
+  "layer_slug_s": "9c6f8600-a098-46a7-9296-d7ede83fd9de",
+  "solr_geom": "ENVELOPE(-93.499,-93.0241,43.2576,42.9071)",
+  "solr_year_i": "1895",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_617\"}",
+  "dct_spatial_sm": [
+    "Cerro Gordo County, Iowa",
+    "Iowa"
+  ],
+  "layer_modified_dt": "2022-04-01T15:25:44Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "North West Publishing Co.",
+  "dct_issued_s": "1895",
+  "dct_temporal_sm": [
+    "1895"
+  ]
+}

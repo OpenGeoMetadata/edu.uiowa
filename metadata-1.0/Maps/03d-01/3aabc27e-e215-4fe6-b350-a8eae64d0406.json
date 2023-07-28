@@ -12,12 +12,12 @@
   ],
   "dc_description_s": "1 3/4 in. to the mile Material in the public domain. No restrictions on use. University of Iowa. Libraries. Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_11624\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_11624\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_11624~JP2~~default/info.json\"}",
   "dct_spatial_sm": [
-    "Madison County, Iowa",
+    "Iowa--Madison County",
     "Iowa"
   ],
-  "layer_modified_dt": "2022-04-01T15:34:06Z",
+  "layer_modified_dt": "2023-06-16T20:40:33Z",
   "dc_language_sm": [
     "eng"
   ],

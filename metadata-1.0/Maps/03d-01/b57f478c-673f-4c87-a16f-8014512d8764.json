@@ -8,13 +8,13 @@
   "solr_geom": "ENVELOPE(-95.8823,-95.3836,41.1596,40.9003)",
   "solr_year_i": "1910",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_449\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_449\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_449~JP2~~default/info.json\"}",
   "dct_spatial_sm": [
-    "Mills County, Iowa",
-    "Fremont County, Iowa",
+    "Iowa--Mills County",
+    "Iowa--Fremont County",
     "Iowa"
   ],
-  "layer_modified_dt": "2022-04-01T15:23:32Z",
+  "layer_modified_dt": "2023-06-16T20:40:51Z",
   "dc_language_sm": [
     "eng"
   ],

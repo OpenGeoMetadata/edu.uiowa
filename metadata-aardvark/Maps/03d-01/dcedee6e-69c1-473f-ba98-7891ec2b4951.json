@@ -32,10 +32,10 @@
     "[1923 TO 1923]"
   ],
   "dct_spatial_sm": [
-    "Carroll County, Iowa",
+    "Iowa--Carroll County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-95.0947,-94.6298,42.2101,41.861)",
+  "locn_geometry": "POLYGON((-95.0947 42.2101, -94.6298 42.2101, -94.6298 41.861, -95.0947 41.861, -95.0947 42.2101))",
   "dcat_bbox": "ENVELOPE(-95.0947,-94.6298,42.2101,41.861)",
   "dcat_centroid": "42.03555,-94.86225",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_956\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_956\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_956~JP2~~default/info.json\"}",
   "id": "dcedee6e-69c1-473f-ba98-7891ec2b4951",
   "dct_identifier_sm": [
     "dcedee6e-69c1-473f-ba98-7891ec2b4951"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:16Z",
+  "gbl_mdModified_dt": "2023-06-16T20:41:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

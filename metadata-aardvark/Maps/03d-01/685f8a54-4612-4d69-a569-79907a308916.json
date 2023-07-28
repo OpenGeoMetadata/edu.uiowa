@@ -32,10 +32,10 @@
     "[1912 TO 1912]"
   ],
   "dct_spatial_sm": [
-    "Davis County, Iowa",
+    "Iowa--Davis County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-92.64,-92.1792,40.8994,40.5914)",
+  "locn_geometry": "POLYGON((-92.64 40.8994, -92.1792 40.8994, -92.1792 40.5914, -92.64 40.5914, -92.64 40.8994))",
   "dcat_bbox": "ENVELOPE(-92.64,-92.1792,40.8994,40.5914)",
   "dcat_centroid": "40.745400000000004,-92.4096",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_5037\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_5037\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_5037~JP2~~default/info.json\"}",
   "id": "685f8a54-4612-4d69-a569-79907a308916",
   "dct_identifier_sm": [
     "685f8a54-4612-4d69-a569-79907a308916"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:49Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:52Z",
   "gbl_mdVersion_s": "Aardvark"
 }

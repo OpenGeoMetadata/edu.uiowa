@@ -27,10 +27,10 @@
     "[1895 TO 1895]"
   ],
   "dct_spatial_sm": [
-    "Cerro Gordo County, Iowa",
+    "Iowa--Cerro Gordo County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-93.499,-93.0241,43.2576,42.9071)",
+  "locn_geometry": "POLYGON((-93.499 43.2576, -93.0241 43.2576, -93.0241 42.9071, -93.499 42.9071, -93.499 43.2576))",
   "dcat_bbox": "ENVELOPE(-93.499,-93.0241,43.2576,42.9071)",
   "dcat_centroid": "43.08235,-93.26155",
   "pcdm_memberOf_sm": [
@@ -41,11 +41,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_609\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_609\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_609~JP2~~default/info.json\"}",
   "id": "68a7a6f1-5aa0-45b7-8fde-8030198a2e1e",
   "dct_identifier_sm": [
     "68a7a6f1-5aa0-45b7-8fde-8030198a2e1e"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:53Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:55Z",
   "gbl_mdVersion_s": "Aardvark"
 }

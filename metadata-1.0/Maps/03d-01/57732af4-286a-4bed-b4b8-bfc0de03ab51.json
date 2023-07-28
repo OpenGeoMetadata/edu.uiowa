@@ -9,12 +9,12 @@
   "solr_year_i": "1905",
   "dc_description_s": "1:42,240; 1 1/2 in. to the mile. Material in the public domain. No restrictions on use. University of Iowa. Libraries. Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_13596\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_13596\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_13596~JP2~~default/info.json\"}",
   "dct_spatial_sm": [
-    "Hancock County, Iowa",
+    "Iowa--Hancock County",
     "Iowa"
   ],
-  "layer_modified_dt": "2022-04-01T15:25:58Z",
+  "layer_modified_dt": "2023-06-16T20:40:36Z",
   "dc_language_sm": [
     "eng"
   ],

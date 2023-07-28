@@ -32,10 +32,10 @@
     "[1877 TO 1877]"
   ],
   "dct_spatial_sm": [
-    "Jones County, Iowa",
+    "Iowa--Jones County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-91.3669,-90.8984,42.2964,41.9471)",
+  "locn_geometry": "POLYGON((-91.3669 42.2964, -90.8984 42.2964, -90.8984 41.9471, -91.3669 41.9471, -91.3669 42.2964))",
   "dcat_bbox": "ENVELOPE(-91.3669,-90.8984,42.2964,41.9471)",
   "dcat_centroid": "42.12175,-91.13265",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_10085\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_10085\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10085~JP2~~default/info.json\"}",
   "id": "d2b1194a-9b95-49ac-a854-b8a2b2c79cba",
   "dct_identifier_sm": [
     "d2b1194a-9b95-49ac-a854-b8a2b2c79cba"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:38Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:30Z",
   "gbl_mdVersion_s": "Aardvark"
 }

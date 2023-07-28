@@ -32,10 +32,10 @@
     "[1915 TO 1915]"
   ],
   "dct_spatial_sm": [
-    "Howard County, Iowa",
+    "Iowa--Howard County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-92.5545,-92.0803,43.5027,43.2129)",
+  "locn_geometry": "POLYGON((-92.5545 43.5027, -92.0803 43.5027, -92.0803 43.2129, -92.5545 43.2129, -92.5545 43.5027))",
   "dcat_bbox": "ENVELOPE(-92.5545,-92.0803,43.5027,43.2129)",
   "dcat_centroid": "43.3578,-92.31739999999999",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_5544\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_5544\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_5544~JP2~~default/info.json\"}",
   "id": "87aea489-b561-43a1-8732-fcba09063842",
   "dct_identifier_sm": [
     "87aea489-b561-43a1-8732-fcba09063842"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:58Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:54Z",
   "gbl_mdVersion_s": "Aardvark"
 }

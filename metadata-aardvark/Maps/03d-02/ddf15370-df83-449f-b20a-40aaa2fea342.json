@@ -31,10 +31,10 @@
     "[1930 TO 1930]"
   ],
   "dct_spatial_sm": [
-    "Pocahontas County, Iowa",
+    "Iowa--Pocahontas County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-94.9169,-94.4445,42.9085,42.5572)",
+  "locn_geometry": "POLYGON((-94.9169 42.9085, -94.4445 42.9085, -94.4445 42.5572, -94.9169 42.5572, -94.9169 42.9085))",
   "dcat_bbox": "ENVELOPE(-94.9169,-94.4445,42.9085,42.5572)",
   "dcat_centroid": "42.73285,-94.6807",
   "pcdm_memberOf_sm": [
@@ -45,11 +45,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1909\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:hixson_1909\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:hixson_1909~JP2~~default/info.json\"}",
   "id": "ddf15370-df83-449f-b20a-40aaa2fea342",
   "dct_identifier_sm": [
     "ddf15370-df83-449f-b20a-40aaa2fea342"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:08Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:28Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -9,12 +9,12 @@
   "solr_year_i": "1915",
   "dc_description_s": "(Midland Map Co., 1915, Atlas of Appanoose County, Iowa); 1 atlas: b&w.; 36 X 43 cm. Material in the public domain. No restrictions on use. State Historical Society of Iowa (Iowa City)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_7937\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_7937\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_7937~JP2~~default/info.json\"}",
   "dct_spatial_sm": [
-    "Appanoose County, Iowa",
+    "Iowa--Appanoose County",
     "Iowa"
   ],
-  "layer_modified_dt": "2022-04-01T15:23:51Z",
+  "layer_modified_dt": "2023-06-16T20:41:02Z",
   "dc_language_sm": [
     "eng"
   ],

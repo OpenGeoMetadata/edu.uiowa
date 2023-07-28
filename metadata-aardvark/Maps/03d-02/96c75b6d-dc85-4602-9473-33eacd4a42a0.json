@@ -31,10 +31,10 @@
     "[1930 TO 1930]"
   ],
   "dct_spatial_sm": [
-    "Taylor County, Iowa",
+    "Iowa--Taylor County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-94.9309,-94.4723,40.9009,40.5703)",
+  "locn_geometry": "POLYGON((-94.9309 40.9009, -94.4723 40.9009, -94.4723 40.5703, -94.9309 40.5703, -94.9309 40.9009))",
   "dcat_bbox": "ENVELOPE(-94.9309,-94.4723,40.9009,40.5703)",
   "dcat_centroid": "40.735600000000005,-94.7016",
   "pcdm_memberOf_sm": [
@@ -45,11 +45,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1659\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:hixson_1659\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:hixson_1659~JP2~~default/info.json\"}",
   "id": "96c75b6d-dc85-4602-9473-33eacd4a42a0",
   "dct_identifier_sm": [
     "96c75b6d-dc85-4602-9473-33eacd4a42a0"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:50Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:27Z",
   "gbl_mdVersion_s": "Aardvark"
 }

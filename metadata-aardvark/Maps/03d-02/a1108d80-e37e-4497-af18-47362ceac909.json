@@ -31,10 +31,10 @@
     "[1930 TO 1930]"
   ],
   "dct_spatial_sm": [
-    "Washington County, Iowa",
+    "Iowa--Washington County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-91.9472,-91.4839,41.5116,41.1617)",
+  "locn_geometry": "POLYGON((-91.9472 41.5116, -91.4839 41.5116, -91.4839 41.1617, -91.9472 41.1617, -91.9472 41.5116))",
   "dcat_bbox": "ENVELOPE(-91.9472,-91.4839,41.5116,41.1617)",
   "dcat_centroid": "41.336650000000006,-91.71555000000001",
   "pcdm_memberOf_sm": [
@@ -45,11 +45,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1727\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:hixson_1727\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:hixson_1727~JP2~~default/info.json\"}",
   "id": "a1108d80-e37e-4497-af18-47362ceac909",
   "dct_identifier_sm": [
     "a1108d80-e37e-4497-af18-47362ceac909"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:24Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:27Z",
   "gbl_mdVersion_s": "Aardvark"
 }

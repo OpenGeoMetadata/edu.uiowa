@@ -9,12 +9,12 @@
   "solr_year_i": "1930",
   "dc_description_s": "(The Kenyon Company, 1930, Plat Book of Linn County, Iowa); 1 atlas: b&w.; 33 X 27 cm. No commercial reproduction or distribution of this file is permitted without permission. State Historical Society of Iowa (Iowa City)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_13157\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_13157\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_13157~JP2~~default/info.json\"}",
   "dct_spatial_sm": [
-    "Linn County, Iowa",
+    "Iowa--Linn County",
     "Iowa"
   ],
-  "layer_modified_dt": "2022-04-01T15:22:17Z",
+  "layer_modified_dt": "2023-06-16T20:40:35Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -32,10 +32,10 @@
     "[1917 TO 1917]"
   ],
   "dct_spatial_sm": [
-    "Marion County, Iowa",
+    "Iowa--Marion County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-93.3306,-92.871,41.5083,41.1588)",
+  "locn_geometry": "POLYGON((-93.3306 41.5083, -92.871 41.5083, -92.871 41.1588, -93.3306 41.1588, -93.3306 41.5083))",
   "dcat_bbox": "ENVELOPE(-93.3306,-92.871,41.5083,41.1588)",
   "dcat_centroid": "41.33355,-93.10079999999999",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_9936\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_9936\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_9936~JP2~~default/info.json\"}",
   "id": "2d50d9cb-82ae-421a-8717-b300da53fecd",
   "dct_identifier_sm": [
     "2d50d9cb-82ae-421a-8717-b300da53fecd"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:09Z",
+  "gbl_mdModified_dt": "2023-06-16T20:41:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

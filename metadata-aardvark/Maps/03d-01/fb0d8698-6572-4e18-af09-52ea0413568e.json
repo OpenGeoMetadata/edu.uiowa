@@ -32,10 +32,10 @@
     "[1920 TO 1920]"
   ],
   "dct_spatial_sm": [
-    "Calhoun County, Iowa",
+    "Iowa--Calhoun County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-94.9152,-94.3974,42.5602,42.2086)",
+  "locn_geometry": "POLYGON((-94.9152 42.5602, -94.3974 42.5602, -94.3974 42.2086, -94.9152 42.2086, -94.9152 42.5602))",
   "dcat_bbox": "ENVELOPE(-94.9152,-94.3974,42.5602,42.2086)",
   "dcat_centroid": "42.3844,-94.6563",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_13100\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_13100\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_13100~JP2~~default/info.json\"}",
   "id": "fb0d8698-6572-4e18-af09-52ea0413568e",
   "dct_identifier_sm": [
     "fb0d8698-6572-4e18-af09-52ea0413568e"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:26Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:35Z",
   "gbl_mdVersion_s": "Aardvark"
 }

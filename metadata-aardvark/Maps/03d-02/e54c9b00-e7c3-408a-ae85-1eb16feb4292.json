@@ -31,10 +31,10 @@
     "[1930 TO 1930]"
   ],
   "dct_spatial_sm": [
-    "Boone County, Iowa",
+    "Iowa--Boone County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-94.1673,-93.6998,42.2094,41.8621)",
+  "locn_geometry": "POLYGON((-94.1673 42.2094, -93.6998 42.2094, -93.6998 41.8621, -94.1673 41.8621, -94.1673 42.2094))",
   "dcat_bbox": "ENVELOPE(-94.1673,-93.6998,42.2094,41.8621)",
   "dcat_centroid": "42.03575,-93.93355",
   "pcdm_memberOf_sm": [
@@ -45,11 +45,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_124\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:hixson_124\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:hixson_124~JP2~~default/info.json\"}",
   "id": "e54c9b00-e7c3-408a-ae85-1eb16feb4292",
   "dct_identifier_sm": [
     "e54c9b00-e7c3-408a-ae85-1eb16feb4292"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:50Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:25Z",
   "gbl_mdVersion_s": "Aardvark"
 }

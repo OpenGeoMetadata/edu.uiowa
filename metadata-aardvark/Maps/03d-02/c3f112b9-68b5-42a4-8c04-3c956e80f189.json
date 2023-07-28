@@ -31,10 +31,10 @@
     "[1930 TO 1930]"
   ],
   "dct_spatial_sm": [
-    "Winnebago County, Iowa",
+    "Iowa--Winnebago County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-93.9705,-93.4964,43.5046,43.2568)",
+  "locn_geometry": "POLYGON((-93.9705 43.5046, -93.4964 43.5046, -93.4964 43.2568, -93.9705 43.2568, -93.9705 43.5046))",
   "dcat_bbox": "ENVELOPE(-93.9705,-93.4964,43.5046,43.2568)",
   "dcat_centroid": "43.380700000000004,-93.73345",
   "pcdm_memberOf_sm": [
@@ -45,11 +45,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1786\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:hixson_1786\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:hixson_1786~JP2~~default/info.json\"}",
   "id": "c3f112b9-68b5-42a4-8c04-3c956e80f189",
   "dct_identifier_sm": [
     "c3f112b9-68b5-42a4-8c04-3c956e80f189"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:07Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:27Z",
   "gbl_mdVersion_s": "Aardvark"
 }

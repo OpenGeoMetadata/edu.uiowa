@@ -32,10 +32,10 @@
     "[1875 TO 1875]"
   ],
   "dct_spatial_sm": [
-    "Bremer County, Iowa",
+    "Iowa--Bremer County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-92.5554,-92.0825,42.9063,42.6407)",
+  "locn_geometry": "POLYGON((-92.5554 42.9063, -92.0825 42.9063, -92.0825 42.6407, -92.5554 42.6407, -92.5554 42.9063))",
   "dcat_bbox": "ENVELOPE(-92.5554,-92.0825,42.9063,42.6407)",
   "dcat_centroid": "42.7735,-92.31895",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_5177\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_5177\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_5177~JP2~~default/info.json\"}",
   "id": "56135255-cfdc-45c5-9d1c-b69786166c12",
   "dct_identifier_sm": [
     "56135255-cfdc-45c5-9d1c-b69786166c12"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:36Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:52Z",
   "gbl_mdVersion_s": "Aardvark"
 }

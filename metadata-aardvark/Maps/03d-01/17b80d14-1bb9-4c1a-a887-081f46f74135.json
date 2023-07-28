@@ -32,10 +32,10 @@
     "[1896 TO 1896]"
   ],
   "dct_spatial_sm": [
-    "Poweshiek County, Iowa",
+    "Iowa--Poweshiek County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-92.7683,-92.2986,41.8625,41.5082)",
+  "locn_geometry": "POLYGON((-92.7683 41.8625, -92.2986 41.8625, -92.2986 41.5082, -92.7683 41.5082, -92.7683 41.8625))",
   "dcat_bbox": "ENVELOPE(-92.7683,-92.2986,41.8625,41.5082)",
   "dcat_centroid": "41.68535,-92.53344999999999",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_12986\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_12986\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_12986~JP2~~default/info.json\"}",
   "id": "17b80d14-1bb9-4c1a-a887-081f46f74135",
   "dct_identifier_sm": [
     "17b80d14-1bb9-4c1a-a887-081f46f74135"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:49Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

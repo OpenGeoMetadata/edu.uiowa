@@ -31,10 +31,10 @@
     "[1930 TO 1930]"
   ],
   "dct_spatial_sm": [
-    "Lyon County, Iowa",
+    "Iowa--Lyon County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-96.5974,-95.8594,43.5034,43.2583)",
+  "locn_geometry": "POLYGON((-96.5974 43.5034, -95.8594 43.5034, -95.8594 43.2583, -96.5974 43.2583, -96.5974 43.5034))",
   "dcat_bbox": "ENVELOPE(-96.5974,-95.8594,43.5034,43.2583)",
   "dcat_centroid": "43.380849999999995,-96.2284",
   "pcdm_memberOf_sm": [
@@ -45,11 +45,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1077\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:hixson_1077\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:hixson_1077~JP2~~default/info.json\"}",
   "id": "741c1972-f616-4b8e-9a4e-8ae06d1c5042",
   "dct_identifier_sm": [
     "741c1972-f616-4b8e-9a4e-8ae06d1c5042"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:51Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:24Z",
   "gbl_mdVersion_s": "Aardvark"
 }

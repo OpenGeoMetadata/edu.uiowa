@@ -9,12 +9,12 @@
   "solr_year_i": "1895",
   "dc_description_s": "1 atlas: 55 p.; 47 cm. Material in the public domain. No restrictions on use. University of Iowa. Libraries. Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_644\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_644\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_644~JP2~~default/info.json\"}",
   "dct_spatial_sm": [
-    "Cerro Gordo County, Iowa",
+    "Iowa--Cerro Gordo County",
     "Iowa"
   ],
-  "layer_modified_dt": "2022-04-01T15:31:44Z",
+  "layer_modified_dt": "2023-06-16T20:40:57Z",
   "dc_language_sm": [
     "eng"
   ],

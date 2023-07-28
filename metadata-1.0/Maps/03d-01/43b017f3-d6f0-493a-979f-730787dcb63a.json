@@ -9,12 +9,12 @@
   "solr_year_i": "1896",
   "dc_description_s": "(North West Publishing Co., 1896, Plat Book of Boone County, Iowa); 1 atlas: b&w; 38 X 48 cm. Material in the public domain. No restrictions on use. Iowa State University Library (Ames)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_8563\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_8563\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_8563~JP2~~default/info.json\"}",
   "dct_spatial_sm": [
-    "Boone County, Iowa",
+    "Iowa--Boone County",
     "Iowa"
   ],
-  "layer_modified_dt": "2022-04-01T15:28:43Z",
+  "layer_modified_dt": "2023-06-16T20:41:04Z",
   "dc_language_sm": [
     "eng"
   ],

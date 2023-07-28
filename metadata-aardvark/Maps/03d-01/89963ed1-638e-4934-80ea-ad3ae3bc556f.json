@@ -32,10 +32,10 @@
     "[1937 TO 1937]"
   ],
   "dct_spatial_sm": [
-    "Monona County, Iowa",
+    "Iowa--Monona County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-96.3585,-95.6701,42.2148,41.8619)",
+  "locn_geometry": "POLYGON((-96.3585 42.2148, -95.6701 42.2148, -95.6701 41.8619, -96.3585 41.8619, -96.3585 42.2148))",
   "dcat_bbox": "ENVELOPE(-96.3585,-95.6701,42.2148,41.8619)",
   "dcat_centroid": "42.038349999999994,-96.0143",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_13276\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_13276\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_13276~JP2~~default/info.json\"}",
   "id": "89963ed1-638e-4934-80ea-ad3ae3bc556f",
   "dct_identifier_sm": [
     "89963ed1-638e-4934-80ea-ad3ae3bc556f"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:28Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:35Z",
   "gbl_mdVersion_s": "Aardvark"
 }

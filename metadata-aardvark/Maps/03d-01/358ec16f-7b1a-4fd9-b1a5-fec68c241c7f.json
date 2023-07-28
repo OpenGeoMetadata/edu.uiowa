@@ -32,10 +32,10 @@
     "[1885 TO 1885]"
   ],
   "dct_spatial_sm": [
-    "Marshall County, Iowa",
+    "Iowa--Marshall County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-93.234,-92.7662,42.2103,41.8618)",
+  "locn_geometry": "POLYGON((-93.234 42.2103, -92.7662 42.2103, -92.7662 41.8618, -93.234 41.8618, -93.234 42.2103))",
   "dcat_bbox": "ENVELOPE(-93.234,-92.7662,42.2103,41.8618)",
   "dcat_centroid": "42.03605,-93.0001",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_12000\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_12000\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_12000~JP2~~default/info.json\"}",
   "id": "358ec16f-7b1a-4fd9-b1a5-fec68c241c7f",
   "dct_identifier_sm": [
     "358ec16f-7b1a-4fd9-b1a5-fec68c241c7f"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:44Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

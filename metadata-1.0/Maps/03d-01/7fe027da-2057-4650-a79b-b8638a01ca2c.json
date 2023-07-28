@@ -9,12 +9,12 @@
   "solr_year_i": "1896",
   "dc_description_s": "Plat Book of Lucas County, Iowa (Racine, WI: Kace Publishing Co., 1896); 1 atlas: b&w.; 40 X 46 cm. Material in the public domain. No restrictions on use. Lucas County Historical Society",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_7667\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_7667\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_7667~JP2~~default/info.json\"}",
   "dct_spatial_sm": [
-    "Lucas County, Iowa",
+    "Iowa--Lucas County",
     "Iowa"
   ],
-  "layer_modified_dt": "2022-04-01T15:28:51Z",
+  "layer_modified_dt": "2023-06-16T20:41:01Z",
   "dc_language_sm": [
     "eng"
   ],

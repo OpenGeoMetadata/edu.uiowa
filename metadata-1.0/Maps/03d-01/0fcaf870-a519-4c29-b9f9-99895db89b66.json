@@ -9,13 +9,13 @@
   "solr_year_i": "1910",
   "dc_description_s": "1 atlas: [162 p.]; 45 cm. Material in the public domain. No restrictions on use. University of Iowa. Libraries. Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_512\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_512\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_512~JP2~~default/info.json\"}",
   "dct_spatial_sm": [
-    "Mills County, Iowa",
-    "Fremont County, Iowa",
+    "Iowa--Mills County",
+    "Iowa--Fremont County",
     "Iowa"
   ],
-  "layer_modified_dt": "2022-04-01T15:22:44Z",
+  "layer_modified_dt": "2023-06-16T20:40:52Z",
   "dc_language_sm": [
     "eng"
   ],

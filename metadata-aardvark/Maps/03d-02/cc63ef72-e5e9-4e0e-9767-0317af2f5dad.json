@@ -31,10 +31,10 @@
     "[1930 TO 1930]"
   ],
   "dct_spatial_sm": [
-    "Warren County, Iowa",
+    "Iowa--Warren County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-93.7927,-93.3294,41.511,41.1593)",
+  "locn_geometry": "POLYGON((-93.7927 41.511, -93.3294 41.511, -93.3294 41.1593, -93.7927 41.1593, -93.7927 41.511))",
   "dcat_bbox": "ENVELOPE(-93.7927,-93.3294,41.511,41.1593)",
   "dcat_centroid": "41.33515,-93.56105",
   "pcdm_memberOf_sm": [
@@ -45,11 +45,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1708\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:hixson_1708\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:hixson_1708~JP2~~default/info.json\"}",
   "id": "cc63ef72-e5e9-4e0e-9767-0317af2f5dad",
   "dct_identifier_sm": [
     "cc63ef72-e5e9-4e0e-9767-0317af2f5dad"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:20Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:27Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -32,10 +32,10 @@
     "[1909 TO 1909]"
   ],
   "dct_spatial_sm": [
-    "Tama County, Iowa",
+    "Iowa--Tama County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-92.7697,-92.2976,42.2976,41.8618)",
+  "locn_geometry": "POLYGON((-92.7697 42.2976, -92.2976 42.2976, -92.2976 41.8618, -92.7697 41.8618, -92.7697 42.2976))",
   "dcat_bbox": "ENVELOPE(-92.7697,-92.2976,42.2976,41.8618)",
   "dcat_centroid": "42.0797,-92.53365",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_11102\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_11102\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_11102~JP2~~default/info.json\"}",
   "id": "35c51f67-2888-4c18-9303-f6a382ae6ad8",
   "dct_identifier_sm": [
     "35c51f67-2888-4c18-9303-f6a382ae6ad8"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:19Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:31Z",
   "gbl_mdVersion_s": "Aardvark"
 }

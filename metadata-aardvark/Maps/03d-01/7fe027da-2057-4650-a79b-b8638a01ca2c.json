@@ -32,10 +32,10 @@
     "[1896 TO 1896]"
   ],
   "dct_spatial_sm": [
-    "Lucas County, Iowa",
+    "Iowa--Lucas County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-93.5606,-93.0984,41.1598,40.8971)",
+  "locn_geometry": "POLYGON((-93.5606 41.1598, -93.0984 41.1598, -93.0984 40.8971, -93.5606 40.8971, -93.5606 41.1598))",
   "dcat_bbox": "ENVELOPE(-93.5606,-93.0984,41.1598,40.8971)",
   "dcat_centroid": "41.02845,-93.3295",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_7667\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_7667\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_7667~JP2~~default/info.json\"}",
   "id": "7fe027da-2057-4650-a79b-b8638a01ca2c",
   "dct_identifier_sm": [
     "7fe027da-2057-4650-a79b-b8638a01ca2c"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:51Z",
+  "gbl_mdModified_dt": "2023-06-16T20:41:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Real property",
     "Land ownership",
-    "Iowa Counties Historic Atlases"
+    "Iowa Counties Historic Atlases",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1912"
@@ -35,10 +36,10 @@
     "[1912 TO 1912]"
   ],
   "dct_spatial_sm": [
-    "Madison County, Iowa",
+    "Iowa--Madison County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-94.2434,-93.7919,41.5108,41.1538)",
+  "locn_geometry": "POLYGON((-94.2434 41.5108, -93.7919 41.5108, -93.7919 41.1538, -94.2434 41.1538, -94.2434 41.5108))",
   "dcat_bbox": "ENVELOPE(-94.2434,-93.7919,41.5108,41.1538)",
   "dcat_centroid": "41.332300000000004,-94.01765",
   "pcdm_memberOf_sm": [
@@ -49,11 +50,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_11624\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_11624\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_11624~JP2~~default/info.json\"}",
   "id": "3aabc27e-e215-4fe6-b350-a8eae64d0406",
   "dct_identifier_sm": [
     "3aabc27e-e215-4fe6-b350-a8eae64d0406"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:34:06Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

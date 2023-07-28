@@ -31,10 +31,10 @@
     "[1930 TO 1930]"
   ],
   "dct_spatial_sm": [
-    "Buchanan County, Iowa",
+    "Iowa--Buchanan County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-92.083,-91.5969,42.6437,42.2959)",
+  "locn_geometry": "POLYGON((-92.083 42.6437, -91.5969 42.6437, -91.5969 42.2959, -92.083 42.2959, -92.083 42.6437))",
   "dcat_bbox": "ENVELOPE(-92.083,-91.5969,42.6437,42.2959)",
   "dcat_centroid": "42.469800000000006,-91.83995",
   "pcdm_memberOf_sm": [
@@ -45,11 +45,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_161\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:hixson_161\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:hixson_161~JP2~~default/info.json\"}",
   "id": "1cb7960e-071b-4485-8912-3a9705f5c712",
   "dct_identifier_sm": [
     "1cb7960e-071b-4485-8912-3a9705f5c712"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:13Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:26Z",
   "gbl_mdVersion_s": "Aardvark"
 }

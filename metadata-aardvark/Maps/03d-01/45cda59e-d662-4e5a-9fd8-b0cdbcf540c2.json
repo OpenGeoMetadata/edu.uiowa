@@ -32,10 +32,10 @@
     "[1896 TO 1896]"
   ],
   "dct_spatial_sm": [
-    "Fayette County, Iowa",
+    "Iowa--Fayette County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-92.083,-91.604,43.0826,42.6407)",
+  "locn_geometry": "POLYGON((-92.083 43.0826, -91.604 43.0826, -91.604 42.6407, -92.083 42.6407, -92.083 43.0826))",
   "dcat_bbox": "ENVELOPE(-92.083,-91.604,43.0826,42.6407)",
   "dcat_centroid": "42.86165,-91.8435",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1237\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1237\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_1237~JP2~~default/info.json\"}",
   "id": "45cda59e-d662-4e5a-9fd8-b0cdbcf540c2",
   "dct_identifier_sm": [
     "45cda59e-d662-4e5a-9fd8-b0cdbcf540c2"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:41Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

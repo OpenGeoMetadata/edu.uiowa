@@ -32,10 +32,10 @@
     "[1896 TO 1896]"
   ],
   "dct_spatial_sm": [
-    "Black Hawk County, Iowa",
+    "Iowa--Black Hawk County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-92.5554,-92.0647,42.6413,42.2972)",
+  "locn_geometry": "POLYGON((-92.5554 42.6413, -92.0647 42.6413, -92.0647 42.2972, -92.5554 42.2972, -92.5554 42.6413))",
   "dcat_bbox": "ENVELOPE(-92.5554,-92.0647,42.6413,42.2972)",
   "dcat_centroid": "42.46925,-92.31005",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6583\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6583\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_6583~JP2~~default/info.json\"}",
   "id": "4d349c06-4bac-4ad7-85c5-2094b4de8a0e",
   "dct_identifier_sm": [
     "4d349c06-4bac-4ad7-85c5-2094b4de8a0e"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:21Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:57Z",
   "gbl_mdVersion_s": "Aardvark"
 }

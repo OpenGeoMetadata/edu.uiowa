@@ -31,10 +31,10 @@
     "[1930 TO 1930]"
   ],
   "dct_spatial_sm": [
-    "Clay County, Iowa",
+    "Iowa--Clay County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-95.3882,-94.9132,43.256,42.9085)",
+  "locn_geometry": "POLYGON((-95.3882 43.256, -94.9132 43.256, -94.9132 42.9085, -95.3882 42.9085, -95.3882 43.256))",
   "dcat_bbox": "ENVELOPE(-95.3882,-94.9132,43.256,42.9085)",
   "dcat_centroid": "43.08225,-95.1507",
   "pcdm_memberOf_sm": [
@@ -45,11 +45,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_371\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:hixson_371\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:hixson_371~JP2~~default/info.json\"}",
   "id": "ab25797a-e82b-4b68-bd5c-7393eb3c9e3c",
   "dct_identifier_sm": [
     "ab25797a-e82b-4b68-bd5c-7393eb3c9e3c"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:58Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:28Z",
   "gbl_mdVersion_s": "Aardvark"
 }

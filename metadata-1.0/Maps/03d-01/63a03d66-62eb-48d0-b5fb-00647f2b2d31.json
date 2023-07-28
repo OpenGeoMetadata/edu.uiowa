@@ -8,12 +8,12 @@
   "solr_geom": "ENVELOPE(-95.5585,-95.0418,41.8626,41.5037)",
   "solr_year_i": "1921",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_774\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_774\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_774~JP2~~default/info.json\"}",
   "dct_spatial_sm": [
-    "Shelby County, Iowa",
+    "Iowa--Shelby County",
     "Iowa"
   ],
-  "layer_modified_dt": "2022-04-01T15:26:57Z",
+  "layer_modified_dt": "2023-06-16T20:41:01Z",
   "dc_language_sm": [
     "eng"
   ],

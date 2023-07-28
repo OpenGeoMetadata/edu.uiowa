@@ -9,12 +9,12 @@
   "solr_year_i": "1938",
   "dc_description_s": "24 l.; 30 x 20 cm. No known copyright restrictions. University of Iowa. Libraries. Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4021\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4021\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4021~JP2~~default/info.json\"}",
   "dct_spatial_sm": [
-    "Palo Alto County, Iowa",
+    "Iowa--Palo Alto County",
     "Iowa"
   ],
-  "layer_modified_dt": "2022-04-01T15:29:59Z",
+  "layer_modified_dt": "2023-06-16T20:40:48Z",
   "dc_language_sm": [
     "eng"
   ],

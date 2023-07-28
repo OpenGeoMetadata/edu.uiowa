@@ -32,10 +32,10 @@
     "[1892 TO 1892]"
   ],
   "dct_spatial_sm": [
-    "Chickasaw County, Iowa",
+    "Iowa--Chickasaw County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-92.5544,-92.0808,43.2132,42.9059)",
+  "locn_geometry": "POLYGON((-92.5544 43.2132, -92.0808 43.2132, -92.0808 42.9059, -92.5544 42.9059, -92.5544 43.2132))",
   "dcat_bbox": "ENVELOPE(-92.5544,-92.0808,43.2132,42.9059)",
   "dcat_centroid": "43.05955,-92.3176",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_8631\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_8631\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_8631~JP2~~default/info.json\"}",
   "id": "fbf48284-c925-4662-9023-17c9f27e28bd",
   "dct_identifier_sm": [
     "fbf48284-c925-4662-9023-17c9f27e28bd"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:23Z",
+  "gbl_mdModified_dt": "2023-06-16T20:41:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

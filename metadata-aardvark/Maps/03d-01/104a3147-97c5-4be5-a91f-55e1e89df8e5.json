@@ -32,10 +32,10 @@
     "[1909 TO 1909]"
   ],
   "dct_spatial_sm": [
-    "Jefferson County, Iowa",
+    "Iowa--Jefferson County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-92.1816,-91.7171,41.1636,40.8992)",
+  "locn_geometry": "POLYGON((-92.1816 41.1636, -91.7171 41.1636, -91.7171 40.8992, -92.1816 40.8992, -92.1816 41.1636))",
   "dcat_bbox": "ENVELOPE(-92.1816,-91.7171,41.1636,40.8992)",
   "dcat_centroid": "41.031400000000005,-91.94935000000001",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6460\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6460\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_6460~JP2~~default/info.json\"}",
   "id": "104a3147-97c5-4be5-a91f-55e1e89df8e5",
   "dct_identifier_sm": [
     "104a3147-97c5-4be5-a91f-55e1e89df8e5"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:39Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:57Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -32,10 +32,10 @@
     "[1892 TO 1892]"
   ],
   "dct_spatial_sm": [
-    "Dubuque County, Iowa",
+    "Iowa--Dubuque County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-91.1334,-90.4746,42.6753,42.2933)",
+  "locn_geometry": "POLYGON((-91.1334 42.6753, -90.4746 42.6753, -90.4746 42.2933, -91.1334 42.2933, -91.1334 42.6753))",
   "dcat_bbox": "ENVELOPE(-91.1334,-90.4746,42.6753,42.2933)",
   "dcat_centroid": "42.484300000000005,-90.804",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_725\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_725\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_725~JP2~~default/info.json\"}",
   "id": "b8609c7c-8e90-4d2a-8441-7f4075911f1e",
   "dct_identifier_sm": [
     "b8609c7c-8e90-4d2a-8441-7f4075911f1e"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:00Z",
+  "gbl_mdModified_dt": "2023-06-16T20:41:00Z",
   "gbl_mdVersion_s": "Aardvark"
 }

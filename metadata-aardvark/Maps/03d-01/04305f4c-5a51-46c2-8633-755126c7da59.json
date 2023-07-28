@@ -32,10 +32,10 @@
     "[1897 TO 1897]"
   ],
   "dct_spatial_sm": [
-    "Wayne County, Iowa",
+    "Iowa--Wayne County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-93.558,-93.0974,40.8986,40.5789)",
+  "locn_geometry": "POLYGON((-93.558 40.8986, -93.0974 40.8986, -93.0974 40.5789, -93.558 40.5789, -93.558 40.8986))",
   "dcat_bbox": "ENVELOPE(-93.558,-93.0974,40.8986,40.5789)",
   "dcat_centroid": "40.738749999999996,-93.3277",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1570\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1570\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_1570~JP2~~default/info.json\"}",
   "id": "04305f4c-5a51-46c2-8633-755126c7da59",
   "dct_identifier_sm": [
     "04305f4c-5a51-46c2-8633-755126c7da59"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:10Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:37Z",
   "gbl_mdVersion_s": "Aardvark"
 }

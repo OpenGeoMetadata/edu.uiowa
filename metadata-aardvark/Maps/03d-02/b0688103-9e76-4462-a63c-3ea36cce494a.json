@@ -31,10 +31,10 @@
     "[1930 TO 1930]"
   ],
   "dct_spatial_sm": [
-    "Franklin County, Iowa",
+    "Iowa--Franklin County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-93.5002,-93.026,42.9075,42.5561)",
+  "locn_geometry": "POLYGON((-93.5002 42.9075, -93.026 42.9075, -93.026 42.5561, -93.5002 42.5561, -93.5002 42.9075))",
   "dcat_bbox": "ENVELOPE(-93.5002,-93.026,42.9075,42.5561)",
   "dcat_centroid": "42.7318,-93.26310000000001",
   "pcdm_memberOf_sm": [
@@ -45,11 +45,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_621\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:hixson_621\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:hixson_621~JP2~~default/info.json\"}",
   "id": "b0688103-9e76-4462-a63c-3ea36cce494a",
   "dct_identifier_sm": [
     "b0688103-9e76-4462-a63c-3ea36cce494a"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:34Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

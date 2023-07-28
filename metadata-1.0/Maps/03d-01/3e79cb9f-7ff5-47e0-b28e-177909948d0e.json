@@ -12,11 +12,11 @@
   ],
   "dc_description_s": "American Automobile Association officially endorsed.\"A direct road from Iowa's capitol to her beautiful lake country--Cover. Includes advertisements and index to towns.; 1 atlas (95 p.): ill., maps, ports.; 13 x 20 cm. Material in the public domain. No restrictions on use. State Historical Society of Iowa (Iowa City)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_10517\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_10517\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10517~JP2~~default/info.json\"}",
   "dct_spatial_sm": [
     "Iowa"
   ],
-  "layer_modified_dt": "2022-04-01T15:24:19Z",
+  "layer_modified_dt": "2023-06-16T20:40:31Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -8,17 +8,17 @@
   "solr_geom": "ENVELOPE(-94.9308,-94.4722,41.1578,40.8989)",
   "solr_year_i": "1905",
   "dc_creator_sm": [
-    "Geo. A. Ogle & Co.",
+    "Geo. A. Ogle & Company",
     "State Historical Society of Iowa (Iowa City)"
   ],
   "dc_description_s": "1.l. 1 map; 45 cm Material in the public domain. No restrictions on use. State Historical Society of Iowa (Iowa City)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4414\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4414\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4414~JP2~~default/info.json\"}",
   "dct_spatial_sm": [
-    "Adams County, Iowa",
+    "Iowa--Adams County",
     "Iowa"
   ],
-  "layer_modified_dt": "2022-04-01T15:24:36Z",
+  "layer_modified_dt": "2023-06-16T20:40:50Z",
   "dc_language_sm": [
     "eng"
   ],

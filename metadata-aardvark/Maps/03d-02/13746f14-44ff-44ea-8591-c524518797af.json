@@ -31,10 +31,10 @@
     "[1930 TO 1930]"
   ],
   "dct_spatial_sm": [
-    "Harrison County, Iowa",
+    "Iowa--Harrison County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-96.1365,-95.4968,41.8657,41.5051)",
+  "locn_geometry": "POLYGON((-96.1365 41.8657, -95.4968 41.8657, -95.4968 41.5051, -96.1365 41.5051, -96.1365 41.8657))",
   "dcat_bbox": "ENVELOPE(-96.1365,-95.4968,41.8657,41.5051)",
   "dcat_centroid": "41.6854,-95.81665",
   "pcdm_memberOf_sm": [
@@ -45,11 +45,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_780\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:hixson_780\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:hixson_780~JP2~~default/info.json\"}",
   "id": "13746f14-44ff-44ea-8591-c524518797af",
   "dct_identifier_sm": [
     "13746f14-44ff-44ea-8591-c524518797af"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:55Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:30Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -20,13 +20,11 @@
   "gbl_resourceType_sm": [
     "Atlases"
   ],
-  "dct_subject_sm": [
-    "Railroads"
-  ],
   "dcat_keyword_sm": [
     "Real property",
     "Land ownership",
-    "Iowa Counties Historic Atlases"
+    "Iowa Counties Historic Atlases",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1930"
@@ -39,10 +37,10 @@
     "[1930 TO 1930]"
   ],
   "dct_spatial_sm": [
-    "Audubon County, Iowa",
+    "Iowa--Audubon County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-95.0947,-94.7014,41.8626,41.5032)",
+  "locn_geometry": "POLYGON((-95.0947 41.8626, -94.7014 41.8626, -94.7014 41.5032, -95.0947 41.5032, -95.0947 41.8626))",
   "dcat_bbox": "ENVELOPE(-95.0947,-94.7014,41.8626,41.5032)",
   "dcat_centroid": "41.682900000000004,-94.89805000000001",
   "pcdm_memberOf_sm": [
@@ -52,12 +50,12 @@
     "03d-01"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_3996\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.lib.uiowa.edu/gislib1/rest/services/CICADA/Audubon1930/MapServer/0\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://uiowa.maps.arcgis.com/sharing/rest/content/items/a8b8b8c2c1aa4ce98839500d54b516ba/data\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_3996\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_3996~JP2~~default/info.json\"}",
   "id": "145ecf04-d66e-4514-abf7-78660438c97c",
   "dct_identifier_sm": [
     "145ecf04-d66e-4514-abf7-78660438c97c"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:06Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:48Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -29,10 +29,10 @@
     "[1886 TO 1886]"
   ],
   "dct_spatial_sm": [
-    "Clayton County, Iowa",
+    "Iowa--Clayton County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-91.606,-90.896,43.0817,42.6437)",
+  "locn_geometry": "POLYGON((-91.606 43.0817, -90.896 43.0817, -90.896 42.6437, -91.606 42.6437, -91.606 43.0817))",
   "dcat_bbox": "ENVELOPE(-91.606,-90.896,43.0817,42.6437)",
   "dcat_centroid": "42.862700000000004,-91.251",
   "pcdm_memberOf_sm": [
@@ -43,11 +43,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_13228\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_13228\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_13228~JP2~~default/info.json\"}",
   "id": "3ac7aae4-5f93-46ac-8bfd-a165e3503d9e",
   "dct_identifier_sm": [
     "3ac7aae4-5f93-46ac-8bfd-a165e3503d9e"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:29Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:35Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -9,12 +9,12 @@
   "solr_year_i": "1907",
   "dc_description_s": "(Geo. A. Ogle and Co., 1907, Standard Atlas of Montgomery County, Iowa); 1 atlas: b&w.; 40 X 46 cm. Material in the public domain. No restrictions on use. Iowa State University Library (Ames)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_7564\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_7564\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_7564~JP2~~default/info.json\"}",
   "dct_spatial_sm": [
-    "Montgomery County, Iowa",
+    "Iowa--Montgomery County",
     "Iowa"
   ],
-  "layer_modified_dt": "2022-04-01T15:29:20Z",
+  "layer_modified_dt": "2023-06-16T20:41:01Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -31,10 +31,10 @@
     "[1930 TO 1930]"
   ],
   "dct_spatial_sm": [
-    "Wright County, Iowa",
+    "Iowa--Wright County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-93.4977,-93.0238,43.504,43.2564)",
+  "locn_geometry": "POLYGON((-93.4977 43.504, -93.0238 43.504, -93.0238 43.2564, -93.4977 43.2564, -93.4977 43.504))",
   "dcat_bbox": "ENVELOPE(-93.4977,-93.0238,43.504,43.2564)",
   "dcat_centroid": "43.3802,-93.26075",
   "pcdm_memberOf_sm": [
@@ -45,11 +45,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1871\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:hixson_1871\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:hixson_1871~JP2~~default/info.json\"}",
   "id": "2bd02d7a-fe4c-42aa-9c1f-f36d04fdb061",
   "dct_identifier_sm": [
     "2bd02d7a-fe4c-42aa-9c1f-f36d04fdb061"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:38Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:28Z",
   "gbl_mdVersion_s": "Aardvark"
 }

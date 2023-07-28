@@ -31,10 +31,10 @@
     "[1930 TO 1930]"
   ],
   "dct_spatial_sm": [
-    "Guthrie County, Iowa",
+    "Iowa--Guthrie County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-94.7476,-94.2419,41.8624,41.5031)",
+  "locn_geometry": "POLYGON((-94.7476 41.8624, -94.2419 41.8624, -94.2419 41.5031, -94.7476 41.5031, -94.7476 41.8624))",
   "dcat_bbox": "ENVELOPE(-94.7476,-94.2419,41.8624,41.5031)",
   "dcat_centroid": "41.68275,-94.49475000000001",
   "pcdm_memberOf_sm": [
@@ -45,11 +45,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_699\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:hixson_699\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:hixson_699~JP2~~default/info.json\"}",
   "id": "9b61b96d-697f-4e15-9969-27e4eab0ad67",
   "dct_identifier_sm": [
     "9b61b96d-697f-4e15-9969-27e4eab0ad67"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:00Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

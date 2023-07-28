@@ -31,10 +31,10 @@
     "[1930 TO 1930]"
   ],
   "dct_spatial_sm": [
-    "Wayne County, Iowa",
+    "Iowa--Wayne County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-93.558,-93.0974,40.8986,40.5789)",
+  "locn_geometry": "POLYGON((-93.558 40.8986, -93.0974 40.8986, -93.0974 40.5789, -93.558 40.5789, -93.558 40.8986))",
   "dcat_bbox": "ENVELOPE(-93.558,-93.0974,40.8986,40.5789)",
   "dcat_centroid": "40.738749999999996,-93.3277",
   "pcdm_memberOf_sm": [
@@ -45,11 +45,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1746\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:hixson_1746\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:hixson_1746~JP2~~default/info.json\"}",
   "id": "c8f6f377-1f0c-4e2b-92dc-28f4f4892d69",
   "dct_identifier_sm": [
     "c8f6f377-1f0c-4e2b-92dc-28f4f4892d69"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:27Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:27Z",
   "gbl_mdVersion_s": "Aardvark"
 }

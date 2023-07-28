@@ -32,10 +32,10 @@
     "[1918 TO 1918]"
   ],
   "dct_spatial_sm": [
-    "Hardin County, Iowa",
+    "Iowa--Hardin County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-93.5002,-93.0022,42.557,42.2081)",
+  "locn_geometry": "POLYGON((-93.5002 42.557, -93.0022 42.557, -93.0022 42.2081, -93.5002 42.2081, -93.5002 42.557))",
   "dcat_bbox": "ENVELOPE(-93.5002,-93.0022,42.557,42.2081)",
   "dcat_centroid": "42.38255,-93.25120000000001",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_8212\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_8212\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_8212~JP2~~default/info.json\"}",
   "id": "71001dd1-73e7-40ff-94e5-d48846d31d7a",
   "dct_identifier_sm": [
     "71001dd1-73e7-40ff-94e5-d48846d31d7a"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:53Z",
+  "gbl_mdModified_dt": "2023-06-16T20:41:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

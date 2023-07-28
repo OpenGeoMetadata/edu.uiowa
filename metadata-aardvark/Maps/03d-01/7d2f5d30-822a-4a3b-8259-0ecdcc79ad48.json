@@ -32,10 +32,10 @@
     "[1872 TO 1872]"
   ],
   "dct_spatial_sm": [
-    "Cedar County, Iowa",
+    "Iowa--Cedar County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-91.3677,-90.8997,41.9483,41.5974)",
+  "locn_geometry": "POLYGON((-91.3677 41.9483, -90.8997 41.9483, -90.8997 41.5974, -91.3677 41.5974, -91.3677 41.9483))",
   "dcat_bbox": "ENVELOPE(-91.3677,-90.8997,41.9483,41.5974)",
   "dcat_centroid": "41.772850000000005,-91.1337",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_2895\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_2895\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_2895~JP2~~default/info.json\"}",
   "id": "7d2f5d30-822a-4a3b-8259-0ecdcc79ad48",
   "dct_identifier_sm": [
     "7d2f5d30-822a-4a3b-8259-0ecdcc79ad48"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:28Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:41Z",
   "gbl_mdVersion_s": "Aardvark"
 }

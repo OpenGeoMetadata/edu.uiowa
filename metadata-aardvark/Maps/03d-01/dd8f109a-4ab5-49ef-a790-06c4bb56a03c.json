@@ -32,10 +32,10 @@
     "[1885 TO 1885]"
   ],
   "dct_spatial_sm": [
-    "Pottawattamie County, Iowa",
+    "Iowa--Pottawattamie County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-96.0171,-95.1558,41.5058,41.1587)",
+  "locn_geometry": "POLYGON((-96.0171 41.5058, -95.1558 41.5058, -95.1558 41.1587, -96.0171 41.1587, -96.0171 41.5058))",
   "dcat_bbox": "ENVELOPE(-96.0171,-95.1558,41.5058,41.1587)",
   "dcat_centroid": "41.33225,-95.58645",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6802\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6802\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_6802~JP2~~default/info.json\"}",
   "id": "dd8f109a-4ab5-49ef-a790-06c4bb56a03c",
   "dct_identifier_sm": [
     "dd8f109a-4ab5-49ef-a790-06c4bb56a03c"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:03Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:58Z",
   "gbl_mdVersion_s": "Aardvark"
 }

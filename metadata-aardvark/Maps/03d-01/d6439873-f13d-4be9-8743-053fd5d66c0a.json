@@ -32,10 +32,10 @@
     "[1920 TO 1920]"
   ],
   "dct_spatial_sm": [
-    "Mahaska County, Iowa",
+    "Iowa--Mahaska County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-92.8729,-92.4115,41.509,41.1591)",
+  "locn_geometry": "POLYGON((-92.8729 41.509, -92.4115 41.509, -92.4115 41.1591, -92.8729 41.1591, -92.8729 41.509))",
   "dcat_bbox": "ENVELOPE(-92.8729,-92.4115,41.509,41.1591)",
   "dcat_centroid": "41.334050000000005,-92.6422",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_2615\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_2615\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_2615~JP2~~default/info.json\"}",
   "id": "d6439873-f13d-4be9-8743-053fd5d66c0a",
   "dct_identifier_sm": [
     "d6439873-f13d-4be9-8743-053fd5d66c0a"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:09Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }
