@@ -8,12 +8,12 @@
   "solr_geom": "ENVELOPE(-91.1334,-90.4746,42.6753,42.2933)",
   "solr_year_i": "1892",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_696\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_696\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_696~JP2~~default/info.json\"}",
   "dct_spatial_sm": [
-    "Dubuque County, Iowa",
+    "Iowa--Dubuque County",
     "Iowa"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:40Z",
+  "layer_modified_dt": "2023-06-16T20:40:59Z",
   "dc_language_sm": [
     "eng"
   ],

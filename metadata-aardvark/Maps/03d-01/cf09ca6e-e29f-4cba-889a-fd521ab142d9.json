@@ -4,7 +4,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Huebinger, Melchoir"
+    "Huebinger, M. (Melchior)"
   ],
   "dct_publisher_sm": [
     "Iowa Publishing Co."
@@ -17,7 +17,8 @@
     "Atlases"
   ],
   "dcat_keyword_sm": [
-    "Iowa Counties Historic Atlases"
+    "Iowa Counties Historic Atlases",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1904"
@@ -32,7 +33,7 @@
   "dct_spatial_sm": [
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-96.6395,-90.1401,43.5012,40.3754)",
+  "locn_geometry": "POLYGON((-96.6395 43.5012, -90.1401 43.5012, -90.1401 40.3754, -96.6395 40.3754, -96.6395 43.5012))",
   "dcat_bbox": "ENVELOPE(-96.6395,-90.1401,43.5012,40.3754)",
   "dcat_centroid": "41.9383,-93.38980000000001",
   "pcdm_memberOf_sm": [
@@ -43,11 +44,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_118\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_118\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_118~JP2~~default/info.json\"}",
   "id": "cf09ca6e-e29f-4cba-889a-fd521ab142d9",
   "dct_identifier_sm": [
     "cf09ca6e-e29f-4cba-889a-fd521ab142d9"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:09Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

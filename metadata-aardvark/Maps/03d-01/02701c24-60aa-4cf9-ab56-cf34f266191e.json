@@ -32,10 +32,10 @@
     "[1921 TO 1921]"
   ],
   "dct_spatial_sm": [
-    "Greene County, Iowa",
+    "Iowa--Greene County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-94.6302,-94.1649,42.2091,41.8616)",
+  "locn_geometry": "POLYGON((-94.6302 42.2091, -94.1649 42.2091, -94.1649 41.8616, -94.6302 41.8616, -94.6302 42.2091))",
   "dcat_bbox": "ENVELOPE(-94.6302,-94.1649,42.2091,41.8616)",
   "dcat_centroid": "42.03535,-94.39755",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_12669\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_12669\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_12669~JP2~~default/info.json\"}",
   "id": "02701c24-60aa-4cf9-ab56-cf34f266191e",
   "dct_identifier_sm": [
     "02701c24-60aa-4cf9-ab56-cf34f266191e"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:34:02Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

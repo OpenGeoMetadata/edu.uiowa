@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Real property",
     "Land ownership",
-    "Iowa Counties Historic Atlases"
+    "Iowa Counties Historic Atlases",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1917"
@@ -35,10 +36,10 @@
     "[1917 TO 1917]"
   ],
   "dct_spatial_sm": [
-    "Guthrie County, Iowa",
+    "Iowa--Guthrie County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-94.7476,-94.2419,41.8624,41.5031)",
+  "locn_geometry": "POLYGON((-94.7476 41.8624, -94.2419 41.8624, -94.2419 41.5031, -94.7476 41.5031, -94.7476 41.8624))",
   "dcat_bbox": "ENVELOPE(-94.7476,-94.2419,41.8624,41.5031)",
   "dcat_centroid": "41.68275,-94.49475000000001",
   "pcdm_memberOf_sm": [
@@ -49,11 +50,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_11583\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_11583\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_11583~JP2~~default/info.json\"}",
   "id": "3ae7a266-712e-4e2e-a170-99ad42626a28",
   "dct_identifier_sm": [
     "3ae7a266-712e-4e2e-a170-99ad42626a28"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:35Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:32Z",
   "gbl_mdVersion_s": "Aardvark"
 }

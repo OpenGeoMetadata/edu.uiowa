@@ -32,12 +32,12 @@
     "[1921 TO 1921]"
   ],
   "dct_spatial_sm": [
-    "Scott County, Iowa",
-    "Muscatine County, Iowa",
-    "Cedar County, Iowa",
+    "Iowa--Scott County",
+    "Iowa--Muscatine County",
+    "Iowa--Cedar County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-90.901,-90.3163,41.7744,41.4495)",
+  "locn_geometry": "POLYGON((-90.901 41.7744, -90.3163 41.7744, -90.3163 41.4495, -90.901 41.4495, -90.901 41.7744))",
   "dcat_bbox": "ENVELOPE(-90.901,-90.3163,41.7744,41.4495)",
   "dcat_centroid": "41.61195,-90.60865",
   "pcdm_memberOf_sm": [
@@ -48,11 +48,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_9143\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_9143\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_9143~JP2~~default/info.json\"}",
   "id": "55194dab-2e99-4252-b59d-2045bf0dc095",
   "dct_identifier_sm": [
     "55194dab-2e99-4252-b59d-2045bf0dc095"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:29Z",
+  "gbl_mdModified_dt": "2023-06-16T20:41:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

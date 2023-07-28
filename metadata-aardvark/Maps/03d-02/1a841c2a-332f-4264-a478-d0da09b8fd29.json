@@ -31,10 +31,10 @@
     "[1930 TO 1930]"
   ],
   "dct_spatial_sm": [
-    "Sac County, Iowa",
+    "Iowa--Sac County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-95.3884,-94.8575,42.5611,42.2095)",
+  "locn_geometry": "POLYGON((-95.3884 42.5611, -94.8575 42.5611, -94.8575 42.2095, -95.3884 42.2095, -95.3884 42.5611))",
   "dcat_bbox": "ENVELOPE(-95.3884,-94.8575,42.5611,42.2095)",
   "dcat_centroid": "42.3853,-95.12295",
   "pcdm_memberOf_sm": [
@@ -45,11 +45,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1536\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:hixson_1536\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:hixson_1536~JP2~~default/info.json\"}",
   "id": "1a841c2a-332f-4264-a478-d0da09b8fd29",
   "dct_identifier_sm": [
     "1a841c2a-332f-4264-a478-d0da09b8fd29"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:46Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:26Z",
   "gbl_mdVersion_s": "Aardvark"
 }

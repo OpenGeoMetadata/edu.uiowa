@@ -27,11 +27,11 @@
     "[1910 TO 1910]"
   ],
   "dct_spatial_sm": [
-    "Mills County, Iowa",
-    "Fremont County, Iowa",
+    "Iowa--Mills County",
+    "Iowa--Fremont County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-95.8823,-95.3836,41.1596,40.9003)",
+  "locn_geometry": "POLYGON((-95.8823 41.1596, -95.3836 41.1596, -95.3836 40.9003, -95.8823 40.9003, -95.8823 41.1596))",
   "dcat_bbox": "ENVELOPE(-95.8823,-95.3836,41.1596,40.9003)",
   "dcat_centroid": "41.02995,-95.63295",
   "pcdm_memberOf_sm": [
@@ -42,11 +42,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_445\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_445\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_445~JP2~~default/info.json\"}",
   "id": "240c3ba4-403b-4647-a452-907ebe55ba6c",
   "dct_identifier_sm": [
     "240c3ba4-403b-4647-a452-907ebe55ba6c"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:24Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:50Z",
   "gbl_mdVersion_s": "Aardvark"
 }

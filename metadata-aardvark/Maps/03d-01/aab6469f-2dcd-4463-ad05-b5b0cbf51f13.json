@@ -32,10 +32,10 @@
     "[1917 TO 1917]"
   ],
   "dct_spatial_sm": [
-    "Henry County, Iowa",
+    "Iowa--Henry County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-91.7192,-91.3713,41.163,40.8123)",
+  "locn_geometry": "POLYGON((-91.7192 41.163, -91.3713 41.163, -91.3713 40.8123, -91.7192 40.8123, -91.7192 41.163))",
   "dcat_bbox": "ENVELOPE(-91.7192,-91.3713,41.163,40.8123)",
   "dcat_centroid": "40.98765,-91.54525000000001",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_767\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_767\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_767~JP2~~default/info.json\"}",
   "id": "aab6469f-2dcd-4463-ad05-b5b0cbf51f13",
   "dct_identifier_sm": [
     "aab6469f-2dcd-4463-ad05-b5b0cbf51f13"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:11Z",
+  "gbl_mdModified_dt": "2023-06-16T20:41:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

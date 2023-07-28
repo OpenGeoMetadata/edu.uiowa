@@ -9,12 +9,12 @@
   "solr_year_i": "1896",
   "dc_description_s": "Kace Publishing Company's, 1896 Illustrated Atlas of Black Hawk County, Iowa.; 1 atlas: b&w.; 39 x 45 cm. Material in the public domain. No restrictions on use. State Historical Society of Iowa (Iowa City)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6583\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6583\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_6583~JP2~~default/info.json\"}",
   "dct_spatial_sm": [
-    "Black Hawk County, Iowa",
+    "Iowa--Black Hawk County",
     "Iowa"
   ],
-  "layer_modified_dt": "2022-04-01T15:30:21Z",
+  "layer_modified_dt": "2023-06-16T20:40:57Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -32,10 +32,10 @@
     "[1908 TO 1908]"
   ],
   "dct_spatial_sm": [
-    "Sioux County, Iowa",
+    "Iowa--Sioux County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-96.5659,-95.8573,43.2615,42.909)",
+  "locn_geometry": "POLYGON((-96.5659 43.2615, -95.8573 43.2615, -95.8573 42.909, -96.5659 42.909, -96.5659 43.2615))",
   "dcat_bbox": "ENVELOPE(-96.5659,-95.8573,43.2615,42.909)",
   "dcat_centroid": "43.08525,-96.2116",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4645\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4645\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4645~JP2~~default/info.json\"}",
   "id": "08cf141f-7c4c-45cf-957f-811eaefc6418",
   "dct_identifier_sm": [
     "08cf141f-7c4c-45cf-957f-811eaefc6418"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:27Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:51Z",
   "gbl_mdVersion_s": "Aardvark"
 }

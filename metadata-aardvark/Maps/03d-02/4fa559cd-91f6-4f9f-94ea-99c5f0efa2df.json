@@ -31,10 +31,10 @@
     "[1930 TO 1930]"
   ],
   "dct_spatial_sm": [
-    "Audubon County, Iowa",
+    "Iowa--Audubon County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-95.0947,-94.7014,41.8626,41.5032)",
+  "locn_geometry": "POLYGON((-95.0947 41.8626, -94.7014 41.8626, -94.7014 41.5032, -95.0947 41.5032, -95.0947 41.8626))",
   "dcat_bbox": "ENVELOPE(-95.0947,-94.7014,41.8626,41.5032)",
   "dcat_centroid": "41.682900000000004,-94.89805000000001",
   "pcdm_memberOf_sm": [
@@ -45,11 +45,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_69\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:hixson_69\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:hixson_69~JP2~~default/info.json\"}",
   "id": "4fa559cd-91f6-4f9f-94ea-99c5f0efa2df",
   "dct_identifier_sm": [
     "4fa559cd-91f6-4f9f-94ea-99c5f0efa2df"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:19Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

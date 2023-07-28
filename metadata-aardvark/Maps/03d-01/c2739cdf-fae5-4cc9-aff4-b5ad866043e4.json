@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Real property",
     "Land ownership",
-    "Iowa Counties Historic Atlases"
+    "Iowa Counties Historic Atlases",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1858"
@@ -35,10 +36,10 @@
     "[1858 TO 1858]"
   ],
   "dct_spatial_sm": [
-    "Lee County, Iowa",
+    "Iowa--Lee County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-91.7206,-91.1122,40.8135,40.3745)",
+  "locn_geometry": "POLYGON((-91.7206 40.8135, -91.1122 40.8135, -91.1122 40.3745, -91.7206 40.3745, -91.7206 40.8135))",
   "dcat_bbox": "ENVELOPE(-91.7206,-91.1122,40.8135,40.3745)",
   "dcat_centroid": "40.593999999999994,-91.41640000000001",
   "pcdm_memberOf_sm": [
@@ -49,11 +50,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_3918\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_3918\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_3918~JP2~~default/info.json\"}",
   "id": "c2739cdf-fae5-4cc9-aff4-b5ad866043e4",
   "dct_identifier_sm": [
     "c2739cdf-fae5-4cc9-aff4-b5ad866043e4"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:09Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:47Z",
   "gbl_mdVersion_s": "Aardvark"
 }

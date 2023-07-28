@@ -32,10 +32,10 @@
     "[1908 TO 1908]"
   ],
   "dct_spatial_sm": [
-    "Palo Alto County, Iowa",
+    "Iowa--Palo Alto County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-94.9161,-94.4434,43.2561,42.9068)",
+  "locn_geometry": "POLYGON((-94.9161 43.2561, -94.4434 43.2561, -94.4434 42.9068, -94.9161 42.9068, -94.9161 43.2561))",
   "dcat_bbox": "ENVELOPE(-94.9161,-94.4434,43.2561,42.9068)",
   "dcat_centroid": "43.081450000000004,-94.67975",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6025\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6025\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_6025~JP2~~default/info.json\"}",
   "id": "cf35d64f-1f61-4626-ae18-4e0d9da9089f",
   "dct_identifier_sm": [
     "cf35d64f-1f61-4626-ae18-4e0d9da9089f"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:39Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:55Z",
   "gbl_mdVersion_s": "Aardvark"
 }

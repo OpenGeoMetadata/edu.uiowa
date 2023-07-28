@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Geo. A. Ogle & Co."
+    "Geo. A. Ogle & Company"
   ],
   "dct_publisher_sm": [
     "Geo. A. Ogle & Co."
@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Real property",
     "Land ownership",
-    "Iowa Counties Historic Atlases"
+    "Iowa Counties Historic Atlases",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1908"
@@ -35,10 +36,10 @@
     "[1908 TO 1908]"
   ],
   "dct_spatial_sm": [
-    "Buena Vista County, Iowa",
+    "Iowa--Buena Vista County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-95.3889,-94.9152,42.9096,42.5602)",
+  "locn_geometry": "POLYGON((-95.3889 42.9096, -94.9152 42.9096, -94.9152 42.5602, -95.3889 42.5602, -95.3889 42.9096))",
   "dcat_bbox": "ENVELOPE(-95.3889,-94.9152,42.9096,42.5602)",
   "dcat_centroid": "42.734899999999996,-95.15205",
   "pcdm_memberOf_sm": [
@@ -49,11 +50,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_11526\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_11526\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_11526~JP2~~default/info.json\"}",
   "id": "926bc3ad-ecd4-4729-8121-189ea6c2995f",
   "dct_identifier_sm": [
     "926bc3ad-ecd4-4729-8121-189ea6c2995f"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:03Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:32Z",
   "gbl_mdVersion_s": "Aardvark"
 }

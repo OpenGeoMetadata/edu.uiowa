@@ -32,10 +32,10 @@
     "[1874 TO 1874]"
   ],
   "dct_spatial_sm": [
-    "Clinton County, Iowa",
+    "Iowa--Clinton County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-90.9,-90.1393,42.034,41.7281)",
+  "locn_geometry": "POLYGON((-90.9 42.034, -90.1393 42.034, -90.1393 41.7281, -90.9 41.7281, -90.9 42.034))",
   "dcat_bbox": "ENVELOPE(-90.9,-90.1393,42.034,41.7281)",
   "dcat_centroid": "41.88105,-90.51965000000001",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4799\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4799\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4799~JP2~~default/info.json\"}",
   "id": "b38d389b-8157-44fd-ad95-933a5f45c33e",
   "dct_identifier_sm": [
     "b38d389b-8157-44fd-ad95-933a5f45c33e"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:13Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:51Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Harrison & Warner",
+    "Harrison & Warner.",
     "State Historical Society of Iowa (Iowa City)"
   ],
   "dct_publisher_sm": [
@@ -23,7 +23,8 @@
   "dcat_keyword_sm": [
     "Real property",
     "Land ownership",
-    "Iowa Counties Historic Atlases"
+    "Iowa Counties Historic Atlases",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1872"
@@ -36,10 +37,10 @@
     "[1872 TO 1872]"
   ],
   "dct_spatial_sm": [
-    "Benton County, Iowa",
+    "Iowa--Benton County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-92.2996,-91.8318,42.2987,41.8617)",
+  "locn_geometry": "POLYGON((-92.2996 42.2987, -91.8318 42.2987, -91.8318 41.8617, -92.2996 41.8617, -92.2996 42.2987))",
   "dcat_bbox": "ENVELOPE(-92.2996,-91.8318,42.2987,41.8617)",
   "dcat_centroid": "42.0802,-92.06569999999999",
   "pcdm_memberOf_sm": [
@@ -49,12 +50,12 @@
     "03d-01"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6912\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.lib.uiowa.edu/gislib1/rest/services/CICADA/Benton1872/MapServer/0\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://uiowa.maps.arcgis.com/sharing/rest/content/items/8fc187c1d5584686a10a627decc911da/data\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6912\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_6912~JP2~~default/info.json\"}",
   "id": "39ac8f95-8459-4702-a323-862061140f86",
   "dct_identifier_sm": [
     "39ac8f95-8459-4702-a323-862061140f86"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:19Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:58Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -31,10 +31,10 @@
     "[1930 TO 1930]"
   ],
   "dct_spatial_sm": [
-    "Muscatine County, Iowa",
+    "Iowa--Muscatine County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-91.3701,-90.7849,41.5987,41.3329)",
+  "locn_geometry": "POLYGON((-91.3701 41.5987, -90.7849 41.5987, -90.7849 41.3329, -91.3701 41.3329, -91.3701 41.5987))",
   "dcat_bbox": "ENVELOPE(-91.3701,-90.7849,41.5987,41.3329)",
   "dcat_centroid": "41.4658,-91.07749999999999",
   "pcdm_memberOf_sm": [
@@ -45,11 +45,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1287\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:hixson_1287\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:hixson_1287~JP2~~default/info.json\"}",
   "id": "7d8fdd28-74f7-4f80-bed4-a2976c4185f4",
   "dct_identifier_sm": [
     "7d8fdd28-74f7-4f80-bed4-a2976c4185f4"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:25Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:26Z",
   "gbl_mdVersion_s": "Aardvark"
 }

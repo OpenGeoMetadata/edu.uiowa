@@ -31,10 +31,10 @@
     "[1930 TO 1930]"
   ],
   "dct_spatial_sm": [
-    "Des Moines County, Iowa",
+    "Iowa--Des Moines County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-91.4095,-90.9449,41.0741,40.6956)",
+  "locn_geometry": "POLYGON((-91.4095 41.0741, -90.9449 41.0741, -90.9449 40.6956, -91.4095 40.6956, -91.4095 41.0741))",
   "dcat_bbox": "ENVELOPE(-91.4095,-90.9449,41.0741,40.6956)",
   "dcat_centroid": "40.88485,-91.1772",
   "pcdm_memberOf_sm": [
@@ -45,11 +45,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_480\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:hixson_480\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:hixson_480~JP2~~default/info.json\"}",
   "id": "d6ebc4db-7400-4d10-83e6-66b67ccf020b",
   "dct_identifier_sm": [
     "d6ebc4db-7400-4d10-83e6-66b67ccf020b"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:12Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

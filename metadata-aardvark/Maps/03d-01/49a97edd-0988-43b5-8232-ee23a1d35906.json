@@ -32,10 +32,10 @@
     "[1871 TO 1871]"
   ],
   "dct_spatial_sm": [
-    "Marshall County, Iowa",
+    "Iowa--Marshall County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-93.234,-92.7662,42.2103,41.8618)",
+  "locn_geometry": "POLYGON((-93.234 42.2103, -92.7662 42.2103, -92.7662 41.8618, -93.234 41.8618, -93.234 42.2103))",
   "dcat_bbox": "ENVELOPE(-93.234,-92.7662,42.2103,41.8618)",
   "dcat_centroid": "42.03605,-93.0001",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_2922\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_2922\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_2922~JP2~~default/info.json\"}",
   "id": "49a97edd-0988-43b5-8232-ee23a1d35906",
   "dct_identifier_sm": [
     "49a97edd-0988-43b5-8232-ee23a1d35906"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:34:02Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:41Z",
   "gbl_mdVersion_s": "Aardvark"
 }

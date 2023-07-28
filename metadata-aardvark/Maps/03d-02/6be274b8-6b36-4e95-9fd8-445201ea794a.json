@@ -31,10 +31,10 @@
     "[1930 TO 1930]"
   ],
   "dct_spatial_sm": [
-    "Lee County, Iowa",
+    "Iowa--Lee County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-91.7206,-91.1122,40.8135,40.3745)",
+  "locn_geometry": "POLYGON((-91.7206 40.8135, -91.1122 40.8135, -91.1122 40.3745, -91.7206 40.3745, -91.7206 40.8135))",
   "dcat_bbox": "ENVELOPE(-91.7206,-91.1122,40.8135,40.3745)",
   "dcat_centroid": "40.593999999999994,-91.41640000000001",
   "pcdm_memberOf_sm": [
@@ -45,11 +45,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_996\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:hixson_996\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:hixson_996~JP2~~default/info.json\"}",
   "id": "6be274b8-6b36-4e95-9fd8-445201ea794a",
   "dct_identifier_sm": [
     "6be274b8-6b36-4e95-9fd8-445201ea794a"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:06Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:30Z",
   "gbl_mdVersion_s": "Aardvark"
 }

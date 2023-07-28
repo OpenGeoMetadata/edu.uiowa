@@ -31,10 +31,10 @@
     "[1930 TO 1930]"
   ],
   "dct_spatial_sm": [
-    "Adair County, Iowa",
+    "Iowa--Adair County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-94.7025,-94.2424,41.5033,41.1561)",
+  "locn_geometry": "POLYGON((-94.7025 41.5033, -94.2424 41.5033, -94.2424 41.1561, -94.7025 41.1561, -94.7025 41.5033))",
   "dcat_bbox": "ENVELOPE(-94.7025,-94.2424,41.5033,41.1561)",
   "dcat_centroid": "41.3297,-94.47245000000001",
   "pcdm_memberOf_sm": [
@@ -45,11 +45,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_21\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:hixson_21\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:hixson_21~JP2~~default/info.json\"}",
   "id": "a0c1f157-6f8d-49e2-b30c-d3823b865500",
   "dct_identifier_sm": [
     "a0c1f157-6f8d-49e2-b30c-d3823b865500"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:14Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:28Z",
   "gbl_mdVersion_s": "Aardvark"
 }

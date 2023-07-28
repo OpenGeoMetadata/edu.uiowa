@@ -9,12 +9,12 @@
   "solr_year_i": "1916",
   "dc_description_s": "1 atlas: 66 p.; 45 cm. Material in the public domain. No restrictions on use. State Historical Society of Iowa (Iowa City)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_2150\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_2150\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_2150~JP2~~default/info.json\"}",
   "dct_spatial_sm": [
-    "Muscatine County, Iowa",
+    "Iowa--Muscatine County",
     "Iowa"
   ],
-  "layer_modified_dt": "2022-04-01T15:26:40Z",
+  "layer_modified_dt": "2023-06-16T20:40:39Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -32,10 +32,10 @@
     "[1897 TO 1897]"
   ],
   "dct_spatial_sm": [
-    "Van Buren County, Iowa",
+    "Iowa--Van Buren County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-92.1798,-91.7169,40.9,40.6007)",
+  "locn_geometry": "POLYGON((-92.1798 40.9, -91.7169 40.9, -91.7169 40.6007, -92.1798 40.6007, -92.1798 40.9))",
   "dcat_bbox": "ENVELOPE(-92.1798,-91.7169,40.9,40.6007)",
   "dcat_centroid": "40.75035,-91.94835",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4511\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4511\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4511~JP2~~default/info.json\"}",
   "id": "7469b0ca-0dd2-4272-92f9-bcbb8ca4cee5",
   "dct_identifier_sm": [
     "7469b0ca-0dd2-4272-92f9-bcbb8ca4cee5"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:40Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:51Z",
   "gbl_mdVersion_s": "Aardvark"
 }

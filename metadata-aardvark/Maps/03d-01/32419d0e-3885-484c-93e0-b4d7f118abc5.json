@@ -32,10 +32,10 @@
     "[1917 TO 1917]"
   ],
   "dct_spatial_sm": [
-    "Cass County, Iowa",
+    "Iowa--Cass County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-95.1569,-94.7014,41.5041,41.1572)",
+  "locn_geometry": "POLYGON((-95.1569 41.5041, -94.7014 41.5041, -94.7014 41.1572, -95.1569 41.1572, -95.1569 41.5041))",
   "dcat_bbox": "ENVELOPE(-95.1569,-94.7014,41.5041,41.1572)",
   "dcat_centroid": "41.330650000000006,-94.92914999999999",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1769\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1769\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_1769~JP2~~default/info.json\"}",
   "id": "32419d0e-3885-484c-93e0-b4d7f118abc5",
   "dct_identifier_sm": [
     "32419d0e-3885-484c-93e0-b4d7f118abc5"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:37Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:37Z",
   "gbl_mdVersion_s": "Aardvark"
 }

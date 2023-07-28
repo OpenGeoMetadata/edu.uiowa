@@ -32,10 +32,10 @@
     "[1939 TO 1939]"
   ],
   "dct_spatial_sm": [
-    "Johnson County, Iowa",
+    "Iowa--Johnson County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-91.8337,-91.3671,41.862,41.4222)",
+  "locn_geometry": "POLYGON((-91.8337 41.862, -91.3671 41.862, -91.3671 41.4222, -91.8337 41.4222, -91.8337 41.862))",
   "dcat_bbox": "ENVELOPE(-91.8337,-91.3671,41.862,41.4222)",
   "dcat_centroid": "41.6421,-91.6004",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_7426\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_7426\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_7426~JP2~~default/info.json\"}",
   "id": "caf1ac95-8170-4f26-8fa4-30f57bcaf023",
   "dct_identifier_sm": [
     "caf1ac95-8170-4f26-8fa4-30f57bcaf023"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:37Z",
+  "gbl_mdModified_dt": "2023-06-16T20:41:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

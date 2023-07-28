@@ -9,12 +9,12 @@
   "solr_year_i": "1919",
   "dc_description_s": "1 atlas: 70 p; 46 cm. Material in the public domain. No restrictions on use. University of Iowa. Libraries. Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1060\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1060\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_1060~JP2~~default/info.json\"}",
   "dct_spatial_sm": [
-    "Pottawattamie County, Iowa",
+    "Iowa--Pottawattamie County",
     "Iowa"
   ],
-  "layer_modified_dt": "2022-04-01T15:31:06Z",
+  "layer_modified_dt": "2023-06-16T20:40:31Z",
   "dc_language_sm": [
     "eng"
   ],

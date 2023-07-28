@@ -31,10 +31,10 @@
     "[1930 TO 1930]"
   ],
   "dct_spatial_sm": [
-    "Polk County, Iowa",
+    "Iowa--Polk County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-93.8164,-93.3304,41.8625,41.481)",
+  "locn_geometry": "POLYGON((-93.8164 41.8625, -93.3304 41.8625, -93.3304 41.481, -93.8164 41.481, -93.8164 41.8625))",
   "dcat_bbox": "ENVELOPE(-93.8164,-93.3304,41.8625,41.481)",
   "dcat_centroid": "41.67175,-93.57339999999999",
   "pcdm_memberOf_sm": [
@@ -45,11 +45,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1446\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:hixson_1446\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:hixson_1446~JP2~~default/info.json\"}",
   "id": "df4fec5d-8027-437b-990f-1360df766c7d",
   "dct_identifier_sm": [
     "df4fec5d-8027-437b-990f-1360df766c7d"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:28Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:26Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -32,10 +32,10 @@
     "[1914 TO 1914]"
   ],
   "dct_spatial_sm": [
-    "Plymouth County, Iowa",
+    "Iowa--Plymouth County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-96.6357,-95.8573,42.9107,42.5611)",
+  "locn_geometry": "POLYGON((-96.6357 42.9107, -95.8573 42.9107, -95.8573 42.5611, -96.6357 42.5611, -96.6357 42.9107))",
   "dcat_bbox": "ENVELOPE(-96.6357,-95.8573,42.9107,42.5611)",
   "dcat_centroid": "42.7359,-96.2465",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_11224\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_11224\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_11224~JP2~~default/info.json\"}",
   "id": "9eceb733-b70d-4768-893b-7b06370c2d1e",
   "dct_identifier_sm": [
     "9eceb733-b70d-4768-893b-7b06370c2d1e"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:35Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:32Z",
   "gbl_mdVersion_s": "Aardvark"
 }

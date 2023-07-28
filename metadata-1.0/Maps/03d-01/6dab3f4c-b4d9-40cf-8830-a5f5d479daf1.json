@@ -8,20 +8,20 @@
   "solr_geom": "ENVELOPE(-91.6095,-91.0621,43.5027,43.0798)",
   "solr_year_i": "1886",
   "dc_creator_sm": [
-    "Warner & Foote",
-    "University of Iowa. Libraries. Map Collection"
+    "University of Iowa. Libraries. Map Collection",
+    "Warner & Foote"
   ],
   "dc_description_s": "Image from Warner & Foote's 1886 Plat book of Allamakee County, Iowa p.48-49, showing a railroad section map of Iowa",
   "dc_format_s": "JPEG",
   "dc_subject_sm": [
     "Railroads"
   ],
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_405\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_405\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_405~JP2~~default/info.json\"}",
   "dct_spatial_sm": [
-    "Allamakee County, Iowa",
+    "Iowa--Allamakee County",
     "Iowa"
   ],
-  "layer_modified_dt": "2022-04-01T15:25:51Z",
+  "layer_modified_dt": "2023-06-16T20:40:48Z",
   "dc_language_sm": [
     "eng"
   ],

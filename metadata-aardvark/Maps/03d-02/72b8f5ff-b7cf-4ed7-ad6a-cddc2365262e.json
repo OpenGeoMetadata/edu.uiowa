@@ -31,10 +31,10 @@
     "[1930 TO 1930]"
   ],
   "dct_spatial_sm": [
-    "Union County, Iowa",
+    "Iowa--Union County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-94.4728,-94.0151,41.1566,40.8961)",
+  "locn_geometry": "POLYGON((-94.4728 41.1566, -94.0151 41.1566, -94.0151 40.8961, -94.4728 40.8961, -94.4728 41.1566))",
   "dcat_bbox": "ENVELOPE(-94.4728,-94.0151,41.1566,40.8961)",
   "dcat_centroid": "41.026349999999994,-94.24395000000001",
   "pcdm_memberOf_sm": [
@@ -45,11 +45,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1674\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:hixson_1674\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:hixson_1674~JP2~~default/info.json\"}",
   "id": "72b8f5ff-b7cf-4ed7-ad6a-cddc2365262e",
   "dct_identifier_sm": [
     "72b8f5ff-b7cf-4ed7-ad6a-cddc2365262e"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:42Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:27Z",
   "gbl_mdVersion_s": "Aardvark"
 }

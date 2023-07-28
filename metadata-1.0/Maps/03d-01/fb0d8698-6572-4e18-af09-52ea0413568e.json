@@ -9,12 +9,12 @@
   "solr_year_i": "1920",
   "dc_description_s": "(The Kenyon Company, 1920, Atlas and Plat Book of Calhoun County, Iowa); 1 atlas: b&w.; 31 X 41 cm. Material in the public domain. No restrictions on use. University of Iowa Libraries Maps Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_13100\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_13100\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_13100~JP2~~default/info.json\"}",
   "dct_spatial_sm": [
-    "Calhoun County, Iowa",
+    "Iowa--Calhoun County",
     "Iowa"
   ],
-  "layer_modified_dt": "2022-04-01T15:24:26Z",
+  "layer_modified_dt": "2023-06-16T20:40:35Z",
   "dc_language_sm": [
     "eng"
   ],

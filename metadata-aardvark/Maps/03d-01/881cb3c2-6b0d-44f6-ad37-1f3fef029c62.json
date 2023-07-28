@@ -7,9 +7,9 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Anderson Publishing Co.",
-    "Iowa State University Library (Ames)",
-    "University of Iowa Libraries Map Collection"
+    "Anderson Publishing Company",
+    "Iowa State University. Library",
+    "University of Iowa. Libraries. Map Collection"
   ],
   "dct_publisher_sm": [
     "Anderson Publishing Co."
@@ -24,7 +24,8 @@
   "dcat_keyword_sm": [
     "Real property",
     "Land ownership",
-    "Iowa Counties Historic Atlases"
+    "Iowa Counties Historic Atlases",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1926"
@@ -37,10 +38,10 @@
     "[1926 TO 1926]"
   ],
   "dct_spatial_sm": [
-    "Black Hawk County, Iowa",
+    "Iowa--Black Hawk County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-92.5554,-92.0647,42.6413,42.2972)",
+  "locn_geometry": "POLYGON((-92.5554 42.6413, -92.0647 42.6413, -92.0647 42.2972, -92.5554 42.2972, -92.5554 42.6413))",
   "dcat_bbox": "ENVELOPE(-92.5554,-92.0647,42.6413,42.2972)",
   "dcat_centroid": "42.46925,-92.31005",
   "pcdm_memberOf_sm": [
@@ -50,12 +51,12 @@
     "03d-01"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_8389\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.lib.uiowa.edu/gislib1/rest/services/CICADA/BlackHawk1926/MapServer/0\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://uiowa.maps.arcgis.com/sharing/rest/content/items/66b547e9e4af463d87e5cd6320a54650/data\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_8389\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_8389~JP2~~default/info.json\"}",
   "id": "881cb3c2-6b0d-44f6-ad37-1f3fef029c62",
   "dct_identifier_sm": [
     "881cb3c2-6b0d-44f6-ad37-1f3fef029c62"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:05Z",
+  "gbl_mdModified_dt": "2023-06-16T20:41:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

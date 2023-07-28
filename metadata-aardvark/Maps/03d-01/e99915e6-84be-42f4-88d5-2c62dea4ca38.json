@@ -32,10 +32,10 @@
     "[1914 TO 1914]"
   ],
   "dct_spatial_sm": [
-    "Jasper County, Iowa",
+    "Iowa--Jasper County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-93.3504,-92.7564,41.8624,41.5074)",
+  "locn_geometry": "POLYGON((-93.3504 41.8624, -92.7564 41.8624, -92.7564 41.5074, -93.3504 41.5074, -93.3504 41.8624))",
   "dcat_bbox": "ENVELOPE(-93.3504,-92.7564,41.8624,41.5074)",
   "dcat_centroid": "41.6849,-93.0534",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_9818\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_9818\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_9818~JP2~~default/info.json\"}",
   "id": "e99915e6-84be-42f4-88d5-2c62dea4ca38",
   "dct_identifier_sm": [
     "e99915e6-84be-42f4-88d5-2c62dea4ca38"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:19Z",
+  "gbl_mdModified_dt": "2023-06-16T20:41:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

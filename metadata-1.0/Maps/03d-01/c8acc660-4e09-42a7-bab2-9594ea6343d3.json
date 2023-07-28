@@ -8,14 +8,14 @@
   "solr_geom": "ENVELOPE(-96.6395,-90.1401,43.5012,40.3754)",
   "solr_year_i": "1904",
   "dc_creator_sm": [
-    "Huebinger, Melchoir"
+    "Huebinger, M. (Melchior)"
   ],
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_97\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_97\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_97~JP2~~default/info.json\"}",
   "dct_spatial_sm": [
     "Iowa"
   ],
-  "layer_modified_dt": "2022-04-01T15:23:57Z",
+  "layer_modified_dt": "2023-06-16T20:41:05Z",
   "dc_language_sm": [
     "eng"
   ],

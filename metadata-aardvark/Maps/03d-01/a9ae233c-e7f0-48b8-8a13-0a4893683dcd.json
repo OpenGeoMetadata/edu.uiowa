@@ -32,10 +32,10 @@
     "[1919 TO 1919]"
   ],
   "dct_spatial_sm": [
-    "Montgomery County, Iowa",
+    "Iowa--Montgomery County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-95.3845,-94.9293,41.1596,40.9009)",
+  "locn_geometry": "POLYGON((-95.3845 41.1596, -94.9293 41.1596, -94.9293 40.9009, -95.3845 40.9009, -95.3845 41.1596))",
   "dcat_bbox": "ENVELOPE(-95.3845,-94.9293,41.1596,40.9009)",
   "dcat_centroid": "41.030249999999995,-95.15690000000001",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1808\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1808\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_1808~JP2~~default/info.json\"}",
   "id": "a9ae233c-e7f0-48b8-8a13-0a4893683dcd",
   "dct_identifier_sm": [
     "a9ae233c-e7f0-48b8-8a13-0a4893683dcd"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:51Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:37Z",
   "gbl_mdVersion_s": "Aardvark"
 }

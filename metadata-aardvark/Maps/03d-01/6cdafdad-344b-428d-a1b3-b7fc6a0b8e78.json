@@ -32,10 +32,10 @@
     "[1917 TO 1917]"
   ],
   "dct_spatial_sm": [
-    "Woodbury County, Iowa",
+    "Iowa--Woodbury County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-96.4982,-95.6693,42.5622,42.2099)",
+  "locn_geometry": "POLYGON((-96.4982 42.5622, -95.6693 42.5622, -95.6693 42.2099, -96.4982 42.2099, -96.4982 42.5622))",
   "dcat_bbox": "ENVELOPE(-96.4982,-95.6693,42.5622,42.2099)",
   "dcat_centroid": "42.38605,-96.08375000000001",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_2549\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_2549\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_2549~JP2~~default/info.json\"}",
   "id": "6cdafdad-344b-428d-a1b3-b7fc6a0b8e78",
   "dct_identifier_sm": [
     "6cdafdad-344b-428d-a1b3-b7fc6a0b8e78"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:44Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

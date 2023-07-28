@@ -31,10 +31,10 @@
     "[1930 TO 1930]"
   ],
   "dct_spatial_sm": [
-    "Kossuth County, Iowa",
+    "Iowa--Kossuth County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-94.4456,-93.9691,43.5044,42.9066)",
+  "locn_geometry": "POLYGON((-94.4456 43.5044, -93.9691 43.5044, -93.9691 42.9066, -94.4456 42.9066, -94.4456 43.5044))",
   "dcat_bbox": "ENVELOPE(-94.4456,-93.9691,43.5044,42.9066)",
   "dcat_centroid": "43.2055,-94.20734999999999",
   "pcdm_memberOf_sm": [
@@ -45,11 +45,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_977\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:hixson_977\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:hixson_977~JP2~~default/info.json\"}",
   "id": "f13204e7-96a5-49b5-a167-846275e3d947",
   "dct_identifier_sm": [
     "f13204e7-96a5-49b5-a167-846275e3d947"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:57Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:30Z",
   "gbl_mdVersion_s": "Aardvark"
 }

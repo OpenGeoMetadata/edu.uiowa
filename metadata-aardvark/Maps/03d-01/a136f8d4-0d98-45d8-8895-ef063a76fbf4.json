@@ -32,10 +32,10 @@
     "[1920 TO 1920]"
   ],
   "dct_spatial_sm": [
-    "Page County, Iowa",
+    "Iowa--Page County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-95.3852,-94.9164,40.9023,40.5748)",
+  "locn_geometry": "POLYGON((-95.3852 40.9023, -94.9164 40.9023, -94.9164 40.5748, -95.3852 40.5748, -95.3852 40.9023))",
   "dcat_bbox": "ENVELOPE(-95.3852,-94.9164,40.9023,40.5748)",
   "dcat_centroid": "40.738550000000004,-95.1508",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6110\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6110\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_6110~JP2~~default/info.json\"}",
   "id": "a136f8d4-0d98-45d8-8895-ef063a76fbf4",
   "dct_identifier_sm": [
     "a136f8d4-0d98-45d8-8895-ef063a76fbf4"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:30Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:55Z",
   "gbl_mdVersion_s": "Aardvark"
 }

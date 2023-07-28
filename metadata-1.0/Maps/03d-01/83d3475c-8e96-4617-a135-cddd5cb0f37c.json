@@ -9,12 +9,12 @@
   "solr_year_i": "1942",
   "dc_description_s": "C.C. Fritcher's 1934 plat book of Buena Vista County, Iowa, containing a map of the county and township maps showing land ownership; 1 atlas: 40 l.; 21 X 28 cm. No known copyright restrictions. University of Iowa. Libraries. Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4200\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4200\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4200~JP2~~default/info.json\"}",
   "dct_spatial_sm": [
-    "Buena Vista County, Iowa",
+    "Iowa--Buena Vista County",
     "Iowa"
   ],
-  "layer_modified_dt": "2022-04-01T15:31:06Z",
+  "layer_modified_dt": "2023-06-16T20:40:49Z",
   "dc_language_sm": [
     "eng"
   ],

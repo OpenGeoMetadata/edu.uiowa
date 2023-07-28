@@ -32,10 +32,10 @@
     "[1942 TO 1942]"
   ],
   "dct_spatial_sm": [
-    "Buena Vista County, Iowa",
+    "Iowa--Buena Vista County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-95.3889,-94.9152,42.9096,42.5602)",
+  "locn_geometry": "POLYGON((-95.3889 42.9096, -94.9152 42.9096, -94.9152 42.5602, -95.3889 42.5602, -95.3889 42.9096))",
   "dcat_bbox": "ENVELOPE(-95.3889,-94.9152,42.9096,42.5602)",
   "dcat_centroid": "42.734899999999996,-95.15205",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4200\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4200\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4200~JP2~~default/info.json\"}",
   "id": "83d3475c-8e96-4617-a135-cddd5cb0f37c",
   "dct_identifier_sm": [
     "83d3475c-8e96-4617-a135-cddd5cb0f37c"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:06Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

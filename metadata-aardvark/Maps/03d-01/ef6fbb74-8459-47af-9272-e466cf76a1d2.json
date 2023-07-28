@@ -32,10 +32,10 @@
     "[1884 TO 1884]"
   ],
   "dct_spatial_sm": [
-    "Harrison County, Iowa",
+    "Iowa--Harrison County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-96.1365,-95.4968,41.8657,41.5051)",
+  "locn_geometry": "POLYGON((-96.1365 41.8657, -95.4968 41.8657, -95.4968 41.5051, -96.1365 41.5051, -96.1365 41.8657))",
   "dcat_bbox": "ENVELOPE(-96.1365,-95.4968,41.8657,41.5051)",
   "dcat_centroid": "41.6854,-95.81665",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6299\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6299\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_6299~JP2~~default/info.json\"}",
   "id": "ef6fbb74-8459-47af-9272-e466cf76a1d2",
   "dct_identifier_sm": [
     "ef6fbb74-8459-47af-9272-e466cf76a1d2"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:16Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:56Z",
   "gbl_mdVersion_s": "Aardvark"
 }

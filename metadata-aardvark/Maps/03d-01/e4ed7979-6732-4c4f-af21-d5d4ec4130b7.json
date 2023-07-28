@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Geo. A. Ogle & Co.",
+    "Geo. A. Ogle & Company",
     "State Historical Society of Iowa (Iowa City)"
   ],
   "dct_publisher_sm": [
@@ -23,7 +23,8 @@
   "dcat_keyword_sm": [
     "Real property",
     "Land ownership",
-    "Iowa Counties Historic Atlases"
+    "Iowa Counties Historic Atlases",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1905"
@@ -36,10 +37,10 @@
     "[1905 TO 1905]"
   ],
   "dct_spatial_sm": [
-    "Adams County, Iowa",
+    "Iowa--Adams County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-94.9308,-94.4722,41.1578,40.8989)",
+  "locn_geometry": "POLYGON((-94.9308 41.1578, -94.4722 41.1578, -94.4722 40.8989, -94.9308 40.8989, -94.9308 41.1578))",
   "dcat_bbox": "ENVELOPE(-94.9308,-94.4722,41.1578,40.8989)",
   "dcat_centroid": "41.02835,-94.70150000000001",
   "pcdm_memberOf_sm": [
@@ -50,11 +51,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4414\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4414\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4414~JP2~~default/info.json\"}",
   "id": "e4ed7979-6732-4c4f-af21-d5d4ec4130b7",
   "dct_identifier_sm": [
     "e4ed7979-6732-4c4f-af21-d5d4ec4130b7"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:36Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:50Z",
   "gbl_mdVersion_s": "Aardvark"
 }

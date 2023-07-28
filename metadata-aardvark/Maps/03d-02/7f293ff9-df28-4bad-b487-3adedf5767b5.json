@@ -31,10 +31,10 @@
     "[1930 TO 1930]"
   ],
   "dct_spatial_sm": [
-    "Monroe County, Iowa",
+    "Iowa--Monroe County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-93.0999,-92.6395,41.1597,40.8979)",
+  "locn_geometry": "POLYGON((-93.0999 41.1597, -92.6395 41.1597, -92.6395 40.8979, -93.0999 40.8979, -93.0999 41.1597))",
   "dcat_bbox": "ENVELOPE(-93.0999,-92.6395,41.1597,40.8979)",
   "dcat_centroid": "41.028800000000004,-92.8697",
   "pcdm_memberOf_sm": [
@@ -45,11 +45,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1252\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:hixson_1252\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:hixson_1252~JP2~~default/info.json\"}",
   "id": "7f293ff9-df28-4bad-b487-3adedf5767b5",
   "dct_identifier_sm": [
     "7f293ff9-df28-4bad-b487-3adedf5767b5"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:30Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:25Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -32,10 +32,10 @@
     "[1915 TO 1915]"
   ],
   "dct_spatial_sm": [
-    "Ringgold County, Iowa",
+    "Iowa--Ringgold County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-94.4727,-94.0151,40.8991,40.5703)",
+  "locn_geometry": "POLYGON((-94.4727 40.8991, -94.0151 40.8991, -94.0151 40.5703, -94.4727 40.5703, -94.4727 40.8991))",
   "dcat_bbox": "ENVELOPE(-94.4727,-94.0151,40.8991,40.5703)",
   "dcat_centroid": "40.734700000000004,-94.2439",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_9043\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_9043\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_9043~JP2~~default/info.json\"}",
   "id": "19cd88cc-733e-4b3d-8e2c-b6de864f6bbf",
   "dct_identifier_sm": [
     "19cd88cc-733e-4b3d-8e2c-b6de864f6bbf"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:15Z",
+  "gbl_mdModified_dt": "2023-06-16T20:41:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -9,12 +9,12 @@
   "solr_year_i": "1914",
   "dc_description_s": "(The Kenyon Company, 1914, Plat Book and Complete Survey of Polk County, Iowa); 1 atlas: b&w.; 36 X 44 cm. Material in the public domain. No restrictions on use. State Historical Society of Iowa (Iowa City)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_8707\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_8707\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_8707~JP2~~default/info.json\"}",
   "dct_spatial_sm": [
-    "Polk County, Iowa",
+    "Iowa--Polk County",
     "Iowa"
   ],
-  "layer_modified_dt": "2022-04-01T15:28:20Z",
+  "layer_modified_dt": "2023-06-16T20:41:04Z",
   "dc_language_sm": [
     "eng"
   ],

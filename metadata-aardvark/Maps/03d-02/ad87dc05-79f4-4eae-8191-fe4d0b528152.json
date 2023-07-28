@@ -31,10 +31,10 @@
     "[1930 TO 1930]"
   ],
   "dct_spatial_sm": [
-    "Scott County, Iowa",
+    "Iowa--Scott County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-90.901,-90.3163,41.7744,41.4495)",
+  "locn_geometry": "POLYGON((-90.901 41.7744, -90.3163 41.7744, -90.3163 41.4495, -90.901 41.4495, -90.901 41.7744))",
   "dcat_bbox": "ENVELOPE(-90.901,-90.3163,41.7744,41.4495)",
   "dcat_centroid": "41.61195,-90.60865",
   "pcdm_memberOf_sm": [
@@ -45,11 +45,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1555\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:hixson_1555\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:hixson_1555~JP2~~default/info.json\"}",
   "id": "ad87dc05-79f4-4eae-8191-fe4d0b528152",
   "dct_identifier_sm": [
     "ad87dc05-79f4-4eae-8191-fe4d0b528152"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:29Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:26Z",
   "gbl_mdVersion_s": "Aardvark"
 }

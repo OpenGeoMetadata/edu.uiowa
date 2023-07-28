@@ -32,10 +32,10 @@
     "[1911 TO 1911]"
   ],
   "dct_spatial_sm": [
-    "O'Brien County, Iowa",
+    "Iowa--O'Brien County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-95.8626,-95.3877,43.2595,42.909)",
+  "locn_geometry": "POLYGON((-95.8626 43.2595, -95.3877 43.2595, -95.3877 42.909, -95.8626 42.909, -95.8626 43.2595))",
   "dcat_bbox": "ENVELOPE(-95.8626,-95.3877,43.2595,42.909)",
   "dcat_centroid": "43.08425,-95.62514999999999",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1425\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1425\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_1425~JP2~~default/info.json\"}",
   "id": "f74af2eb-3aa7-4756-8c5f-21805d5aaca7",
   "dct_identifier_sm": [
     "f74af2eb-3aa7-4756-8c5f-21805d5aaca7"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:16Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

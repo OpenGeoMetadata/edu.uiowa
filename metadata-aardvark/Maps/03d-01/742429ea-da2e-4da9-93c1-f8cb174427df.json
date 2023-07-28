@@ -32,10 +32,10 @@
     "[1921 TO 1921]"
   ],
   "dct_spatial_sm": [
-    "Mills County, Iowa",
+    "Iowa--Mills County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-95.8823,-95.3836,41.1596,40.9003)",
+  "locn_geometry": "POLYGON((-95.8823 41.1596, -95.3836 41.1596, -95.3836 40.9003, -95.8823 40.9003, -95.8823 41.1596))",
   "dcat_bbox": "ENVELOPE(-95.8823,-95.3836,41.1596,40.9003)",
   "dcat_centroid": "41.02995,-95.63295",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6411\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6411\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_6411~JP2~~default/info.json\"}",
   "id": "742429ea-da2e-4da9-93c1-f8cb174427df",
   "dct_identifier_sm": [
     "742429ea-da2e-4da9-93c1-f8cb174427df"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:40Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:57Z",
   "gbl_mdVersion_s": "Aardvark"
 }

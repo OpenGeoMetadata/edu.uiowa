@@ -31,10 +31,10 @@
     "[1930 TO 1930]"
   ],
   "dct_spatial_sm": [
-    "Story County, Iowa",
+    "Iowa--Story County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-93.7009,-93.2317,42.2085,41.8622)",
+  "locn_geometry": "POLYGON((-93.7009 42.2085, -93.2317 42.2085, -93.2317 41.8622, -93.7009 41.8622, -93.7009 42.2085))",
   "dcat_bbox": "ENVELOPE(-93.7009,-93.2317,42.2085,41.8622)",
   "dcat_centroid": "42.03535,-93.4663",
   "pcdm_memberOf_sm": [
@@ -45,11 +45,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1617\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:hixson_1617\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:hixson_1617~JP2~~default/info.json\"}",
   "id": "fe392976-4900-4ef0-bcd8-5ebaa2991edb",
   "dct_identifier_sm": [
     "fe392976-4900-4ef0-bcd8-5ebaa2991edb"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:45Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:27Z",
   "gbl_mdVersion_s": "Aardvark"
 }

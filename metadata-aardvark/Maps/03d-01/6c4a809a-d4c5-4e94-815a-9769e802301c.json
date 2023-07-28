@@ -32,10 +32,10 @@
     "[1908 TO 1908]"
   ],
   "dct_spatial_sm": [
-    "Crawford County, Iowa",
+    "Iowa--Crawford County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-95.6735,-95.0913,42.2099,41.8619)",
+  "locn_geometry": "POLYGON((-95.6735 42.2099, -95.0913 42.2099, -95.0913 41.8619, -95.6735 41.8619, -95.6735 42.2099))",
   "dcat_bbox": "ENVELOPE(-95.6735,-95.0913,42.2099,41.8619)",
   "dcat_centroid": "42.0359,-95.3824",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_5241\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_5241\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_5241~JP2~~default/info.json\"}",
   "id": "6c4a809a-d4c5-4e94-815a-9769e802301c",
   "dct_identifier_sm": [
     "6c4a809a-d4c5-4e94-815a-9769e802301c"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:35Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:52Z",
   "gbl_mdVersion_s": "Aardvark"
 }

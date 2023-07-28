@@ -32,10 +32,10 @@
     "[1908 TO 1908]"
   ],
   "dct_spatial_sm": [
-    "Franklin County, Iowa",
+    "Iowa--Franklin County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-93.5002,-93.026,42.9075,42.5561)",
+  "locn_geometry": "POLYGON((-93.5002 42.9075, -93.026 42.9075, -93.026 42.5561, -93.5002 42.5561, -93.5002 42.9075))",
   "dcat_bbox": "ENVELOPE(-93.5002,-93.026,42.9075,42.5561)",
   "dcat_centroid": "42.7318,-93.26310000000001",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4340\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4340\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4340~JP2~~default/info.json\"}",
   "id": "dc74ba73-69be-4273-85eb-b5df130bdc15",
   "dct_identifier_sm": [
     "dc74ba73-69be-4273-85eb-b5df130bdc15"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:12Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:50Z",
   "gbl_mdVersion_s": "Aardvark"
 }

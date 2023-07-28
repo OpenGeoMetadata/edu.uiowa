@@ -31,10 +31,10 @@
     "[1930 TO 1930]"
   ],
   "dct_spatial_sm": [
-    "Cherokee County, Iowa",
+    "Iowa--Cherokee County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-95.86,-95.3875,42.9094,42.5602)",
+  "locn_geometry": "POLYGON((-95.86 42.9094, -95.3875 42.9094, -95.3875 42.5602, -95.86 42.5602, -95.86 42.9094))",
   "dcat_bbox": "ENVELOPE(-95.86,-95.3875,42.9094,42.5602)",
   "dcat_centroid": "42.7348,-95.62375",
   "pcdm_memberOf_sm": [
@@ -45,11 +45,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_316\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:hixson_316\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:hixson_316~JP2~~default/info.json\"}",
   "id": "e297be89-4d14-4fc8-9c8b-65910511baa3",
   "dct_identifier_sm": [
     "e297be89-4d14-4fc8-9c8b-65910511baa3"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:00Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:28Z",
   "gbl_mdVersion_s": "Aardvark"
 }

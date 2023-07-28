@@ -9,12 +9,12 @@
   "solr_year_i": "1934",
   "dc_description_s": "(K. & S . Land Plats, O'Brien County Bell; 1934; Atlas and Township Plats of O'Brien County, Iowa); 1 atlas.: b&w.; 28 X 35 cm. No known copyright restrictions. State Historical Society of Iowa (Iowa City)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_13550\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_13550\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_13550~JP2~~default/info.json\"}",
   "dct_spatial_sm": [
-    "O'Brien County, Iowa",
+    "Iowa--O'Brien County",
     "Iowa"
   ],
-  "layer_modified_dt": "2022-04-01T15:24:17Z",
+  "layer_modified_dt": "2023-06-16T20:40:36Z",
   "dc_language_sm": [
     "eng"
   ],

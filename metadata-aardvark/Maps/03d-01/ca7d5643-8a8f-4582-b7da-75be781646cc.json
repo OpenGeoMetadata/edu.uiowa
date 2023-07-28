@@ -1,5 +1,8 @@
 {
   "dct_title_s": "East part of Mason City",
+  "dct_language_sm": [
+    "eng"
+  ],
   "dct_publisher_sm": [
     "North West Publishing Co."
   ],
@@ -11,6 +14,7 @@
     "Atlases"
   ],
   "dcat_keyword_sm": [
+    "2022-07-26-language",
     "Iowa Counties Historic Atlases"
   ],
   "dct_temporal_sm": [
@@ -24,10 +28,10 @@
     "[1895 TO 1895]"
   ],
   "dct_spatial_sm": [
-    "Cerro Gordo County, Iowa",
+    "Iowa--Cerro Gordo County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-93.499,-93.0241,43.2576,42.9071)",
+  "locn_geometry": "POLYGON((-93.499 43.2576, -93.0241 43.2576, -93.0241 42.9071, -93.499 42.9071, -93.499 43.2576))",
   "dcat_bbox": "ENVELOPE(-93.499,-93.0241,43.2576,42.9071)",
   "dcat_centroid": "43.08235,-93.26155",
   "pcdm_memberOf_sm": [
@@ -38,11 +42,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_634\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_634\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_634~JP2~~default/info.json\"}",
   "id": "ca7d5643-8a8f-4582-b7da-75be781646cc",
   "dct_identifier_sm": [
     "ca7d5643-8a8f-4582-b7da-75be781646cc"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:35Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:56Z",
   "gbl_mdVersion_s": "Aardvark"
 }

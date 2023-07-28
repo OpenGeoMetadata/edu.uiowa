@@ -32,10 +32,10 @@
     "[1937 TO 1937]"
   ],
   "dct_spatial_sm": [
-    "Worth County, Iowa",
+    "Iowa--Worth County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-93.972,-93.499,42.9082,42.5565)",
+  "locn_geometry": "POLYGON((-93.972 42.9082, -93.499 42.9082, -93.499 42.5565, -93.972 42.5565, -93.972 42.9082))",
   "dcat_bbox": "ENVELOPE(-93.972,-93.499,42.9082,42.5565)",
   "dcat_centroid": "42.73235,-93.7355",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4233\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4233\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4233~JP2~~default/info.json\"}",
   "id": "168a774a-1e62-467f-9268-08961128e8b5",
   "dct_identifier_sm": [
     "168a774a-1e62-467f-9268-08961128e8b5"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:37Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

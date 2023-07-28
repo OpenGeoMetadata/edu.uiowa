@@ -27,10 +27,10 @@
     "[1918 TO 1918]"
   ],
   "dct_spatial_sm": [
-    "Emmet County, Iowa",
+    "Iowa--Emmet County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-94.9139,-94.4412,43.504,43.2556)",
+  "locn_geometry": "POLYGON((-94.9139 43.504, -94.4412 43.504, -94.4412 43.2556, -94.9139 43.2556, -94.9139 43.504))",
   "dcat_bbox": "ENVELOPE(-94.9139,-94.4412,43.504,43.2556)",
   "dcat_centroid": "43.3798,-94.67755",
   "pcdm_memberOf_sm": [
@@ -41,11 +41,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_651\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_651\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_651~JP2~~default/info.json\"}",
   "id": "664186c3-fa9d-4e68-b492-c0d87d40d157",
   "dct_identifier_sm": [
     "664186c3-fa9d-4e68-b492-c0d87d40d157"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:55Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:57Z",
   "gbl_mdVersion_s": "Aardvark"
 }

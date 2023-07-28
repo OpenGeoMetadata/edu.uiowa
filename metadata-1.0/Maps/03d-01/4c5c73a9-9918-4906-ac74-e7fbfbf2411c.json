@@ -9,12 +9,12 @@
   "solr_year_i": "1938",
   "dc_description_s": "(Wood Atlas Co., 1938, New Atlas of Linn County, Iowa); 1 atlas.: b&w.; 35.5 X 38 cm No known copyright restrictions. State Historical Society of Iowa (Iowa City)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_13419\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_13419\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_13419~JP2~~default/info.json\"}",
   "dct_spatial_sm": [
-    "Linn County, Iowa",
+    "Iowa--Linn County",
     "Iowa"
   ],
-  "layer_modified_dt": "2022-04-01T15:23:59Z",
+  "layer_modified_dt": "2023-06-16T20:40:36Z",
   "dc_language_sm": [
     "eng"
   ],

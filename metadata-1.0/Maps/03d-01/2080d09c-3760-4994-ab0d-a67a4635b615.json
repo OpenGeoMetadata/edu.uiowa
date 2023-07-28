@@ -8,12 +8,12 @@
   "solr_geom": "ENVELOPE(-91.8337,-91.3671,41.862,41.4222)",
   "solr_year_i": "1900",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_301\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_301\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_301~JP2~~default/info.json\"}",
   "dct_spatial_sm": [
-    "Johnson County, Iowa",
+    "Iowa--Johnson County",
     "Iowa"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:03Z",
+  "layer_modified_dt": "2023-06-16T20:40:42Z",
   "dc_language_sm": [
     "eng"
   ],

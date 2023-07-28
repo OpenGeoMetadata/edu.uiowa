@@ -27,10 +27,10 @@
     "[1921 TO 1921]"
   ],
   "dct_spatial_sm": [
-    "Shelby County, Iowa",
+    "Iowa--Shelby County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-95.5585,-95.0418,41.8626,41.5037)",
+  "locn_geometry": "POLYGON((-95.5585 41.8626, -95.0418 41.8626, -95.0418 41.5037, -95.5585 41.5037, -95.5585 41.8626))",
   "dcat_bbox": "ENVELOPE(-95.5585,-95.0418,41.8626,41.5037)",
   "dcat_centroid": "41.68315,-95.30015",
   "pcdm_memberOf_sm": [
@@ -41,11 +41,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_780\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_780\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_780~JP2~~default/info.json\"}",
   "id": "860a3fbe-e765-4f22-ac23-dc16bf2c6301",
   "dct_identifier_sm": [
     "860a3fbe-e765-4f22-ac23-dc16bf2c6301"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:46Z",
+  "gbl_mdModified_dt": "2023-06-16T20:41:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

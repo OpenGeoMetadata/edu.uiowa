@@ -1,5 +1,8 @@
 {
   "dct_title_s": "Farley",
+  "dct_language_sm": [
+    "eng"
+  ],
   "dct_publisher_sm": [
     "North West Publishing Co."
   ],
@@ -11,6 +14,7 @@
     "Atlases"
   ],
   "dcat_keyword_sm": [
+    "2022-07-26-language",
     "Iowa Counties Historic Atlases"
   ],
   "dct_temporal_sm": [
@@ -24,10 +28,10 @@
     "[1892 TO 1892]"
   ],
   "dct_spatial_sm": [
-    "Dubuque County, Iowa",
+    "Iowa--Dubuque County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-91.1334,-90.4746,42.6753,42.2933)",
+  "locn_geometry": "POLYGON((-91.1334 42.6753, -90.4746 42.6753, -90.4746 42.2933, -91.1334 42.2933, -91.1334 42.6753))",
   "dcat_bbox": "ENVELOPE(-91.1334,-90.4746,42.6753,42.2933)",
   "dcat_centroid": "42.484300000000005,-90.804",
   "pcdm_memberOf_sm": [
@@ -38,11 +42,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_706\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_706\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_706~JP2~~default/info.json\"}",
   "id": "9c09cf37-4f31-4f89-9e9e-beb12d937847",
   "dct_identifier_sm": [
     "9c09cf37-4f31-4f89-9e9e-beb12d937847"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:19Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

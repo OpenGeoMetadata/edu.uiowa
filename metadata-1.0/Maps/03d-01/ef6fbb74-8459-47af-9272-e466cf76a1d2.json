@@ -9,12 +9,12 @@
   "solr_year_i": "1884",
   "dc_description_s": "C.R. Allen & Co.'s 1884 Illustrated Atlas of Harrison County; 1 atlas: b&w.: 42 X 34 cm. Material in the public domain. No restrictions on use. State Historical Society of Iowa (Iowa City)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6299\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6299\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_6299~JP2~~default/info.json\"}",
   "dct_spatial_sm": [
-    "Harrison County, Iowa",
+    "Iowa--Harrison County",
     "Iowa"
   ],
-  "layer_modified_dt": "2022-04-01T15:27:16Z",
+  "layer_modified_dt": "2023-06-16T20:40:56Z",
   "dc_language_sm": [
     "eng"
   ],

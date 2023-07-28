@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Real property",
     "Land ownership",
-    "Iowa Counties Historic Atlases"
+    "Iowa Counties Historic Atlases",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1928"
@@ -35,10 +36,10 @@
     "[1928 TO 1928]"
   ],
   "dct_spatial_sm": [
-    "Sioux County, Iowa",
+    "Iowa--Sioux County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-96.5659,-95.8573,43.2615,42.909)",
+  "locn_geometry": "POLYGON((-96.5659 43.2615, -95.8573 43.2615, -95.8573 42.909, -96.5659 42.909, -96.5659 43.2615))",
   "dcat_bbox": "ENVELOPE(-96.5659,-95.8573,43.2615,42.909)",
   "dcat_centroid": "43.08525,-96.2116",
   "pcdm_memberOf_sm": [
@@ -49,11 +50,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_13684\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_13684\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_13684~JP2~~default/info.json\"}",
   "id": "f25ba543-0358-45f3-b422-591122603299",
   "dct_identifier_sm": [
     "f25ba543-0358-45f3-b422-591122603299"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:46Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

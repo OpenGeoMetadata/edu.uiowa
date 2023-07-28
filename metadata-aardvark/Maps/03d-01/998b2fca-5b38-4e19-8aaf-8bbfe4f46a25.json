@@ -32,10 +32,10 @@
     "[1911 TO 1911]"
   ],
   "dct_spatial_sm": [
-    "Mitchell County, Iowa",
+    "Iowa--Mitchell County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-93.0245,-92.553,43.5035,43.2123)",
+  "locn_geometry": "POLYGON((-93.0245 43.5035, -92.553 43.5035, -92.553 43.2123, -93.0245 43.2123, -93.0245 43.5035))",
   "dcat_bbox": "ENVELOPE(-93.0245,-92.553,43.5035,43.2123)",
   "dcat_centroid": "43.3579,-92.78875",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_3794\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_3794\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_3794~JP2~~default/info.json\"}",
   "id": "998b2fca-5b38-4e19-8aaf-8bbfe4f46a25",
   "dct_identifier_sm": [
     "998b2fca-5b38-4e19-8aaf-8bbfe4f46a25"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:01Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:46Z",
   "gbl_mdVersion_s": "Aardvark"
 }

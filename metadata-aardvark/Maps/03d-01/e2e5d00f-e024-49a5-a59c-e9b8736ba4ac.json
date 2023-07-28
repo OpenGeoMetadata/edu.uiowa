@@ -32,10 +32,10 @@
     "[1917 TO 1917]"
   ],
   "dct_spatial_sm": [
-    "Louisa County, Iowa",
+    "Iowa--Louisa County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-91.487,-90.9473,41.4235,41.0718)",
+  "locn_geometry": "POLYGON((-91.487 41.4235, -90.9473 41.4235, -90.9473 41.0718, -91.487 41.0718, -91.487 41.4235))",
   "dcat_bbox": "ENVELOPE(-91.487,-90.9473,41.4235,41.0718)",
   "dcat_centroid": "41.24765,-91.21715",
   "pcdm_memberOf_sm": [
@@ -46,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_12929\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_12929\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_12929~JP2~~default/info.json\"}",
   "id": "e2e5d00f-e024-49a5-a59c-e9b8736ba4ac",
   "dct_identifier_sm": [
     "e2e5d00f-e024-49a5-a59c-e9b8736ba4ac"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:44Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

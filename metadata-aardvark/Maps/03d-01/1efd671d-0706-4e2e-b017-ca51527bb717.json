@@ -27,10 +27,10 @@
     "[1922 TO 1922]"
   ],
   "dct_spatial_sm": [
-    "Wapello County, Iowa",
+    "Iowa--Wapello County",
     "Iowa"
   ],
-  "locn_geometry": "ENVELOPE(-92.6441,-92.1798,41.1617,40.8979)",
+  "locn_geometry": "POLYGON((-92.6441 41.1617, -92.1798 41.1617, -92.1798 40.8979, -92.6441 40.8979, -92.6441 41.1617))",
   "dcat_bbox": "ENVELOPE(-92.6441,-92.1798,41.1617,40.8979)",
   "dcat_centroid": "41.0298,-92.41194999999999",
   "pcdm_memberOf_sm": [
@@ -41,11 +41,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_344\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_344\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_344~JP2~~default/info.json\"}",
   "id": "1efd671d-0706-4e2e-b017-ca51527bb717",
   "dct_identifier_sm": [
     "1efd671d-0706-4e2e-b017-ca51527bb717"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:30Z",
+  "gbl_mdModified_dt": "2023-06-16T20:40:44Z",
   "gbl_mdVersion_s": "Aardvark"
 }
