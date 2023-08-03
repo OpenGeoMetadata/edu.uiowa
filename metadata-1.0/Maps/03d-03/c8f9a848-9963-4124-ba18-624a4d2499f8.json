@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "c8f9a848-9963-4124-ba18-624a4d2499f8",
+  "dc_identifier_s": "c8f9a848-9963-4124-ba18-624a4d2499f8|IA-T098N-R008W",
   "dc_rights_s": "Public",
   "dc_title_s": "General Land Office Township Plat: Winneshiek County, Iowa; 98N 8W",
   "dct_provenance_s": "University of Iowa",
@@ -12,13 +12,12 @@
   "dc_subject_sm": [
     "Surveying--Public lands"
   ],
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_379\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:glo_379~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_379\"}",
   "dct_spatial_sm": [
-    "Winneshiek County, Iowa",
-    "Iowa"
+    "Iowa",
+    "T098N-R008W"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-15T14:26:16Z",
+  "layer_modified_dt": "2023-08-03T20:11:46Z",
   "dc_language_sm": [
     "eng"
   ],

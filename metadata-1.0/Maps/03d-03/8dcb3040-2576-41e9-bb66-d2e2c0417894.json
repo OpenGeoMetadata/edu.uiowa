@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "8dcb3040-2576-41e9-bb66-d2e2c0417894",
+  "dc_identifier_s": "8dcb3040-2576-41e9-bb66-d2e2c0417894|IA-T074N-R013W",
   "dc_rights_s": "Public",
   "dc_title_s": "General Land Office Township Plat: Keokuk County, Iowa; 74N 13W",
   "dct_provenance_s": "University of Iowa",
@@ -12,13 +12,12 @@
   "dc_subject_sm": [
     "Surveying--Public lands"
   ],
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_542\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:glo_542~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_542\"}",
   "dct_spatial_sm": [
-    "Keokuk County, Iowa",
-    "Iowa"
+    "Iowa",
+    "T074N-R013W"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-15T14:25:48Z",
+  "layer_modified_dt": "2023-08-03T20:10:20Z",
   "dc_language_sm": [
     "eng"
   ],

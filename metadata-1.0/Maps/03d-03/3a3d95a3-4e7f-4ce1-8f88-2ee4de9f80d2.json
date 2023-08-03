@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "3a3d95a3-4e7f-4ce1-8f88-2ee4de9f80d2",
+  "dc_identifier_s": "3a3d95a3-4e7f-4ce1-8f88-2ee4de9f80d2|IA-T075N-R030W",
   "dc_rights_s": "Public",
   "dc_title_s": "General Land Office Township Plat: Adair County, Iowa; 75N 30W",
   "dct_provenance_s": "University of Iowa",
@@ -12,13 +12,12 @@
   "dc_subject_sm": [
     "Surveying--Public lands"
   ],
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_1164\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:glo_1164~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_1164\"}",
   "dct_spatial_sm": [
-    "Adair County, Iowa",
-    "Iowa"
+    "Iowa",
+    "T075N-R030W"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-15T14:25:12Z",
+  "layer_modified_dt": "2023-08-03T20:08:07Z",
   "dc_language_sm": [
     "eng"
   ],

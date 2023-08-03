@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "f911f7ff-7449-44f1-ab95-7bf2fcbb3283",
+  "dc_identifier_s": "f911f7ff-7449-44f1-ab95-7bf2fcbb3283|IA-T088N-R033W",
   "dc_rights_s": "Public",
   "dc_title_s": "General Land Office Township Plat: Calhoun County, Iowa; 88N 33W",
   "dct_provenance_s": "University of Iowa",
@@ -12,13 +12,12 @@
   "dc_subject_sm": [
     "Surveying--Public lands"
   ],
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_1287\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:glo_1287~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_1287\"}",
   "dct_spatial_sm": [
-    "Calhoun County, Iowa",
-    "Iowa"
+    "Iowa",
+    "T088N-R033W"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-15T14:25:21Z",
+  "layer_modified_dt": "2023-08-03T20:08:43Z",
   "dc_language_sm": [
     "eng"
   ],

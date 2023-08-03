@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "7be0288e-f3fc-4d19-af65-07f3cab9bdae",
+  "dc_identifier_s": "7be0288e-f3fc-4d19-af65-07f3cab9bdae|IA-T085N-R003W",
   "dc_rights_s": "Public",
   "dc_title_s": "General Land Office Township Plat: Jones County, Iowa; 85N 3W",
   "dct_provenance_s": "University of Iowa",
@@ -12,13 +12,12 @@
   "dc_subject_sm": [
     "Surveying--Public lands"
   ],
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_183\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:glo_183~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_183\"}",
   "dct_spatial_sm": [
-    "Jones County, Iowa",
-    "Iowa"
+    "Iowa",
+    "T085N-R003W"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-15T14:25:47Z",
+  "layer_modified_dt": "2023-08-03T20:10:19Z",
   "dc_language_sm": [
     "eng"
   ],

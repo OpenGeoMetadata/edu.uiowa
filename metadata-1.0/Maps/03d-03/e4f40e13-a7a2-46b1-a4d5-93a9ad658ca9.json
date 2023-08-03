@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "e4f40e13-a7a2-46b1-a4d5-93a9ad658ca9",
+  "dc_identifier_s": "e4f40e13-a7a2-46b1-a4d5-93a9ad658ca9|IA-T095N-R034W",
   "dc_rights_s": "Public",
   "dc_title_s": "General Land Office Township Plat: Palo Alto County, Iowa; 95N 34W",
   "dct_provenance_s": "University of Iowa",
@@ -12,13 +12,12 @@
   "dc_subject_sm": [
     "Surveying--Public lands"
   ],
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_1329\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:glo_1329~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_1329\"}",
   "dct_spatial_sm": [
-    "Palo Alto County, Iowa",
-    "Iowa"
+    "Iowa",
+    "T095N-R034W"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-15T14:25:59Z",
+  "layer_modified_dt": "2023-08-03T20:12:16Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "bd3ef28e-a006-4d15-a35c-f496a7f0b9e8",
+  "dc_identifier_s": "bd3ef28e-a006-4d15-a35c-f496a7f0b9e8|IA-T086N-R004E",
   "dc_rights_s": "Public",
   "dc_title_s": "General Land Office Township Plat: Jackson County, Iowa; 86N 4E",
   "dct_provenance_s": "University of Iowa",
@@ -12,13 +12,12 @@
   "dc_subject_sm": [
     "Surveying--Public lands"
   ],
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_71\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:glo_71~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_71\"}",
   "dct_spatial_sm": [
-    "Jackson County, Iowa",
-    "Iowa"
+    "Iowa",
+    "T086N-R004E"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-15T14:25:45Z",
+  "layer_modified_dt": "2023-08-03T20:10:11Z",
   "dc_language_sm": [
     "eng"
   ],

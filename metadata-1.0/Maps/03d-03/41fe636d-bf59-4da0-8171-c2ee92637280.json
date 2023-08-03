@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "41fe636d-bf59-4da0-8171-c2ee92637280",
+  "dc_identifier_s": "41fe636d-bf59-4da0-8171-c2ee92637280|IA-T098N-R022W",
   "dc_rights_s": "Public",
   "dc_title_s": "General Land Office Township Plat: Worth County, Iowa; 98N 22W",
   "dct_provenance_s": "University of Iowa",
@@ -12,13 +12,12 @@
   "dc_subject_sm": [
     "Surveying--Public lands"
   ],
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_901\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:glo_901~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_901\"}",
   "dct_spatial_sm": [
-    "Worth County, Iowa",
-    "Iowa"
+    "Iowa",
+    "T098N-R022W"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-15T14:26:18Z",
+  "layer_modified_dt": "2023-08-03T20:11:56Z",
   "dc_language_sm": [
     "eng"
   ],

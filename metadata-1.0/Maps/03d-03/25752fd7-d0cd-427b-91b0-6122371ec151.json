@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "25752fd7-d0cd-427b-91b0-6122371ec151",
+  "dc_identifier_s": "25752fd7-d0cd-427b-91b0-6122371ec151|IA-T091N-R002E",
   "dc_rights_s": "Public",
   "dc_title_s": "General Land Office Township Plat: Dubuque County, Iowa; 91N 2E",
   "dct_provenance_s": "University of Iowa",
@@ -12,13 +12,12 @@
   "dc_subject_sm": [
     "Surveying--Public lands"
   ],
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_44\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:glo_44~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_44\"}",
   "dct_spatial_sm": [
-    "Dubuque County, Iowa",
-    "Iowa"
+    "Iowa",
+    "T091N-R002E"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-15T14:25:33Z",
+  "layer_modified_dt": "2023-08-03T20:09:34Z",
   "dc_language_sm": [
     "eng"
   ],

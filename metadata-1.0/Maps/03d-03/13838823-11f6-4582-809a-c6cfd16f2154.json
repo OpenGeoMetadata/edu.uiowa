@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "13838823-11f6-4582-809a-c6cfd16f2154",
+  "dc_identifier_s": "13838823-11f6-4582-809a-c6cfd16f2154|IA-T100N-R037W",
   "dc_rights_s": "Public",
   "dc_title_s": "General Land Office Township Plat: Dickinson County, Iowa; 100N 37W",
   "dct_provenance_s": "University of Iowa",
@@ -12,13 +12,12 @@
   "dc_subject_sm": [
     "Surveying--Public lands"
   ],
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_1440\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:glo_1440~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_1440\"}",
   "dct_spatial_sm": [
-    "Dickinson County, Iowa",
-    "Iowa"
+    "Iowa",
+    "T100N-R037W"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-15T14:25:32Z",
+  "layer_modified_dt": "2023-08-03T20:09:30Z",
   "dc_language_sm": [
     "eng"
   ],

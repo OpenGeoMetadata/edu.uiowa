@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "b568f7ac-30bf-4f61-a777-39d109eed358",
+  "dc_identifier_s": "b568f7ac-30bf-4f61-a777-39d109eed358|IA-T071N-R026W",
   "dc_rights_s": "Public",
   "dc_title_s": "General Land Office Township Plat: Clarke County, Iowa; 71N 26W",
   "dct_provenance_s": "University of Iowa",
@@ -12,13 +12,12 @@
   "dc_subject_sm": [
     "Surveying--Public lands"
   ],
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_1014\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:glo_1014~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_1014\"}",
   "dct_spatial_sm": [
-    "Clarke County, Iowa",
-    "Iowa"
+    "Iowa",
+    "T071N-R026W"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-15T14:25:25Z",
+  "layer_modified_dt": "2023-08-03T20:09:00Z",
   "dc_language_sm": [
     "eng"
   ],

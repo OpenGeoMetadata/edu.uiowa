@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "3a3a2023-5d23-4ec1-9774-5b6df03456b4",
+  "dc_identifier_s": "3a3a2023-5d23-4ec1-9774-5b6df03456b4|IA-T096N-R003W",
   "dc_rights_s": "Public",
   "dc_title_s": "General Land Office Township Plat: Allamakee County, Iowa; 96N 3W",
   "dct_provenance_s": "University of Iowa",
@@ -12,13 +12,12 @@
   "dc_subject_sm": [
     "Surveying--Public lands"
   ],
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_196\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:glo_196~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_196\"}",
   "dct_spatial_sm": [
-    "Allamakee County, Iowa",
-    "Iowa"
+    "Iowa",
+    "T096N-R003W"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-15T14:25:13Z",
+  "layer_modified_dt": "2023-08-03T20:08:14Z",
   "dc_language_sm": [
     "eng"
   ],

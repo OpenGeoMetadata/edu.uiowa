@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "cec339ae-f7d5-430e-9fb4-5a83d68acbb2",
+  "dc_identifier_s": "cec339ae-f7d5-430e-9fb4-5a83d68acbb2|IA-T074N-R042W",
   "dc_rights_s": "Public",
   "dc_title_s": "General Land Office Township Plat: Pottawattamie County, Iowa; 74N 42W",
   "dct_provenance_s": "University of Iowa",
@@ -12,13 +12,12 @@
   "dc_subject_sm": [
     "Surveying--Public lands"
   ],
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_1605\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:glo_1605~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_1605\"}",
   "dct_spatial_sm": [
-    "Pottawattamie County, Iowa",
-    "Iowa"
+    "Iowa",
+    "T074N-R042W"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-15T14:26:03Z",
+  "layer_modified_dt": "2023-08-03T20:11:09Z",
   "dc_language_sm": [
     "eng"
   ],

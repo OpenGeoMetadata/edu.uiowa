@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "905f325d-84b2-447a-bce0-d5dc27c59c93",
+  "dc_identifier_s": "905f325d-84b2-447a-bce0-d5dc27c59c93|IA-T088N-R047W",
   "dc_rights_s": "Public",
   "dc_title_s": "General Land Office Township Plat: Woodbury County, Iowa; 88N 47W",
   "dct_provenance_s": "University of Iowa",
@@ -12,13 +12,12 @@
   "dc_subject_sm": [
     "Surveying--Public lands"
   ],
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_1747\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:glo_1747~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_1747\"}",
   "dct_spatial_sm": [
-    "Woodbury County, Iowa",
-    "Iowa"
+    "Iowa",
+    "T088N-R047W"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-15T14:26:17Z",
+  "layer_modified_dt": "2023-08-03T20:11:49Z",
   "dc_language_sm": [
     "eng"
   ],

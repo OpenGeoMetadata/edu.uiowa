@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "89a43df3-db68-454e-b9cb-9fc0f9efb2f4",
+  "dc_identifier_s": "89a43df3-db68-454e-b9cb-9fc0f9efb2f4|IA-T082N-R033W",
   "dc_rights_s": "Public",
   "dc_title_s": "General Land Office Township Plat: Carroll County, Iowa; 82N 33W",
   "dct_provenance_s": "University of Iowa",
@@ -12,13 +12,12 @@
   "dc_subject_sm": [
     "Surveying--Public lands"
   ],
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_1281\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:glo_1281~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_1281\"}",
   "dct_spatial_sm": [
-    "Carroll County, Iowa",
-    "Iowa"
+    "Iowa",
+    "T082N-R033W"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-15T14:25:22Z",
+  "layer_modified_dt": "2023-08-03T20:08:44Z",
   "dc_language_sm": [
     "eng"
   ],

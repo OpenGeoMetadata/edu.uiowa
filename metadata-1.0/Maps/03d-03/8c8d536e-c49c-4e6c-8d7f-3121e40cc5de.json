@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "8c8d536e-c49c-4e6c-8d7f-3121e40cc5de",
+  "dc_identifier_s": "8c8d536e-c49c-4e6c-8d7f-3121e40cc5de|IA-T078N-R011W",
   "dc_rights_s": "Public",
   "dc_title_s": "General Land Office Township Plat: Iowa County, Iowa; 78N 11W",
   "dct_provenance_s": "University of Iowa",
@@ -12,13 +12,12 @@
   "dc_subject_sm": [
     "Surveying--Public lands"
   ],
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_469\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:glo_469~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_469\"}",
   "dct_spatial_sm": [
-    "Iowa County, Iowa",
-    "Iowa"
+    "Iowa",
+    "T078N-R011W"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-15T14:25:44Z",
+  "layer_modified_dt": "2023-08-03T20:10:07Z",
   "dc_language_sm": [
     "eng"
   ],

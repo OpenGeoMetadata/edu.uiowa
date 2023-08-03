@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "1a9e68c4-a638-4a20-ae95-74f0093ab1d5",
+  "dc_identifier_s": "1a9e68c4-a638-4a20-ae95-74f0093ab1d5|IA-T088N-R012W",
   "dc_rights_s": "Public",
   "dc_title_s": "General Land Office Township Plat: Black Hawk County, Iowa; 88N 12W",
   "dct_provenance_s": "University of Iowa",
@@ -12,13 +12,12 @@
   "dc_subject_sm": [
     "Surveying--Public lands"
   ],
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_517\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:glo_517~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_517\"}",
   "dct_spatial_sm": [
-    "Black Hawk County, Iowa",
-    "Iowa"
+    "Iowa",
+    "T088N-R012W"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-15T14:25:17Z",
+  "layer_modified_dt": "2023-08-03T20:12:02Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "cf307d34-a3ca-474b-a064-d89cad30e567",
+  "dc_identifier_s": "cf307d34-a3ca-474b-a064-d89cad30e567|IA-T067N-R004W",
   "dc_rights_s": "Public",
   "dc_title_s": "General Land Office Township Plat: Lee County, Iowa; 67N 4W",
   "dct_provenance_s": "University of Iowa",
@@ -12,13 +12,12 @@
   "dc_subject_sm": [
     "Surveying--Public lands"
   ],
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_202\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:glo_202~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_202\"}",
   "dct_spatial_sm": [
-    "Lee County, Iowa",
-    "Iowa"
+    "Iowa",
+    "T067N-R004W"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-15T14:25:49Z",
+  "layer_modified_dt": "2023-08-03T20:10:26Z",
   "dc_language_sm": [
     "eng"
   ],

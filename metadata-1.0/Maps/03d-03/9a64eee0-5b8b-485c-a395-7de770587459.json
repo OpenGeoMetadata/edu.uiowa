@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "9a64eee0-5b8b-485c-a395-7de770587459",
+  "dc_identifier_s": "9a64eee0-5b8b-485c-a395-7de770587459|IA-T088N-R024W",
   "dc_rights_s": "Public",
   "dc_title_s": "General Land Office Township Plat: Hamilton County, Iowa; 88N 24W",
   "dct_provenance_s": "University of Iowa",
@@ -12,13 +12,12 @@
   "dc_subject_sm": [
     "Surveying--Public lands"
   ],
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_961\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:glo_961~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_961\"}",
   "dct_spatial_sm": [
-    "Hamilton County, Iowa",
-    "Iowa"
+    "Iowa",
+    "T088N-R024W"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-15T14:25:39Z",
+  "layer_modified_dt": "2023-08-03T20:09:51Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "e9422364-1f2a-4dc5-885d-4c8c7c939aa5",
+  "dc_identifier_s": "e9422364-1f2a-4dc5-885d-4c8c7c939aa5|IA-T069N-R037W",
   "dc_rights_s": "Public",
   "dc_title_s": "General Land Office Township Plat: Page County, Iowa; 69N 37W",
   "dct_provenance_s": "University of Iowa",
@@ -12,13 +12,12 @@
   "dc_subject_sm": [
     "Surveying--Public lands"
   ],
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_1409\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:glo_1409~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_1409\"}",
   "dct_spatial_sm": [
-    "Page County, Iowa",
-    "Iowa"
+    "Iowa",
+    "T069N-R037W"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-15T14:25:59Z",
+  "layer_modified_dt": "2023-08-03T20:11:00Z",
   "dc_language_sm": [
     "eng"
   ],

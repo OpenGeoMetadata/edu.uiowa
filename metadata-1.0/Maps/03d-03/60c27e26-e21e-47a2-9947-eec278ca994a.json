@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "60c27e26-e21e-47a2-9947-eec278ca994a",
+  "dc_identifier_s": "60c27e26-e21e-47a2-9947-eec278ca994a|IA-T094N-R035W",
   "dc_rights_s": "Public",
   "dc_title_s": "General Land Office Township Plat: Clay County, Iowa; 94N 35W",
   "dct_provenance_s": "University of Iowa",
@@ -12,13 +12,12 @@
   "dc_subject_sm": [
     "Surveying--Public lands"
   ],
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_1363\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:glo_1363~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_1363\"}",
   "dct_spatial_sm": [
-    "Clay County, Iowa",
-    "Iowa"
+    "Iowa",
+    "T094N-R035W"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-15T14:25:26Z",
+  "layer_modified_dt": "2023-08-03T20:09:02Z",
   "dc_language_sm": [
     "eng"
   ],

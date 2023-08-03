@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "ee4f5555-ec07-4ff5-8652-0fe1d83b7997",
+  "dc_identifier_s": "ee4f5555-ec07-4ff5-8652-0fe1d83b7997|IA-T069N-R016W",
   "dc_rights_s": "Public",
   "dc_title_s": "General Land Office Township Plat: Appanoose County, Iowa; 69N 16W",
   "dct_provenance_s": "University of Iowa",
@@ -12,13 +12,12 @@
   "dc_subject_sm": [
     "Surveying--Public lands"
   ],
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_648\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:glo_648~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_648\"}",
   "dct_spatial_sm": [
-    "Appanoose County, Iowa",
-    "Iowa"
+    "Iowa",
+    "T069N-R016W"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-15T14:25:15Z",
+  "layer_modified_dt": "2023-08-03T20:08:20Z",
   "dc_language_sm": [
     "eng"
   ],

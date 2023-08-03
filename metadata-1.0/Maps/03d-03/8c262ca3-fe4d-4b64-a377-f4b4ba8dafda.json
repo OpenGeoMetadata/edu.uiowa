@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "8c262ca3-fe4d-4b64-a377-f4b4ba8dafda",
+  "dc_identifier_s": "8c262ca3-fe4d-4b64-a377-f4b4ba8dafda|IA-T089N-R028W",
   "dc_rights_s": "Public",
   "dc_title_s": "General Land Office Township Plat: Webster County, Iowa; 89N 28W",
   "dct_provenance_s": "University of Iowa",
@@ -12,13 +12,12 @@
   "dc_subject_sm": [
     "Surveying--Public lands"
   ],
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_1101\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:glo_1101~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_1101\"}",
   "dct_spatial_sm": [
-    "Webster County, Iowa",
-    "Iowa"
+    "Iowa",
+    "T089N-R028W"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-15T14:26:15Z",
+  "layer_modified_dt": "2023-08-03T20:11:41Z",
   "dc_language_sm": [
     "eng"
   ],

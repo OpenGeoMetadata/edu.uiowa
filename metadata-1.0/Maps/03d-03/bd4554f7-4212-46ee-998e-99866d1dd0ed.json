@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "bd4554f7-4212-46ee-998e-99866d1dd0ed",
+  "dc_identifier_s": "bd4554f7-4212-46ee-998e-99866d1dd0ed|IA-T071N-R023W",
   "dc_rights_s": "Public",
   "dc_title_s": "General Land Office Township Plat: Lucus County, Iowa; 71N 23W",
   "dct_provenance_s": "University of Iowa",
@@ -12,13 +12,12 @@
   "dc_subject_sm": [
     "Surveying--Public lands"
   ],
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_909\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:glo_909~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_909\"}",
   "dct_spatial_sm": [
-    "Lucus County, Iowa",
-    "Iowa"
+    "Iowa",
+    "T071N-R023W"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-15T14:25:51Z",
+  "layer_modified_dt": "2023-08-03T20:10:33Z",
   "dc_language_sm": [
     "eng"
   ],
