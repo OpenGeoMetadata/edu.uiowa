@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "c2b5d48b-708f-4b18-a5bf-9cb1337adf27",
+  "dc_identifier_s": "c2b5d48b-708f-4b18-a5bf-9cb1337adf27|IA-T097N-R025W",
   "dc_rights_s": "Public",
   "dc_title_s": "General Land Office Township Plat: Hancock County, Iowa; 97N 25W",
   "dct_provenance_s": "University of Iowa",
@@ -12,13 +12,12 @@
   "dc_subject_sm": [
     "Surveying--Public lands"
   ],
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_1005\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:glo_1005~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_1005\"}",
   "dct_spatial_sm": [
-    "Hancock County, Iowa",
-    "Iowa"
+    "Iowa",
+    "T097N-R025W"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-15T14:25:39Z",
+  "layer_modified_dt": "2023-08-03T20:09:53Z",
   "dc_language_sm": [
     "eng"
   ],

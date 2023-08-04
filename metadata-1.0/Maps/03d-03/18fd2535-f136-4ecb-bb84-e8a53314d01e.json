@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "18fd2535-f136-4ecb-bb84-e8a53314d01e",
+  "dc_identifier_s": "18fd2535-f136-4ecb-bb84-e8a53314d01e|IA-T100N-R014W",
   "dc_rights_s": "Public",
   "dc_title_s": "General Land Office Township Plat: Howard County, Iowa; 100N 14W",
   "dct_provenance_s": "University of Iowa",
@@ -12,13 +12,12 @@
   "dc_subject_sm": [
     "Surveying--Public lands"
   ],
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_606\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:glo_606~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_606\"}",
   "dct_spatial_sm": [
-    "Howard County, Iowa",
-    "Iowa"
+    "Iowa",
+    "T100N-R014W"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-15T14:25:42Z",
+  "layer_modified_dt": "2023-08-03T20:10:02Z",
   "dc_language_sm": [
     "eng"
   ],

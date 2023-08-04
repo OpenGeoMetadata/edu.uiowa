@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "8c3602c7-6dad-4d67-9ecd-4e464bb2d1ce",
+  "dc_identifier_s": "8c3602c7-6dad-4d67-9ecd-4e464bb2d1ce|IA-T081N-R042W",
   "dc_rights_s": "Public",
   "dc_title_s": "General Land Office Township Plat: Harrison County, Iowa; 81N 42W",
   "dct_provenance_s": "University of Iowa",
@@ -12,13 +12,12 @@
   "dc_subject_sm": [
     "Surveying--Public lands"
   ],
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_1612\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:glo_1612~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_1612\"}",
   "dct_spatial_sm": [
-    "Harrison County, Iowa",
-    "Iowa"
+    "Iowa",
+    "T081N-R042W"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-15T14:25:41Z",
+  "layer_modified_dt": "2023-08-03T20:09:59Z",
   "dc_language_sm": [
     "eng"
   ],

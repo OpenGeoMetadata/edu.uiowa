@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "b22893c8-52a3-4bd1-98be-3e7048288e27",
+  "dc_identifier_s": "b22893c8-52a3-4bd1-98be-3e7048288e27|IA-T068N-R020W",
   "dc_rights_s": "Public",
   "dc_title_s": "General Land Office Township Plat: Wayne County, Iowa; 68N 20W",
   "dct_provenance_s": "University of Iowa",
@@ -12,13 +12,12 @@
   "dc_subject_sm": [
     "Surveying--Public lands"
   ],
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_788\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:glo_788~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_788\"}",
   "dct_spatial_sm": [
-    "Wayne County, Iowa",
-    "Iowa"
+    "Iowa",
+    "T068N-R020W"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-15T14:26:13Z",
+  "layer_modified_dt": "2023-08-03T20:11:38Z",
   "dc_language_sm": [
     "eng"
   ],

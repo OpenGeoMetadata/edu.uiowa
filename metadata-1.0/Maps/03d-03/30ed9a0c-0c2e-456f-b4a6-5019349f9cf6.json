@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "30ed9a0c-0c2e-456f-b4a6-5019349f9cf6",
+  "dc_identifier_s": "30ed9a0c-0c2e-456f-b4a6-5019349f9cf6|IA-T076N-R025W",
   "dc_rights_s": "Public",
   "dc_title_s": "General Land Office Township Plat: Warren County, Iowa; 76N 25W",
   "dct_provenance_s": "University of Iowa",
@@ -12,13 +12,12 @@
   "dc_subject_sm": [
     "Surveying--Public lands"
   ],
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_984\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:glo_984~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_984\"}",
   "dct_spatial_sm": [
-    "Warren County, Iowa",
-    "Iowa"
+    "Iowa",
+    "T076N-R025W"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-15T14:26:12Z",
+  "layer_modified_dt": "2023-08-03T20:11:34Z",
   "dc_language_sm": [
     "eng"
   ],

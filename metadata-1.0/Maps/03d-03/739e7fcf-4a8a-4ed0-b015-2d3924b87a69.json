@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "739e7fcf-4a8a-4ed0-b015-2d3924b87a69",
+  "dc_identifier_s": "739e7fcf-4a8a-4ed0-b015-2d3924b87a69|IA-T072N-R034W",
   "dc_rights_s": "Public",
   "dc_title_s": "General Land Office Township Plat: Adams County, Iowa; 72N 34W",
   "dct_provenance_s": "University of Iowa",
@@ -12,13 +12,12 @@
   "dc_subject_sm": [
     "Surveying--Public lands"
   ],
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_1306\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:glo_1306~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_1306\"}",
   "dct_spatial_sm": [
-    "Adams County, Iowa",
-    "Iowa"
+    "Iowa",
+    "T072N-R034W"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-15T14:25:13Z",
+  "layer_modified_dt": "2023-08-03T20:08:12Z",
   "dc_language_sm": [
     "eng"
   ],

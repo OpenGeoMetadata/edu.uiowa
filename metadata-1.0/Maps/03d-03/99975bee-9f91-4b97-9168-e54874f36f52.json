@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "99975bee-9f91-4b97-9168-e54874f36f52",
+  "dc_identifier_s": "99975bee-9f91-4b97-9168-e54874f36f52|IA-T078N-R040W",
   "dc_rights_s": "Public",
   "dc_title_s": "General Land Office Township Plat: Shelby County, Iowa; 78N 40W",
   "dct_provenance_s": "University of Iowa",
@@ -12,13 +12,12 @@
   "dc_subject_sm": [
     "Surveying--Public lands"
   ],
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_1524\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:glo_1524~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_1524\"}",
   "dct_spatial_sm": [
-    "Shelby County, Iowa",
-    "Iowa"
+    "Iowa",
+    "T078N-R040W"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-15T14:26:06Z",
+  "layer_modified_dt": "2023-08-03T20:11:20Z",
   "dc_language_sm": [
     "eng"
   ],

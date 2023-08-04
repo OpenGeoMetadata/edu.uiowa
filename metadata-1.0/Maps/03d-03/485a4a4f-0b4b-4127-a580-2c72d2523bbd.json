@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "485a4a4f-0b4b-4127-a580-2c72d2523bbd",
+  "dc_identifier_s": "485a4a4f-0b4b-4127-a580-2c72d2523bbd|IA-T081N-R007E",
   "dc_rights_s": "Public",
   "dc_title_s": "General Land Office Township Plat: Clinton County, Iowa; 81N 7E",
   "dct_provenance_s": "University of Iowa",
@@ -12,13 +12,12 @@
   "dc_subject_sm": [
     "Surveying--Public lands"
   ],
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_96\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:glo_96~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_96\"}",
   "dct_spatial_sm": [
-    "Clinton County, Iowa",
-    "Iowa"
+    "Iowa",
+    "T081N-R007E"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-15T14:25:27Z",
+  "layer_modified_dt": "2023-08-03T20:09:11Z",
   "dc_language_sm": [
     "eng"
   ],

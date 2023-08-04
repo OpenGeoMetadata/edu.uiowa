@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "8a7c3d23-b262-4b14-bc11-0bf5127778f5",
+  "dc_identifier_s": "8a7c3d23-b262-4b14-bc11-0bf5127778f5|IA-T092N-R027W",
   "dc_rights_s": "Public",
   "dc_title_s": "General Land Office Township Plat: Humboldt County, Iowa; 92N 27W",
   "dct_provenance_s": "University of Iowa",
@@ -12,13 +12,12 @@
   "dc_subject_sm": [
     "Surveying--Public lands"
   ],
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_1069\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:glo_1069~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_1069\"}",
   "dct_spatial_sm": [
-    "Humboldt County, Iowa",
-    "Iowa"
+    "Iowa",
+    "T092N-R027W"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-15T14:25:43Z",
+  "layer_modified_dt": "2023-08-03T20:10:03Z",
   "dc_language_sm": [
     "eng"
   ],

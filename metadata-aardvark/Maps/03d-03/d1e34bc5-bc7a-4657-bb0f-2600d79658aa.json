@@ -1,0 +1,68 @@
+{
+  "dct_title_s": "General Land Office Township Plat: Mitchell County, Iowa; 98N 15W",
+  "dct_alternative_sm": [
+    "Iowa land survey map of t098n, r015w"
+  ],
+  "dct_description_sm": [
+    "Part of a set of digitized microfilm of manuscript maps of Iowa townships. Individual maps in the set may include: Native American villages and fields; the first farmsteads, town sites and fields established by settlers; networks of trails; distribution of rivers, woods, prairies, wetlands and springs; and survey data such as creator, date created, and date accepted."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "United States Surveyor General"
+  ],
+  "schema_provider_s": "University of Iowa",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Cadastral maps"
+  ],
+  "dct_subject_sm": [
+    "Surveying--Public lands"
+  ],
+  "dcat_theme_sm": [
+    "Property"
+  ],
+  "dct_temporal_sm": [
+    "1853-1853"
+  ],
+  "dct_issued_s": "1853",
+  "gbl_indexYear_im": [
+    "1853"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1853 TO 1853]"
+  ],
+  "dct_spatial_sm": [
+    "Iowa",
+    "T098N-R015W"
+  ],
+  "locn_geometry": "POLYGON((-92.6726 43.3422, -92.5542 43.3422, -92.5542 43.2553, -92.6726 43.2553, -92.6726 43.3422))",
+  "dcat_bbox": "ENVELOPE(-92.6726,-92.5542,43.3422,43.2553)",
+  "dcat_centroid": "43.29875,-92.6134",
+  "dct_relation_sm": [
+    "8888-003"
+  ],
+  "pcdm_memberOf_sm": [
+    "77f-0001",
+    "dc8c18df-7d64-4ff4-a754-d18d0891187d"
+  ],
+  "dct_isPartOf_sm": [
+    "03d-03"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:glo_642~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_642\"}",
+  "id": "d1e34bc5-bc7a-4657-bb0f-2600d79658aa",
+  "dct_identifier_sm": [
+    "d1e34bc5-bc7a-4657-bb0f-2600d79658aa",
+    "IA-T098N-R015W"
+  ],
+  "gbl_mdModified_dt": "2023-08-03T20:10:46Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

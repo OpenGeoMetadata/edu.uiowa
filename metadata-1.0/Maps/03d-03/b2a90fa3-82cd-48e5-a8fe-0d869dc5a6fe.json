@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "b2a90fa3-82cd-48e5-a8fe-0d869dc5a6fe",
+  "dc_identifier_s": "b2a90fa3-82cd-48e5-a8fe-0d869dc5a6fe|IA-T070N-R035W",
   "dc_rights_s": "Public",
   "dc_title_s": "General Land Office Township Plat: Taylor County, Iowa; 70N 35W",
   "dct_provenance_s": "University of Iowa",
@@ -12,13 +12,12 @@
   "dc_subject_sm": [
     "Surveying--Public lands"
   ],
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_1340\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:glo_1340~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_1340\"}",
   "dct_spatial_sm": [
-    "Taylor County, Iowa",
-    "Iowa"
+    "Iowa",
+    "T070N-R035W"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-15T14:26:10Z",
+  "layer_modified_dt": "2023-08-03T20:11:30Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "f3912047-905b-4242-a6f0-efed51b93361",
+  "dc_identifier_s": "f3912047-905b-4242-a6f0-efed51b93361|IA-T082N-R030W",
   "dc_rights_s": "Public",
   "dc_title_s": "General Land Office Township Plat: Greene County, Iowa; 82N 30W",
   "dct_provenance_s": "University of Iowa",
@@ -12,13 +12,12 @@
   "dc_subject_sm": [
     "Surveying--Public lands"
   ],
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_1171\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:glo_1171~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_1171\"}",
   "dct_spatial_sm": [
-    "Greene County, Iowa",
-    "Iowa"
+    "Iowa",
+    "T082N-R030W"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-15T14:25:37Z",
+  "layer_modified_dt": "2023-08-03T20:09:44Z",
   "dc_language_sm": [
     "eng"
   ],

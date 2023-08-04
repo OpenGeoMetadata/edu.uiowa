@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "e1db8a5d-a74e-48b3-94e1-d6381cbb248c",
+  "dc_identifier_s": "e1db8a5d-a74e-48b3-94e1-d6381cbb248c|IA-T083N-R011W",
   "dc_rights_s": "Public",
   "dc_title_s": "General Land Office Township Plat: Benton County, Iowa; 83N 11W",
   "dct_provenance_s": "University of Iowa",
@@ -12,13 +12,12 @@
   "dc_subject_sm": [
     "Surveying--Public lands"
   ],
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_474\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:glo_474~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_474\"}",
   "dct_spatial_sm": [
-    "Benton County, Iowa",
-    "Iowa"
+    "Iowa",
+    "T083N-R011W"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-15T14:25:16Z",
+  "layer_modified_dt": "2023-08-03T20:08:26Z",
   "dc_language_sm": [
     "eng"
   ],

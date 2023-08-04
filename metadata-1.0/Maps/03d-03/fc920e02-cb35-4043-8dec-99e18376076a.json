@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "fc920e02-cb35-4043-8dec-99e18376076a",
+  "dc_identifier_s": "fc920e02-cb35-4043-8dec-99e18376076a|IA-T090N-R025W",
   "dc_rights_s": "Public",
   "dc_title_s": "General Land Office Township Plat: Wright County, Iowa; 90N 25W",
   "dct_provenance_s": "University of Iowa",
@@ -12,13 +12,12 @@
   "dc_subject_sm": [
     "Surveying--Public lands"
   ],
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_998\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:glo_998~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_998\"}",
   "dct_spatial_sm": [
-    "Wright County, Iowa",
-    "Iowa"
+    "Iowa",
+    "T090N-R025W"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-15T14:26:18Z",
+  "layer_modified_dt": "2023-08-03T20:11:58Z",
   "dc_language_sm": [
     "eng"
   ],

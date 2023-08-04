@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "865eaabd-4433-483e-96f7-3d066c4d5ae7",
+  "dc_identifier_s": "865eaabd-4433-483e-96f7-3d066c4d5ae7|IA-T082N-R041W",
   "dc_rights_s": "Public",
   "dc_title_s": "General Land Office Township Plat: Crawford County, Iowa; 82N 41W",
   "dct_provenance_s": "University of Iowa",
@@ -12,13 +12,12 @@
   "dc_subject_sm": [
     "Surveying--Public lands"
   ],
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_1564\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:glo_1564~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_1564\"}",
   "dct_spatial_sm": [
-    "Crawford County, Iowa",
-    "Iowa"
+    "Iowa",
+    "T082N-R041W"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-15T14:25:28Z",
+  "layer_modified_dt": "2023-08-03T20:09:15Z",
   "dc_language_sm": [
     "eng"
   ],

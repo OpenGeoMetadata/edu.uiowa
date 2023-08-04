@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "d8517b34-3df6-418c-b87b-e2391845ed53",
+  "dc_identifier_s": "d8517b34-3df6-418c-b87b-e2391845ed53|IA-T092N-R044W",
   "dc_rights_s": "Public",
   "dc_title_s": "General Land Office Township Plat: Plymouth County, Iowa; 92N 44W",
   "dct_provenance_s": "University of Iowa",
@@ -12,13 +12,12 @@
   "dc_subject_sm": [
     "Surveying--Public lands"
   ],
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_1691\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:glo_1691~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_1691\"}",
   "dct_spatial_sm": [
-    "Plymouth County, Iowa",
-    "Iowa"
+    "Iowa",
+    "T092N-R044W"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-15T14:26:00Z",
+  "layer_modified_dt": "2023-08-03T20:11:03Z",
   "dc_language_sm": [
     "eng"
   ],

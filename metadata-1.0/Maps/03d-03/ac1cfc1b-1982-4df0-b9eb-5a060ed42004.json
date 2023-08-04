@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "ac1cfc1b-1982-4df0-b9eb-5a060ed42004",
+  "dc_identifier_s": "ac1cfc1b-1982-4df0-b9eb-5a060ed42004|IA-T073N-R009W",
   "dc_rights_s": "Public",
   "dc_title_s": "General Land Office Township Plat: Jefferson County, Iowa; 73N 9W",
   "dct_provenance_s": "University of Iowa",
@@ -12,13 +12,12 @@
   "dc_subject_sm": [
     "Surveying--Public lands"
   ],
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_390\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:glo_390~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_390\"}",
   "dct_spatial_sm": [
-    "Jefferson County, Iowa",
-    "Iowa"
+    "Iowa",
+    "T073N-R009W"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-15T14:25:46Z",
+  "layer_modified_dt": "2023-08-03T20:10:16Z",
   "dc_language_sm": [
     "eng"
   ],

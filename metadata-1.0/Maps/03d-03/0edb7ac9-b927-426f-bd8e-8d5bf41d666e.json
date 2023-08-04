@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "0edb7ac9-b927-426f-bd8e-8d5bf41d666e",
+  "dc_identifier_s": "0edb7ac9-b927-426f-bd8e-8d5bf41d666e|IA-T071N-R033W",
   "dc_rights_s": "Public",
   "dc_title_s": "General Land Office Township Plat: Adams County, Iowa; 71N 33W",
   "dct_provenance_s": "University of Iowa",
@@ -12,13 +12,12 @@
   "dc_subject_sm": [
     "Surveying--Public lands"
   ],
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_1270\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:glo_1270~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_1270\"}",
   "dct_spatial_sm": [
-    "Adams County, Iowa",
-    "Iowa"
+    "Iowa",
+    "T071N-R033W"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-15T14:25:13Z",
+  "layer_modified_dt": "2023-08-03T20:08:10Z",
   "dc_language_sm": [
     "eng"
   ],

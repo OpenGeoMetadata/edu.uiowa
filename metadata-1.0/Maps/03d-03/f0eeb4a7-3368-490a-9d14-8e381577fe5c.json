@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "f0eeb4a7-3368-490a-9d14-8e381577fe5c",
+  "dc_identifier_s": "f0eeb4a7-3368-490a-9d14-8e381577fe5c|IA-T067N-R040W",
   "dc_rights_s": "Public",
   "dc_title_s": "General Land Office Township Plat: Fremont County, Iowa; 67N 40W",
   "dct_provenance_s": "University of Iowa",
@@ -12,13 +12,12 @@
   "dc_subject_sm": [
     "Surveying--Public lands"
   ],
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_1513\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:glo_1513~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_1513\"}",
   "dct_spatial_sm": [
-    "Fremont County, Iowa",
-    "Iowa"
+    "Iowa",
+    "T067N-R040W"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-15T14:25:36Z",
+  "layer_modified_dt": "2023-08-03T20:09:42Z",
   "dc_language_sm": [
     "eng"
   ],

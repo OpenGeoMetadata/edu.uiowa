@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "dc_identifier_s": "bf27b570-1ca5-46a8-8bff-87d0da7d9b15",
+  "dc_identifier_s": "bf27b570-1ca5-46a8-8bff-87d0da7d9b15|IA-T078N-R002W",
   "dc_rights_s": "Public",
   "dc_title_s": "General Land Office Township Plat: Muscatine County, Iowa; 78N 2W",
   "dct_provenance_s": "University of Iowa",
@@ -12,13 +12,12 @@
   "dc_subject_sm": [
     "Surveying--Public lands"
   ],
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_144\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:glo_144~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_144\"}",
   "dct_spatial_sm": [
-    "Muscatine County, Iowa",
-    "Iowa"
+    "Iowa",
+    "T078N-R002W"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-15T14:25:58Z",
+  "layer_modified_dt": "2023-08-03T20:10:55Z",
   "dc_language_sm": [
     "eng"
   ],
