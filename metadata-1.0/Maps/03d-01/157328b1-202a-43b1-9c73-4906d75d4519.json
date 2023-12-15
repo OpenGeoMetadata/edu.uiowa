@@ -5,16 +5,15 @@
   "dc_title_s": "Plat book of Hardin County, Iowa, 1892",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "157328b1-202a-43b1-9c73-4906d75d4519",
-  "solr_geom": "ENVELOPE(-93.5002,-93.0022,42.557,42.2081)",
+  "solr_geom": "ENVELOPE(-93.500,-93.002,42.557,42.208)",
   "solr_year_i": "1892",
   "dc_description_s": "1 atlas: 50 p.; 45 cm. Material in the public domain. No restrictions on use. University of Iowa. Libraries. Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4118\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4118~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4118~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4118\"}",
   "dct_spatial_sm": [
     "Iowa--Hardin County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:48Z",
   "dc_language_sm": [
     "eng"
   ],

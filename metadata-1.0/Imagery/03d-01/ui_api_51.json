@@ -1,0 +1,24 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://digital.lib.uiowa.edu/islandora/object/ui%3Aapi_51",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Franklin County, Iowa, 1958, aerial photomosaic index",
+  "dct_provenance_s": "University of Iowa",
+  "layer_slug_s": "ui_api_51",
+  "solr_geom": "ENVELOPE(-96.64,-90.14,43.50,40.38)",
+  "solr_year_i": "1950",
+  "dc_description_s": "Title supplied by cataloger based on information from sheet label. Image is a photoreduction of the mosaic created from original aerial photographs. Designating symbol BZO. Form of individual image numbering: BZO-1V-[number], or BZO-2V-[number].\"Flying completed 7-26-58\" Flown by Park Aerial Surveys, Inc. Louisville, K.Y. \"Approximate scale, 1:20,000\" [refers to individual images from which mosaic was made].|Contact the Map Collection at The University of Iowa Libraries: http://www.lib.uiowa.edu/maps/contact/",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:api_51~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui%3Aapi_51\"}",
+  "dct_spatial_sm": [
+    "Iowa--Franklin County",
+    "Iowa"
+  ],
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "United States. Commodity Stabilization Service",
+  "dct_temporal_sm": [
+    "1950-1960"
+  ]
+}

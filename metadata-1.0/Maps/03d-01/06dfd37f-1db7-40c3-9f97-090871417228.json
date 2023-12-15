@@ -5,16 +5,15 @@
   "dc_title_s": "Standard Atlas of Calhoun County, Iowa, 1911",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "06dfd37f-1db7-40c3-9f97-090871417228",
-  "solr_geom": "ENVELOPE(-94.9152,-94.3974,42.5602,42.2086)",
+  "solr_geom": "ENVELOPE(-94.915,-94.397,42.560,42.209)",
   "solr_year_i": "1911",
   "dc_description_s": "(Geo. A. Ogle & Co.'s, 1911, Standard Atlas of Calhoun County, Iowa); 1 atlas: 104 p.; 45 cm. Material in the public domain. No restrictions on use. University of Iowa. Libraries. Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4983\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4983~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4983~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4983\"}",
   "dct_spatial_sm": [
     "Iowa--Calhoun County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:52Z",
   "dc_language_sm": [
     "eng"
   ],

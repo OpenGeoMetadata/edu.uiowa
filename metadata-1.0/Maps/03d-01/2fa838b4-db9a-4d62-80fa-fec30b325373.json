@@ -5,16 +5,15 @@
   "dc_title_s": "Novak's New Map of Johnson County, Iowa, 1889",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "2fa838b4-db9a-4d62-80fa-fec30b325373",
-  "solr_geom": "ENVELOPE(-91.8337,-91.3671,41.862,41.4222)",
+  "solr_geom": "ENVELOPE(-91.834,-91.367,41.862,41.422)",
   "solr_year_i": "1889",
   "dc_description_s": "J. J. Novak, 1889, Novak's New Map of Johnson County, Iowa; 1atlas: col.; 37 X 46 cm. Material in the public domain. No restrictions on use. State Historical Society of Iowa (Iowa City)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6684\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_6684~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_6684~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6684\"}",
   "dct_spatial_sm": [
     "Iowa--Johnson County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:58Z",
   "dc_language_sm": [
     "eng"
   ],

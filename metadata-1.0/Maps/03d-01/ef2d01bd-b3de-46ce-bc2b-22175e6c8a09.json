@@ -5,16 +5,15 @@
   "dc_title_s": "Atlas of Henry County, Iowa, 1895",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "ef2d01bd-b3de-46ce-bc2b-22175e6c8a09",
-  "solr_geom": "ENVELOPE(-91.7192,-91.3713,41.163,40.8123)",
+  "solr_geom": "ENVELOPE(-91.719,-91.371,41.163,40.812)",
   "solr_year_i": "1895",
   "dc_description_s": "(Brooks & Whiting, 1895, Atlas of Henry County, Iowa); 1 atlas: b&w; 37 X 44 cm. Material in the public domain. No restrictions on use. State Historical Society of Iowa (Iowa City)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_12058\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_12058~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_12058~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_12058\"}",
   "dct_spatial_sm": [
     "Iowa--Henry County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:33Z",
   "dc_language_sm": [
     "eng"
   ],

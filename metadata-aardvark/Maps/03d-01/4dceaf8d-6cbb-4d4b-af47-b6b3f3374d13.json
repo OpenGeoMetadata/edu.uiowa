@@ -35,22 +35,25 @@
     "Iowa--Keokuk County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-92.4136 41.5108, -91.9453 41.5108, -91.9453 41.1611, -92.4136 41.1611, -92.4136 41.5108))",
-  "dcat_bbox": "ENVELOPE(-92.4136,-91.9453,41.5108,41.1611)",
-  "dcat_centroid": "41.33595,-92.17945",
+  "locn_geometry": "POLYGON((-92.414 41.511, -91.945 41.511, -91.945 41.161, -92.414 41.161, -92.414 41.511))",
+  "dcat_bbox": "ENVELOPE(-92.414,-91.945,41.511,41.161)",
+  "dcat_centroid": "41.336,-92.17949999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
+    "03d-01-01",
     "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_5970\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_5970~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_5970~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_5970\"}",
   "id": "4dceaf8d-6cbb-4d4b-af47-b6b3f3374d13",
   "dct_identifier_sm": [
     "4dceaf8d-6cbb-4d4b-af47-b6b3f3374d13"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:40:55Z",
   "gbl_mdVersion_s": "Aardvark"
 }

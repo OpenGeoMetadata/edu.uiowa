@@ -35,22 +35,25 @@
     "Iowa--Shelby County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-95.5585 41.8626, -95.0418 41.8626, -95.0418 41.5037, -95.5585 41.5037, -95.5585 41.8626))",
-  "dcat_bbox": "ENVELOPE(-95.5585,-95.0418,41.8626,41.5037)",
-  "dcat_centroid": "41.68315,-95.30015",
+  "locn_geometry": "POLYGON((-95.558 41.863, -95.042 41.863, -95.042 41.504, -95.558 41.504, -95.558 41.863))",
+  "dcat_bbox": "ENVELOPE(-95.558,-95.042,41.863,41.504)",
+  "dcat_centroid": "41.683499999999995,-95.30000000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
+    "03d-01-01",
     "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_810\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_810~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_810~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_810\"}",
   "id": "83126180-40fc-43c0-831a-1a94b99d957c",
   "dct_identifier_sm": [
     "83126180-40fc-43c0-831a-1a94b99d957c"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:41:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

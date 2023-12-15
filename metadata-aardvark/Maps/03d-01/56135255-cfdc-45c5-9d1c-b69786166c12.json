@@ -35,22 +35,25 @@
     "Iowa--Bremer County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-92.5554 42.9063, -92.0825 42.9063, -92.0825 42.6407, -92.5554 42.6407, -92.5554 42.9063))",
-  "dcat_bbox": "ENVELOPE(-92.5554,-92.0825,42.9063,42.6407)",
-  "dcat_centroid": "42.7735,-92.31895",
+  "locn_geometry": "POLYGON((-92.555 42.906, -92.082 42.906, -92.082 42.641, -92.555 42.641, -92.555 42.906))",
+  "dcat_bbox": "ENVELOPE(-92.555,-92.082,42.906,42.641)",
+  "dcat_centroid": "42.7735,-92.3185",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
+    "03d-01-01",
     "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_5177\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_5177~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_5177~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_5177\"}",
   "id": "56135255-cfdc-45c5-9d1c-b69786166c12",
   "dct_identifier_sm": [
     "56135255-cfdc-45c5-9d1c-b69786166c12"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:40:52Z",
   "gbl_mdVersion_s": "Aardvark"
 }

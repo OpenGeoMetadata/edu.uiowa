@@ -35,22 +35,25 @@
     "Iowa--Clinton County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-90.9 42.034, -90.1393 42.034, -90.1393 41.7281, -90.9 41.7281, -90.9 42.034))",
-  "dcat_bbox": "ENVELOPE(-90.9,-90.1393,42.034,41.7281)",
-  "dcat_centroid": "41.88105,-90.51965000000001",
+  "locn_geometry": "POLYGON((-90.900 42.034, -90.139 42.034, -90.139 41.728, -90.900 41.728, -90.900 42.034))",
+  "dcat_bbox": "ENVELOPE(-90.900,-90.139,42.034,41.728)",
+  "dcat_centroid": "41.881,-90.5195",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
+    "03d-01-01",
     "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4799\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4799~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4799~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4799\"}",
   "id": "b38d389b-8157-44fd-ad95-933a5f45c33e",
   "dct_identifier_sm": [
     "b38d389b-8157-44fd-ad95-933a5f45c33e"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:40:51Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -39,22 +39,25 @@
     "Iowa--Lee County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-91.7206 40.8135, -91.1122 40.8135, -91.1122 40.3745, -91.7206 40.3745, -91.7206 40.8135))",
-  "dcat_bbox": "ENVELOPE(-91.7206,-91.1122,40.8135,40.3745)",
-  "dcat_centroid": "40.593999999999994,-91.41640000000001",
+  "locn_geometry": "POLYGON((-91.721 40.813, -91.112 40.813, -91.112 40.374, -91.721 40.374, -91.721 40.813))",
+  "dcat_bbox": "ENVELOPE(-91.721,-91.112,40.813,40.374)",
+  "dcat_centroid": "40.593500000000006,-91.4165",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
+    "03d-01-01",
     "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_3918\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_3918~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_3918~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_3918\"}",
   "id": "c2739cdf-fae5-4cc9-aff4-b5ad866043e4",
   "dct_identifier_sm": [
     "c2739cdf-fae5-4cc9-aff4-b5ad866043e4"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:40:47Z",
   "gbl_mdVersion_s": "Aardvark"
 }

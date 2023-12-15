@@ -5,16 +5,15 @@
   "dc_title_s": "Plat Book of Marshall County, Iowa, 1885",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "358ec16f-7b1a-4fd9-b1a5-fec68c241c7f",
-  "solr_geom": "ENVELOPE(-93.234,-92.7662,42.2103,41.8618)",
+  "solr_geom": "ENVELOPE(-93.234,-92.766,42.210,41.862)",
   "solr_year_i": "1885",
   "dc_description_s": "(Warner & Foote, 1885, Plat Book of Marshall County, Iowa); 1 atlas: b&w.; 39 X 45 cm. Material in the public domain. No restrictions on use. State Historical Society of Iowa (Iowa City)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_12000\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_12000~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_12000~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_12000\"}",
   "dct_spatial_sm": [
     "Iowa--Marshall County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:33Z",
   "dc_language_sm": [
     "eng"
   ],

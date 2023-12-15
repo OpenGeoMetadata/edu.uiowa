@@ -35,22 +35,25 @@
     "Iowa--Linn County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-91.8342 42.2987, -91.3649 42.2987, -91.3649 41.8603, -91.8342 41.8603, -91.8342 42.2987))",
-  "dcat_bbox": "ENVELOPE(-91.8342,-91.3649,42.2987,41.8603)",
-  "dcat_centroid": "42.079499999999996,-91.59955",
+  "locn_geometry": "POLYGON((-91.834 42.299, -91.365 42.299, -91.365 41.860, -91.834 41.860, -91.834 42.299))",
+  "dcat_bbox": "ENVELOPE(-91.834,-91.365,42.299,41.860)",
+  "dcat_centroid": "42.079499999999996,-91.5995",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
+    "03d-01-01",
     "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4765\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4765~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4765~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4765\"}",
   "id": "b92f54c4-1a52-48be-a12a-6d5fac45da99",
   "dct_identifier_sm": [
     "b92f54c4-1a52-48be-a12a-6d5fac45da99"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:40:51Z",
   "gbl_mdVersion_s": "Aardvark"
 }

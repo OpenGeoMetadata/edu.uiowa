@@ -1,0 +1,24 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://digital.lib.uiowa.edu/islandora/object/ui%3Aapi_893",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Harrison County, Iowa, 1949, aerial photomosaic index",
+  "dct_provenance_s": "University of Iowa",
+  "layer_slug_s": "ui_api_893",
+  "solr_geom": "ENVELOPE(-96.64,-90.14,43.50,40.38)",
+  "solr_year_i": "1940",
+  "dc_description_s": "Title supplied by cataloger based on information from sheet labels. Images are photoreductions of mosaics created from original aerial photographs. Designating symbol BKC. Form of individual image numbering: BKC-1F-[number], BKC-2F-[number], or BKC-3F-[number].\"Flying completed 7-17-49.\" Flown by Woltz Studios, Des Moines, Iowa.\"Approximate scale, 1:20,000\" [refers to individual images from which mosaic was made].|Contact the Map Collection at The University of Iowa Libraries: http://www.lib.uiowa.edu/maps/contact/",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui%3Aapi_893\"}",
+  "dct_spatial_sm": [
+    "Iowa--Harrison County",
+    "Iowa"
+  ],
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "United States. Department of Agriculture. Production and Marketing Administration",
+  "dct_temporal_sm": [
+    "1940-1950"
+  ]
+}

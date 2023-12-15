@@ -5,16 +5,15 @@
   "dc_title_s": "Plat Book of Chickasaw County, Iowa, 1892",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "fbf48284-c925-4662-9023-17c9f27e28bd",
-  "solr_geom": "ENVELOPE(-92.5544,-92.0808,43.2132,42.9059)",
+  "solr_geom": "ENVELOPE(-92.554,-92.081,43.213,42.906)",
   "solr_year_i": "1892",
   "dc_description_s": "(North West Publishing Co., 1892, Plat Book of Chickasaw County, Iowa); 1 atlas: b&w; 39 X 46 cm. Material in the public domain. No restrictions on use. University of Iowa. Libraries. Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_8631\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_8631~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_8631~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_8631\"}",
   "dct_spatial_sm": [
     "Iowa--Chickasaw County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:41:04Z",
   "dc_language_sm": [
     "eng"
   ],

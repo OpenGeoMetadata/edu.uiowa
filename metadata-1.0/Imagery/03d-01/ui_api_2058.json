@@ -1,0 +1,24 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://digital.lib.uiowa.edu/islandora/object/ui%3Aapi_2058",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Clayton County, Iowa, 1972, aerial photomosaic index",
+  "dct_provenance_s": "University of Iowa",
+  "layer_slug_s": "ui_api_2058",
+  "solr_geom": "ENVELOPE(-96.64,-90.14,43.50,40.38)",
+  "solr_year_i": "1970",
+  "dc_description_s": "Title supplied by cataloger based on information from sheet labels. Images are photoreductions of mosaics created from original aerial photographs. Designating symbol 19043. Form of individual image numbering: 19043-472L-[number]. Year flown: 1972. Flown by Aero-Graphics, Inc. Salt Lake City, Utah. Scale 1:38,000|Contact the Map Collection at The University of Iowa Libraries: http://www.lib.uiowa.edu/maps/contact/|Scanned at 300 ppi in Greyscale.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui%3Aapi_2058\"}",
+  "dct_spatial_sm": [
+    "Iowa--Clayton County",
+    "Iowa"
+  ],
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "United States. Soil Conservation Service",
+  "dct_temporal_sm": [
+    "1970-1980"
+  ]
+}

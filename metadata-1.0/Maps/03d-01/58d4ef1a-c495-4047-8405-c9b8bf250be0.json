@@ -5,16 +5,15 @@
   "dc_title_s": "Standard Atlas of Cass County, Iowa, 1900",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "58d4ef1a-c495-4047-8405-c9b8bf250be0",
-  "solr_geom": "ENVELOPE(-95.1569,-94.7014,41.5041,41.1572)",
+  "solr_geom": "ENVELOPE(-95.157,-94.701,41.504,41.157)",
   "solr_year_i": "1900",
   "dc_description_s": "Geo. A. Ogle & Co., 1900, Standard Atlas of Cass County, Iowa; 1 atlas: b&w.; 39 X 46 cm Material in the public domain. No restrictions on use. State Historical Society of Iowa (Iowa City)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6853\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_6853~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_6853~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6853\"}",
   "dct_spatial_sm": [
     "Iowa--Cass County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:58Z",
   "dc_language_sm": [
     "eng"
   ],

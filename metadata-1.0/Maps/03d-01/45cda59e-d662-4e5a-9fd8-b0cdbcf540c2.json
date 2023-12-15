@@ -5,16 +5,15 @@
   "dc_title_s": "Plat book of Fayette County, Iowa, 1896",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "45cda59e-d662-4e5a-9fd8-b0cdbcf540c2",
-  "solr_geom": "ENVELOPE(-92.083,-91.604,43.0826,42.6407)",
+  "solr_geom": "ENVELOPE(-92.083,-91.604,43.083,42.641)",
   "solr_year_i": "1896",
   "dc_description_s": "1 atlas: 61 p; 46 cm. Material in the public domain. No restrictions on use. University of Iowa. Libraries. Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1237\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_1237~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_1237~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1237\"}",
   "dct_spatial_sm": [
     "Iowa--Fayette County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:34Z",
   "dc_language_sm": [
     "eng"
   ],

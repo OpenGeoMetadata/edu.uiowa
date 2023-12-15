@@ -1,0 +1,24 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://digital.lib.uiowa.edu/islandora/object/ui%3Aapi_1419",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Calhoun County, Iowa, 1976, aerial photomosaic index",
+  "dct_provenance_s": "University of Iowa",
+  "layer_slug_s": "ui_api_1419",
+  "solr_geom": "ENVELOPE(-96.64,-90.14,43.50,40.38)",
+  "solr_year_i": "1970",
+  "dc_description_s": "Title supplied by cataloger based on information from sheet label. Image is photoreduction of the mosaic created from original aerial photographs. Designating symbol 19025. Form of individual image numbering: 19025-175-[number]. Year flown: 1976. Flown by Toler Aerial Mapping Co. Odessa, Texas. Scale 1:38,000|Contact the Map Collection at The University of Iowa Libraries: http://www.lib.uiowa.edu/maps/contact/|Scanned at 300 ppi in Greyscale.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:api_1419~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui%3Aapi_1419\"}",
+  "dct_spatial_sm": [
+    "Iowa--Calhoun County",
+    "Iowa"
+  ],
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "United States. Soil Conservation Service",
+  "dct_temporal_sm": [
+    "1970-1980"
+  ]
+}

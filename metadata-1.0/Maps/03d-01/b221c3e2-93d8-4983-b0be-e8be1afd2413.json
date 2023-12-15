@@ -5,16 +5,15 @@
   "dc_title_s": "Standard Atlas of Wapello County, Iowa, 1908",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "b221c3e2-93d8-4983-b0be-e8be1afd2413",
-  "solr_geom": "ENVELOPE(-92.6441,-92.1798,41.1617,40.8979)",
+  "solr_geom": "ENVELOPE(-92.644,-92.180,41.162,40.898)",
   "solr_year_i": "1908",
   "dc_description_s": "(Geo. A. Ogle & Co., 1908, Standard Atlas of Wapello County, Iowa); 1 atlas: b&w; 40 X 46 cm. Material in the public domain. No restrictions on use. State Historical Society of Iowa (Iowa City)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_9596\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_9596~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_9596~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_9596\"}",
   "dct_spatial_sm": [
     "Iowa--Wapello County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:41:05Z",
   "dc_language_sm": [
     "eng"
   ],

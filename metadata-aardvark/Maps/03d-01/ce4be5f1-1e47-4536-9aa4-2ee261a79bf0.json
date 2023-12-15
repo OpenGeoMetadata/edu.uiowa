@@ -35,22 +35,25 @@
     "Iowa--Ida County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-95.7414 42.5609, -95.3214 42.5609, -95.3214 42.2095, -95.7414 42.2095, -95.7414 42.5609))",
-  "dcat_bbox": "ENVELOPE(-95.7414,-95.3214,42.5609,42.2095)",
-  "dcat_centroid": "42.3852,-95.53139999999999",
+  "locn_geometry": "POLYGON((-95.741 42.561, -95.321 42.561, -95.321 42.209, -95.741 42.209, -95.741 42.561))",
+  "dcat_bbox": "ENVELOPE(-95.741,-95.321,42.561,42.209)",
+  "dcat_centroid": "42.385000000000005,-95.531",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
+    "03d-01-01",
     "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4473\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4473~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4473~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4473\"}",
   "id": "ce4be5f1-1e47-4536-9aa4-2ee261a79bf0",
   "dct_identifier_sm": [
     "ce4be5f1-1e47-4536-9aa4-2ee261a79bf0"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:40:50Z",
   "gbl_mdVersion_s": "Aardvark"
 }

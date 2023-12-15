@@ -1,8 +1,5 @@
 {
-  "dct_title_s": "Iowa Historical County Atlases",
-  "dct_description_sm": [
-    "County atlases dating from 1858 to 1942 throughout the state of Iowa."
-  ],
+  "dct_title_s": "University of Iowa Digital Library Maps and Atlases",
   "schema_provider_s": "University of Iowa",
   "gbl_resourceClass_sm": [
     "Websites"
@@ -10,31 +7,15 @@
   "dct_subject_sm": [
     "Map collections"
   ],
-  "dct_temporal_sm": [
-    "1858-1942"
-  ],
-  "gbl_indexYear_im": [
-    "1858"
-  ],
-  "gbl_dateRange_drsim": [
-    "[1858 TO 1942]"
-  ],
-  "dct_spatial_sm": [
-    "Iowa"
-  ],
-  "locn_geometry": "ENVELOPE(-96.6397,-90.1401,43.5011,40.3756)",
-  "dcat_bbox": "ENVELOPE(-96.6397,-90.1401,43.5011,40.3756)",
-  "dcat_centroid": "41.93835,-93.38990000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "Digital library collection",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui%3Aatlases\",\"https://openindexmaps.org\":\"https://raw.githubusercontent.com/geobtaa/openindexmaps/main/03d-01.geojson\"}",
+  "dct_format_s": "Islandora",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui_root?sort=mods_titleInfo_title_ss%20asc\\u0026islandora_solr_search_navigation=0\\u0026f%5B0%5D=RELS_EXT_isMemberOfCollection_uri_ms%3A%22info%5C%3Afedora%5C/ui%5C%3Amaps%22\"}",
   "id": "03d-01",
   "dct_identifier_sm": [
     "03d-01"
   ],
-  "gbl_mdModified_dt": "2022-07-06T19:51:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -5,16 +5,15 @@
   "dc_title_s": "Plat Book of Clinton County, Iowa, 1894",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "c11a75ff-4c85-4fc0-a007-b737fe613f4c",
-  "solr_geom": "ENVELOPE(-90.9,-90.1393,42.034,41.7281)",
+  "solr_geom": "ENVELOPE(-90.900,-90.139,42.034,41.728)",
   "solr_year_i": "1894",
   "dc_description_s": "(North West Publishing Co., 1894, Plat Book of Clinton County, Iowa); 1 atlas: b&w.; 41 X 46 cm. Material in the public domain. No restrictions on use. Iowa State University Library (Ames)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_7816\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_7816~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_7816~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_7816\"}",
   "dct_spatial_sm": [
     "Iowa--Clinton County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:41:02Z",
   "dc_language_sm": [
     "eng"
   ],

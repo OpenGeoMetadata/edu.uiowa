@@ -5,16 +5,15 @@
   "dc_title_s": "Atlas of Polk County, Iowa, 1902",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "a5210cbb-1f2a-4f03-ae5c-b0120c72dfd5",
-  "solr_geom": "ENVELOPE(-93.8164,-93.3304,41.8625,41.481)",
+  "solr_geom": "ENVELOPE(-93.816,-93.330,41.862,41.481)",
   "solr_year_i": "1902",
   "dc_description_s": "(Arthur M. Hovey, 1902, Atlas of Polk County, Iowa); 1 atlas: b&w.; 39 X 41 cm. Material in the public domain. No restrictions on use. Iowa State University Library (Ames)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_8183\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_8183~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_8183~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_8183\"}",
   "dct_spatial_sm": [
     "Iowa--Polk County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:41:03Z",
   "dc_language_sm": [
     "eng"
   ],

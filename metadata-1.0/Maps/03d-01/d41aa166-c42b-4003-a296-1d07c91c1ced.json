@@ -5,16 +5,15 @@
   "dc_title_s": "Standard Historical Atlas of Jasper County, Iowa, 1901",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "d41aa166-c42b-4003-a296-1d07c91c1ced",
-  "solr_geom": "ENVELOPE(-93.3504,-92.7564,41.8624,41.5074)",
+  "solr_geom": "ENVELOPE(-93.350,-92.756,41.862,41.507)",
   "solr_year_i": "1901",
   "dc_description_s": "Huebinger's 1901 Standard historical atlas of Jasper County, Iowa; 1 atlas: 69 p; 46 cm. Material in the public domain. No restrictions on use. University of Iowa. Libraries. Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1135\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_1135~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_1135~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1135\"}",
   "dct_spatial_sm": [
     "Iowa--Jasper County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:32Z",
   "dc_language_sm": [
     "eng"
   ],

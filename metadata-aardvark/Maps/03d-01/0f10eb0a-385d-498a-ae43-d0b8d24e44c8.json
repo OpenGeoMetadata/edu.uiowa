@@ -35,22 +35,25 @@
     "Iowa--Palo Alto County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-94.9161 43.2561, -94.4434 43.2561, -94.4434 42.9068, -94.9161 42.9068, -94.9161 43.2561))",
-  "dcat_bbox": "ENVELOPE(-94.9161,-94.4434,43.2561,42.9068)",
-  "dcat_centroid": "43.081450000000004,-94.67975",
+  "locn_geometry": "POLYGON((-94.916 43.256, -94.443 43.256, -94.443 42.907, -94.916 42.907, -94.916 43.256))",
+  "dcat_bbox": "ENVELOPE(-94.916,-94.443,43.256,42.907)",
+  "dcat_centroid": "43.0815,-94.67949999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
+    "03d-01-01",
     "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_11273\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_11273~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_11273~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_11273\"}",
   "id": "0f10eb0a-385d-498a-ae43-d0b8d24e44c8",
   "dct_identifier_sm": [
     "0f10eb0a-385d-498a-ae43-d0b8d24e44c8"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:40:32Z",
   "gbl_mdVersion_s": "Aardvark"
 }

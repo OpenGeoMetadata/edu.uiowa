@@ -5,19 +5,18 @@
   "dc_title_s": "An Illustrated Historical Atlas of Des Moines County, Iowa, 1873",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "f1b57f24-d474-4493-90e1-d3c25f39b65b",
-  "solr_geom": "ENVELOPE(-91.4095,-90.9449,41.0741,40.6956)",
+  "solr_geom": "ENVELOPE(-91.409,-90.945,41.074,40.696)",
   "solr_year_i": "1873",
   "dc_creator_sm": [
     "Andreas, A. T. (Alfred Theodore), 1839-1900"
   ],
   "dc_description_s": "1 atlas (94 p.): ill., hand col. maps; 44 cm. Material in the public domain. No restrictions on use. State Historical Society of Iowa (Iowa City)",
-  "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://uiowa.maps.arcgis.com/sharing/rest/content/items/d24c8bb94a9840aeb1398700bad3e728/data\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4881\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4881~JP2~~default/info.json\"}",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://uiowa.maps.arcgis.com/sharing/rest/content/items/d24c8bb94a9840aeb1398700bad3e728/data\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4881~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4881\"}",
   "dct_spatial_sm": [
     "Iowa--Des Moines County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:52Z",
   "dc_language_sm": [
     "eng"
   ],

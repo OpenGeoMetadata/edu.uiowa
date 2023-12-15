@@ -5,16 +5,15 @@
   "dc_title_s": "Atlas of Buena Vista County, Iowa, 1923",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "31915eb2-d00e-4591-bd31-c8937ee2fec0",
-  "solr_geom": "ENVELOPE(-95.3889,-94.9152,42.9096,42.5602)",
+  "solr_geom": "ENVELOPE(-95.389,-94.915,42.910,42.560)",
   "solr_year_i": "1923",
   "dc_description_s": "No commercial reproduction or distribution of this file is permitted without permission.",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1883\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_1883~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_1883~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1883\"}",
   "dct_spatial_sm": [
     "Iowa--Buena Vista County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:38Z",
   "dc_language_sm": [
     "eng"
   ],

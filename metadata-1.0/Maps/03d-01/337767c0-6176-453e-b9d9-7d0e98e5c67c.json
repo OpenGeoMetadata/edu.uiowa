@@ -5,7 +5,7 @@
   "dc_title_s": "Standard Atlas of Benton County, Iowa, 1901",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "337767c0-6176-453e-b9d9-7d0e98e5c67c",
-  "solr_geom": "ENVELOPE(-92.2996,-91.8318,42.2987,41.8617)",
+  "solr_geom": "ENVELOPE(-92.300,-91.832,42.299,41.862)",
   "solr_year_i": "1901",
   "dc_creator_sm": [
     "Geo. A. Ogle & Company",
@@ -13,12 +13,11 @@
   ],
   "dc_description_s": "(Geo. A. Ogle & Co., 1901, Standard Atlas of Benton County, Iowa); 1 atlas: b&w.; 40 X 49 cm. Material in the public domain. No restrictions on use. State Historical Society of Iowa (Iowa City)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_12281\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_12281~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_12281~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_12281\"}",
   "dct_spatial_sm": [
     "Iowa--Benton County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:33Z",
   "dc_language_sm": [
     "eng"
   ],

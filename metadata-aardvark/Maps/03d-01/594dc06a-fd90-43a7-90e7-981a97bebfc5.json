@@ -35,22 +35,25 @@
     "Iowa--Cerro Gordo County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-93.499 43.2576, -93.0241 43.2576, -93.0241 42.9071, -93.499 42.9071, -93.499 43.2576))",
-  "dcat_bbox": "ENVELOPE(-93.499,-93.0241,43.2576,42.9071)",
-  "dcat_centroid": "43.08235,-93.26155",
+  "locn_geometry": "POLYGON((-93.499 43.258, -93.024 43.258, -93.024 42.907, -93.499 42.907, -93.499 43.258))",
+  "dcat_bbox": "ENVELOPE(-93.499,-93.024,43.258,42.907)",
+  "dcat_centroid": "43.082499999999996,-93.2615",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
+    "03d-01-01",
     "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_644\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_644~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_644~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_644\"}",
   "id": "594dc06a-fd90-43a7-90e7-981a97bebfc5",
   "dct_identifier_sm": [
     "594dc06a-fd90-43a7-90e7-981a97bebfc5"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:40:57Z",
   "gbl_mdVersion_s": "Aardvark"
 }

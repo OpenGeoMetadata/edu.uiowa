@@ -5,16 +5,15 @@
   "dc_title_s": "Atlas of Mills County, Iowa, 1921",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "742429ea-da2e-4da9-93c1-f8cb174427df",
-  "solr_geom": "ENVELOPE(-95.8823,-95.3836,41.1596,40.9003)",
+  "solr_geom": "ENVELOPE(-95.882,-95.384,41.160,40.900)",
   "solr_year_i": "1921",
   "dc_description_s": "Anderson Publishing Co., 1921, Atlas of Mills County, Iowa; 1 atlas: col.; 37 x 45 cm. Material in the public domain. No restrictions on use. Collection Permissions",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6411\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_6411~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_6411~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6411\"}",
   "dct_spatial_sm": [
     "Iowa--Mills County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:57Z",
   "dc_language_sm": [
     "eng"
   ],

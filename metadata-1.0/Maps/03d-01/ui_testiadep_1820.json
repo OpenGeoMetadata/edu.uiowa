@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "768244477|MAPG4152_M2_1930_I6.jp2",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Northeastern Iowa river basins including the Maquoketa, Turkey, & Upper Iowa Rivers",
+  "dct_provenance_s": "University of Iowa",
+  "layer_slug_s": "ui_testiadep_1820",
+  "solr_geom": "ENVELOPE(-96.6397,-90.1401,43.5012,40.3756)",
+  "solr_year_i": "1930",
+  "dc_creator_sm": [
+    "Iowa. State Planning Board. Water Resources Committee"
+  ],
+  "dc_description_s": "1 map ; black line, plastic; 56 x 48 cm|WPA project no. 962.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1820~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui%3Atestiadep_1820\"}",
+  "dct_spatial_sm": [
+    "Iowa"
+  ],
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Iowa. State Planning Board",
+  "dct_temporal_sm": [
+    "1930-1940"
+  ]
+}

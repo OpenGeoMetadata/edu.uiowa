@@ -35,22 +35,25 @@
     "Iowa--Woodbury County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-96.4982 42.5622, -95.6693 42.5622, -95.6693 42.2099, -96.4982 42.2099, -96.4982 42.5622))",
-  "dcat_bbox": "ENVELOPE(-96.4982,-95.6693,42.5622,42.2099)",
-  "dcat_centroid": "42.38605,-96.08375000000001",
+  "locn_geometry": "POLYGON((-96.498 42.562, -95.669 42.562, -95.669 42.210, -96.498 42.210, -96.498 42.562))",
+  "dcat_bbox": "ENVELOPE(-96.498,-95.669,42.562,42.210)",
+  "dcat_centroid": "42.385999999999996,-96.0835",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
+    "03d-01-01",
     "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_2549\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_2549~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_2549~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_2549\"}",
   "id": "6cdafdad-344b-428d-a1b3-b7fc6a0b8e78",
   "dct_identifier_sm": [
     "6cdafdad-344b-428d-a1b3-b7fc6a0b8e78"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:40:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

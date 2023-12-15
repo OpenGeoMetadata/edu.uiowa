@@ -5,16 +5,15 @@
   "dc_title_s": "Atlas of Dallas County Iowa, 1916",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "bfe40b82-ead9-4357-8d25-9c34d2eca705",
-  "solr_geom": "ENVELOPE(-94.2813,-93.7919,41.8627,41.5014)",
+  "solr_geom": "ENVELOPE(-94.281,-93.792,41.863,41.501)",
   "solr_year_i": "1916",
   "dc_description_s": "Anderson Publishing Co.'s 1916 Atlas of Dallas County Iowa.; Material in the public domain. No restrictions on use. University of Iowa. Libraries. Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_2381\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_2381~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_2381~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_2381\"}",
   "dct_spatial_sm": [
     "Iowa--Dallas County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:39Z",
   "dc_language_sm": [
     "eng"
   ],

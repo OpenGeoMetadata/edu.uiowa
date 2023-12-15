@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Campus map, The University of Iowa, between 1950 and 1955",
+  "dct_provenance_s": "University of Iowa",
+  "layer_slug_s": "ui_ucm_29789",
+  "solr_geom": "ENVELOPE(-91.589815,-91.520099,41.679965,41.650579)",
+  "solr_year_i": "1950",
+  "dc_creator_sm": [
+    "Kent, Frederick W. (Frederick Wallace), 1894-1984"
+  ],
+  "dc_description_s": "6 black & white photographs|12 × 17 cm",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Universities & colleges"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui%3A29789\"}",
+  "dct_spatial_sm": [
+    "Iowa--Johnson County",
+    "Iowa--Iowa City",
+    "Iowa"
+  ],
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "between 1950 and 1955"
+  ]
+}

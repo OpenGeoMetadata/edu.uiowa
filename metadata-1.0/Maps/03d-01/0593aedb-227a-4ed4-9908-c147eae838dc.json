@@ -5,16 +5,15 @@
   "dc_title_s": "Standard atlas of Webster County, Iowa, 1909",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "0593aedb-227a-4ed4-9908-c147eae838dc",
-  "solr_geom": "ENVELOPE(-94.4457,-93.9319,42.644,42.2086)",
+  "solr_geom": "ENVELOPE(-94.446,-93.932,42.644,42.209)",
   "solr_year_i": "1909",
   "dc_description_s": "1 atlas: 117 p; 46 cm. Material in the public domain. No restrictions on use. University of Iowa. Libraries. Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1194\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_1194~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_1194~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1194\"}",
   "dct_spatial_sm": [
     "Iowa--Webster County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:33Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,16 +5,15 @@
   "dc_title_s": "Atlas of Tama County, Iowa, 1875",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "ba593efb-008e-464f-a416-5a9bcdb4fa06",
-  "solr_geom": "ENVELOPE(-92.7697,-92.2976,42.2976,41.8618)",
+  "solr_geom": "ENVELOPE(-92.770,-92.298,42.298,41.862)",
   "solr_year_i": "1875",
   "dc_description_s": "(Harrison & Warner, 1875, Atlas of Tama County, Iowa); 1 atlas: b&w.; 37 X 42 cm. Material in the public domain. No restrictions on use. Tama County Historical Society and Genealogical Library",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_11196\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_11196~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_11196~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_11196\"}",
   "dct_spatial_sm": [
     "Iowa--Tama County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:32Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,16 +5,15 @@
   "dc_title_s": "Plat book of Dubuque County, Iowa, 1892",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "b8609c7c-8e90-4d2a-8441-7f4075911f1e",
-  "solr_geom": "ENVELOPE(-91.1334,-90.4746,42.6753,42.2933)",
+  "solr_geom": "ENVELOPE(-91.133,-90.475,42.675,42.293)",
   "solr_year_i": "1892",
   "dc_description_s": "Balliet & Volk's 1892 Plat book of Dubuque County, Iowa.; 1 atlas: 59 p.; 45 cm. Material in the public domain. No restrictions on use. University of Iowa. Libraries. Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_725\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_725~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_725~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_725\"}",
   "dct_spatial_sm": [
     "Iowa--Dubuque County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:41:00Z",
   "dc_language_sm": [
     "eng"
   ],

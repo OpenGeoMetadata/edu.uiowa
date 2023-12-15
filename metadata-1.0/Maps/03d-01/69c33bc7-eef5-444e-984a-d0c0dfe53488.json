@@ -5,16 +5,15 @@
   "dc_title_s": "Atlas of Kossuth County Iowa, 1913",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "69c33bc7-eef5-444e-984a-d0c0dfe53488",
-  "solr_geom": "ENVELOPE(-94.4456,-93.9691,43.5044,42.9066)",
+  "solr_geom": "ENVELOPE(-94.446,-93.969,43.504,42.907)",
   "solr_year_i": "1913",
   "dc_description_s": "1 1.; maps Material in the public domain. No restrictions on use. State Historical Society of Iowa (Iowa City)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1968\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_1968~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_1968~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1968\"}",
   "dct_spatial_sm": [
     "Iowa--Kossuth County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:38Z",
   "dc_language_sm": [
     "eng"
   ],

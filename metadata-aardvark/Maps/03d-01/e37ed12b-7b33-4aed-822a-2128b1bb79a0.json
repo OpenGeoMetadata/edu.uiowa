@@ -35,22 +35,25 @@
     "Iowa--Hardin County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-93.5002 42.557, -93.0022 42.557, -93.0022 42.2081, -93.5002 42.2081, -93.5002 42.557))",
-  "dcat_bbox": "ENVELOPE(-93.5002,-93.0022,42.557,42.2081)",
-  "dcat_centroid": "42.38255,-93.25120000000001",
+  "locn_geometry": "POLYGON((-93.500 42.557, -93.002 42.557, -93.002 42.208, -93.500 42.208, -93.500 42.557))",
+  "dcat_bbox": "ENVELOPE(-93.500,-93.002,42.557,42.208)",
+  "dcat_centroid": "42.3825,-93.251",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
+    "03d-01-01",
     "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_12782\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_12782~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_12782~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_12782\"}",
   "id": "e37ed12b-7b33-4aed-822a-2128b1bb79a0",
   "dct_identifier_sm": [
     "e37ed12b-7b33-4aed-822a-2128b1bb79a0"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:40:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

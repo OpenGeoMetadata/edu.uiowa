@@ -35,22 +35,25 @@
     "Iowa--Franklin County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-93.5002 42.9075, -93.026 42.9075, -93.026 42.5561, -93.5002 42.5561, -93.5002 42.9075))",
-  "dcat_bbox": "ENVELOPE(-93.5002,-93.026,42.9075,42.5561)",
-  "dcat_centroid": "42.7318,-93.26310000000001",
+  "locn_geometry": "POLYGON((-93.500 42.907, -93.026 42.907, -93.026 42.556, -93.500 42.556, -93.500 42.907))",
+  "dcat_bbox": "ENVELOPE(-93.500,-93.026,42.907,42.556)",
+  "dcat_centroid": "42.7315,-93.263",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
+    "03d-01-01",
     "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4340\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4340~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4340~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4340\"}",
   "id": "dc74ba73-69be-4273-85eb-b5df130bdc15",
   "dct_identifier_sm": [
     "dc74ba73-69be-4273-85eb-b5df130bdc15"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:40:50Z",
   "gbl_mdVersion_s": "Aardvark"
 }

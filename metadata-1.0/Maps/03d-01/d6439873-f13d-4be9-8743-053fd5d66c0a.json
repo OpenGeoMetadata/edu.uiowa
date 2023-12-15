@@ -5,16 +5,15 @@
   "dc_title_s": "Atlas and plat book of Mahaska County, Iowa, 1920",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "d6439873-f13d-4be9-8743-053fd5d66c0a",
-  "solr_geom": "ENVELOPE(-92.8729,-92.4115,41.509,41.1591)",
+  "solr_geom": "ENVELOPE(-92.873,-92.412,41.509,41.159)",
   "solr_year_i": "1920",
   "dc_description_s": "Material in the public domain. No restrictions on use. University of Iowa. Libraries. Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_2615\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_2615~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_2615~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_2615\"}",
   "dct_spatial_sm": [
     "Iowa--Mahaska County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:40Z",
   "dc_language_sm": [
     "eng"
   ],

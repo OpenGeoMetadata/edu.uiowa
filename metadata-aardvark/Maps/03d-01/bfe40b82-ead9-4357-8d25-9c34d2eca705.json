@@ -35,22 +35,25 @@
     "Iowa--Dallas County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-94.2813 41.8627, -93.7919 41.8627, -93.7919 41.5014, -94.2813 41.5014, -94.2813 41.8627))",
-  "dcat_bbox": "ENVELOPE(-94.2813,-93.7919,41.8627,41.5014)",
-  "dcat_centroid": "41.68205,-94.03659999999999",
+  "locn_geometry": "POLYGON((-94.281 41.863, -93.792 41.863, -93.792 41.501, -94.281 41.501, -94.281 41.863))",
+  "dcat_bbox": "ENVELOPE(-94.281,-93.792,41.863,41.501)",
+  "dcat_centroid": "41.682,-94.0365",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
+    "03d-01-01",
     "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_2381\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_2381~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_2381~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_2381\"}",
   "id": "bfe40b82-ead9-4357-8d25-9c34d2eca705",
   "dct_identifier_sm": [
     "bfe40b82-ead9-4357-8d25-9c34d2eca705"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:40:39Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -5,16 +5,15 @@
   "dc_title_s": "Atlas of Keokuk County, Iowa, 1874",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "4dceaf8d-6cbb-4d4b-af47-b6b3f3374d13",
-  "solr_geom": "ENVELOPE(-92.4136,-91.9453,41.5108,41.1611)",
+  "solr_geom": "ENVELOPE(-92.414,-91.945,41.511,41.161)",
   "solr_year_i": "1874",
   "dc_description_s": "Harrison and Warner's 1874 Atlas of Keokuk County, Iowa; 1 atlas: b&w.: 40 X 34 cm. Material in the public domain. No restrictions on use. State Historical Society of Iowa (Iowa City)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_5970\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_5970~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_5970~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_5970\"}",
   "dct_spatial_sm": [
     "Iowa--Keokuk County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:55Z",
   "dc_language_sm": [
     "eng"
   ],

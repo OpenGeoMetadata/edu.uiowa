@@ -5,16 +5,15 @@
   "dc_title_s": "Atlas and Plat Book of Story County, Iowa, 1926",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "958e075a-3785-43d9-9e95-0d4403e80f96",
-  "solr_geom": "ENVELOPE(-93.7009,-93.2317,42.2085,41.8622)",
+  "solr_geom": "ENVELOPE(-93.701,-93.232,42.209,41.862)",
   "solr_year_i": "1926",
   "dc_description_s": "(Kenyon Company Inc., 1926, Atlas and Plat Book of Story County, Iowa); 1 atlas: b&w.; 38 X 42 cm. No commercial reproduction or distribution of this file is permitted without permission. Iowa State University Library (Ames)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_8457\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_8457~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_8457~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_8457\"}",
   "dct_spatial_sm": [
     "Iowa--Story County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:41:04Z",
   "dc_language_sm": [
     "eng"
   ],

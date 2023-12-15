@@ -5,16 +5,15 @@
   "dc_title_s": "Standard Atlas of Palo Alto County, Iowa, 1908",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "cf35d64f-1f61-4626-ae18-4e0d9da9089f",
-  "solr_geom": "ENVELOPE(-94.9161,-94.4434,43.2561,42.9068)",
+  "solr_geom": "ENVELOPE(-94.916,-94.443,43.256,42.907)",
   "solr_year_i": "1908",
   "dc_description_s": "Geo. A. Olge & Co.'s 1908 Standard Atlas of Palo Alto County, Iowa; 1 atlas: b&w.: 44 X 38 cm. Material in the public domain. No restrictions on use. State Historical Society of Iowa (Iowa City)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6025\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_6025~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_6025~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6025\"}",
   "dct_spatial_sm": [
     "Iowa--Palo Alto County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:55Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,16 +5,15 @@
   "dc_title_s": "Atlas of Scott County, Iowa, 1905",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "51bbe3e6-a4b9-4eab-b0ab-9c545f8a7440",
-  "solr_geom": "ENVELOPE(-90.901,-90.3163,41.7744,41.4495)",
+  "solr_geom": "ENVELOPE(-90.901,-90.316,41.774,41.450)",
   "solr_year_i": "1905",
   "dc_description_s": "(Iowa Publishing Co., 1905, Atlas of Scott County, Iowa); 1 atlas: b&w; 39 X 48 cm. Material in the public domain. No restrictions on use. State Historical Society of Iowa (Iowa City)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_8989\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_8989~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_8989~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_8989\"}",
   "dct_spatial_sm": [
     "Iowa--Scott County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:41:04Z",
   "dc_language_sm": [
     "eng"
   ],

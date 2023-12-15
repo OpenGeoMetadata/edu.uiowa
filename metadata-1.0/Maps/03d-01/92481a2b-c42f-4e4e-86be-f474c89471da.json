@@ -5,16 +5,15 @@
   "dc_title_s": "Plat Book of Ringgold County, Iowa, 1894",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "92481a2b-c42f-4e4e-86be-f474c89471da",
-  "solr_geom": "ENVELOPE(-94.4727,-94.0151,40.8991,40.5703)",
+  "solr_geom": "ENVELOPE(-94.473,-94.015,40.899,40.570)",
   "solr_year_i": "1894",
   "dc_description_s": "North West Publishing Co.'s 1894 Plat Book of Ringgold County; 1 atlas: b&w.; 39 X 45 cm. Material in the public domain. No restrictions on use. University of Iowa. Libraries. Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_5374\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_5374~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_5374~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_5374\"}",
   "dct_spatial_sm": [
     "Iowa--Ringgold County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:53Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,16 +5,15 @@
   "dc_title_s": "Atlas of Winnebago County, Iowa, 1905",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "322119c0-a3ed-4c9f-b8d1-629689520b12",
-  "solr_geom": "ENVELOPE(-93.9705,-93.4964,43.5046,43.2568)",
+  "solr_geom": "ENVELOPE(-93.971,-93.496,43.505,43.257)",
   "solr_year_i": "1905",
   "dc_description_s": "1 atlas: 35 p.; 35 cm. Material in the public domain. No restrictions on use. State Historical Society of Iowa (Iowa City)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4819\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4819~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4819~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4819\"}",
   "dct_spatial_sm": [
     "Iowa--Winnebago County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:52Z",
   "dc_language_sm": [
     "eng"
   ],

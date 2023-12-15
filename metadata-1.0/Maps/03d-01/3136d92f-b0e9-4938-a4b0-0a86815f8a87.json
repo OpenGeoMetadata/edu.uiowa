@@ -5,16 +5,15 @@
   "dc_title_s": "Atlas of Lucas County, Iowa, 1912",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "3136d92f-b0e9-4938-a4b0-0a86815f8a87",
-  "solr_geom": "ENVELOPE(-93.5606,-93.0984,41.1598,40.8971)",
+  "solr_geom": "ENVELOPE(-93.561,-93.098,41.160,40.897)",
   "solr_year_i": "1912",
   "dc_description_s": "(Midland Map Co., 1912, Atlas of Lucas County, Iowa); 1 atlas: b&w.; 35 X 42 cm. Material in the public domain. No restrictions on use. Lucas County Historical Society",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_7641\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_7641~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_7641~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_7641\"}",
   "dct_spatial_sm": [
     "Iowa--Lucas County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:41:01Z",
   "dc_language_sm": [
     "eng"
   ],

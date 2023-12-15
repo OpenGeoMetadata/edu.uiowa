@@ -5,16 +5,15 @@
   "dc_title_s": "Plat Book of Davis County, Iowa, 1891",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "065ff32a-de9b-4382-99f6-9937e92b40e0",
-  "solr_geom": "ENVELOPE(-92.64,-92.1792,40.8994,40.5914)",
+  "solr_geom": "ENVELOPE(-92.640,-92.179,40.899,40.591)",
   "solr_year_i": "1891",
   "dc_description_s": "(Alden, Ogle & Co., 1891, Plat Book of Davis County, Iowa); 1 atlas: col.; 46 x 37 cm. Material in the public domain. No restrictions on use. State Historical Society of Iowa (Iowa City)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_13308\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_13308~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_13308~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_13308\"}",
   "dct_spatial_sm": [
     "Iowa--Davis County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:35Z",
   "dc_language_sm": [
     "eng"
   ],

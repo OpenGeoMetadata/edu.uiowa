@@ -5,20 +5,19 @@
   "dc_title_s": "Atlas of Benton County, Iowa, 1917",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "f977d4fb-75be-4393-ad8c-3c07e69015ee",
-  "solr_geom": "ENVELOPE(-92.2996,-91.8318,42.2987,41.8617)",
+  "solr_geom": "ENVELOPE(-92.300,-91.832,42.299,41.862)",
   "solr_year_i": "1917",
   "dc_creator_sm": [
     "Anderson Publishing Company",
     "University of Iowa. Libraries. Map Collection"
   ],
   "dc_description_s": "Material in the public domain. No restrictions on use. University of Iowa. Libraries. Map Collection",
-  "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://uiowa.maps.arcgis.com/sharing/rest/content/items/2f9dc1d2bd6a403d834aee9d39d1adbe/data\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_2085\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_2085~JP2~~default/info.json\"}",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://uiowa.maps.arcgis.com/sharing/rest/content/items/2f9dc1d2bd6a403d834aee9d39d1adbe/data\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_2085~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_2085\"}",
   "dct_spatial_sm": [
     "Iowa--Benton County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:38Z",
   "dc_language_sm": [
     "eng"
   ],

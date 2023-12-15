@@ -5,16 +5,15 @@
   "dc_title_s": "Standard Historical Atlas of Mitchell County, Iowa, 1911",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "998b2fca-5b38-4e19-8aaf-8bbfe4f46a25",
-  "solr_geom": "ENVELOPE(-93.0245,-92.553,43.5035,43.2123)",
+  "solr_geom": "ENVELOPE(-93.025,-92.553,43.504,43.212)",
   "solr_year_i": "1911",
   "dc_description_s": "Anderson Publishing Co.'s 1911 standard historical atlas of Mitchell County, Iowa.; 1 atlas: 143 p.; 44 cm. Material in the public domain. No restrictions on use. State Historical Society of Iowa (Iowa City)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_3794\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_3794~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_3794~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_3794\"}",
   "dct_spatial_sm": [
     "Iowa--Mitchell County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:46Z",
   "dc_language_sm": [
     "eng"
   ],

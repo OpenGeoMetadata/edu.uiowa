@@ -35,22 +35,25 @@
     "Iowa--Boone County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-94.1673 42.2094, -93.6998 42.2094, -93.6998 41.8621, -94.1673 41.8621, -94.1673 42.2094))",
-  "dcat_bbox": "ENVELOPE(-94.1673,-93.6998,42.2094,41.8621)",
-  "dcat_centroid": "42.03575,-93.93355",
+  "locn_geometry": "POLYGON((-94.167 42.209, -93.700 42.209, -93.700 41.862, -94.167 41.862, -94.167 42.209))",
+  "dcat_bbox": "ENVELOPE(-94.167,-93.700,42.209,41.862)",
+  "dcat_centroid": "42.0355,-93.93350000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
+    "03d-01-01",
     "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_11252\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_11252~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_11252~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_11252\"}",
   "id": "f42da5d5-1409-41c4-959d-bdd8cbb723bc",
   "dct_identifier_sm": [
     "f42da5d5-1409-41c4-959d-bdd8cbb723bc"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:40:32Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -35,22 +35,25 @@
     "Iowa--Ringgold County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-94.4727 40.8991, -94.0151 40.8991, -94.0151 40.5703, -94.4727 40.5703, -94.4727 40.8991))",
-  "dcat_bbox": "ENVELOPE(-94.4727,-94.0151,40.8991,40.5703)",
-  "dcat_centroid": "40.734700000000004,-94.2439",
+  "locn_geometry": "POLYGON((-94.473 40.899, -94.015 40.899, -94.015 40.570, -94.473 40.570, -94.473 40.899))",
+  "dcat_bbox": "ENVELOPE(-94.473,-94.015,40.899,40.570)",
+  "dcat_centroid": "40.7345,-94.244",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
+    "03d-01-01",
     "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_9043\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_9043~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_9043~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_9043\"}",
   "id": "19cd88cc-733e-4b3d-8e2c-b6de864f6bbf",
   "dct_identifier_sm": [
     "19cd88cc-733e-4b3d-8e2c-b6de864f6bbf"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:41:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

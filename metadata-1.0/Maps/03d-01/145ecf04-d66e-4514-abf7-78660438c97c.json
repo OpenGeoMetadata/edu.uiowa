@@ -5,20 +5,19 @@
   "dc_title_s": "Atlas of Audubon County, 1930",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "145ecf04-d66e-4514-abf7-78660438c97c",
-  "solr_geom": "ENVELOPE(-95.0947,-94.7014,41.8626,41.5032)",
+  "solr_geom": "ENVELOPE(-95.095,-94.701,41.863,41.503)",
   "solr_year_i": "1930",
   "dc_creator_sm": [
     "Advocate-Republican",
     "University of Iowa. Libraries. Map Collection"
   ],
   "dc_description_s": "36 l.: b&w; 31 x 23 cm. \"Showing land ownership, U.S. highways, state highways, county roads, township roads, mail routes, railroads, streams, drainage ditches, schools, churches.\" No known copyright restrictions. University of Iowa. Libraries. Map Collection",
-  "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://uiowa.maps.arcgis.com/sharing/rest/content/items/a8b8b8c2c1aa4ce98839500d54b516ba/data\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_3996\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_3996~JP2~~default/info.json\"}",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://uiowa.maps.arcgis.com/sharing/rest/content/items/a8b8b8c2c1aa4ce98839500d54b516ba/data\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_3996~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_3996\"}",
   "dct_spatial_sm": [
     "Iowa--Audubon County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:48Z",
   "dc_language_sm": [
     "eng"
   ],

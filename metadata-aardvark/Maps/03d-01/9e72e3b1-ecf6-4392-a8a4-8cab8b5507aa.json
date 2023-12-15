@@ -35,22 +35,25 @@
     "Iowa--Benton County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-92.2996 42.2987, -91.8318 42.2987, -91.8318 41.8617, -92.2996 41.8617, -92.2996 42.2987))",
-  "dcat_bbox": "ENVELOPE(-92.2996,-91.8318,42.2987,41.8617)",
-  "dcat_centroid": "42.0802,-92.06569999999999",
+  "locn_geometry": "POLYGON((-92.300 42.299, -91.832 42.299, -91.832 41.862, -92.300 41.862, -92.300 42.299))",
+  "dcat_bbox": "ENVELOPE(-92.300,-91.832,42.299,41.862)",
+  "dcat_centroid": "42.0805,-92.066",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
+    "03d-01-01",
     "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_8120\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_8120~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_8120~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_8120\"}",
   "id": "9e72e3b1-ecf6-4392-a8a4-8cab8b5507aa",
   "dct_identifier_sm": [
     "9e72e3b1-ecf6-4392-a8a4-8cab8b5507aa"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:41:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

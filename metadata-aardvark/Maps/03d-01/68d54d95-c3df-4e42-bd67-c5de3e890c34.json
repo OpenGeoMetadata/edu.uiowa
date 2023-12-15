@@ -35,22 +35,25 @@
     "Iowa--Jefferson County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-92.1816 41.1636, -91.7171 41.1636, -91.7171 40.8992, -92.1816 40.8992, -92.1816 41.1636))",
-  "dcat_bbox": "ENVELOPE(-92.1816,-91.7171,41.1636,40.8992)",
-  "dcat_centroid": "41.031400000000005,-91.94935000000001",
+  "locn_geometry": "POLYGON((-92.182 41.164, -91.717 41.164, -91.717 40.899, -92.182 40.899, -92.182 41.164))",
+  "dcat_bbox": "ENVELOPE(-92.182,-91.717,41.164,40.899)",
+  "dcat_centroid": "41.0315,-91.9495",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
+    "03d-01-01",
     "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_13191\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_13191~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_13191~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_13191\"}",
   "id": "68d54d95-c3df-4e42-bd67-c5de3e890c34",
   "dct_identifier_sm": [
     "68d54d95-c3df-4e42-bd67-c5de3e890c34"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:40:35Z",
   "gbl_mdVersion_s": "Aardvark"
 }

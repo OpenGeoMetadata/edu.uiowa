@@ -5,15 +5,14 @@
   "dc_title_s": "Map of the United States",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "96c53634-0ab2-4319-a7a0-ac22347450d6",
-  "solr_geom": "ENVELOPE(-94.9139,-94.4412,43.504,43.2556)",
+  "solr_geom": "ENVELOPE(-94.914,-94.441,43.504,43.256)",
   "solr_year_i": "1918",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_664\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_664~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_664~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_664\"}",
   "dct_spatial_sm": [
     "Iowa--Emmet County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:58Z",
   "dc_language_sm": [
     "eng"
   ],

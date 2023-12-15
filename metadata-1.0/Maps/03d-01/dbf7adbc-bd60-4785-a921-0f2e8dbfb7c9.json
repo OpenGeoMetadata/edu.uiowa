@@ -5,16 +5,15 @@
   "dc_title_s": "Atlas and Plat Book of Dallas County, Iowa, 1930",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "dbf7adbc-bd60-4785-a921-0f2e8dbfb7c9",
-  "solr_geom": "ENVELOPE(-94.2813,-93.7919,41.8627,41.5014)",
+  "solr_geom": "ENVELOPE(-94.281,-93.792,41.863,41.501)",
   "solr_year_i": "1930",
   "dc_description_s": "(Kean Map Co., 1930, Atlas and Plat Book of Dallas County, Iowa); 1 atlas: b&w.; 31 X 39 cm. No known copyright restrictions. Iowa State University Library (Ames)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_7625\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_7625~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_7625~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_7625\"}",
   "dct_spatial_sm": [
     "Iowa--Dallas County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:41:01Z",
   "dc_language_sm": [
     "eng"
   ],

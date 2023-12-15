@@ -35,22 +35,25 @@
     "Iowa--Marshall County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-93.234 42.2103, -92.7662 42.2103, -92.7662 41.8618, -93.234 41.8618, -93.234 42.2103))",
-  "dcat_bbox": "ENVELOPE(-93.234,-92.7662,42.2103,41.8618)",
-  "dcat_centroid": "42.03605,-93.0001",
+  "locn_geometry": "POLYGON((-93.234 42.210, -92.766 42.210, -92.766 41.862, -93.234 41.862, -93.234 42.210))",
+  "dcat_bbox": "ENVELOPE(-93.234,-92.766,42.210,41.862)",
+  "dcat_centroid": "42.036,-93.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
+    "03d-01-01",
     "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_12000\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_12000~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_12000~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_12000\"}",
   "id": "358ec16f-7b1a-4fd9-b1a5-fec68c241c7f",
   "dct_identifier_sm": [
     "358ec16f-7b1a-4fd9-b1a5-fec68c241c7f"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:40:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

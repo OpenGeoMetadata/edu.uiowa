@@ -5,7 +5,7 @@
   "dc_title_s": "Waterville; Ion; Volney; Plat of Waukon Junction",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "205b4958-921f-4736-9dde-4e04907f2e18",
-  "solr_geom": "ENVELOPE(-91.6095,-91.0621,43.5027,43.0798)",
+  "solr_geom": "ENVELOPE(-91.609,-91.062,43.503,43.080)",
   "solr_year_i": "1886",
   "dc_creator_sm": [
     "University of Iowa. Libraries. Map Collection",
@@ -13,12 +13,11 @@
   ],
   "dc_description_s": "Image from Warner & Foote's 1886 Plat book of Allamakee County, Iowa p.33, showing maps of Waterville,Ion,Volney and Waukon Junction",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_380\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_380~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_380~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_380\"}",
   "dct_spatial_sm": [
     "Iowa--Allamakee County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:46Z",
   "dc_language_sm": [
     "eng"
   ],

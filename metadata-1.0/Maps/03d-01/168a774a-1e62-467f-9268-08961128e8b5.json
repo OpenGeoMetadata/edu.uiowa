@@ -5,16 +5,15 @@
   "dc_title_s": "Plat book of Worth County, Iowa, 1937",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "168a774a-1e62-467f-9268-08961128e8b5",
-  "solr_geom": "ENVELOPE(-93.972,-93.499,42.9082,42.5565)",
+  "solr_geom": "ENVELOPE(-93.972,-93.499,42.908,42.556)",
   "solr_year_i": "1937",
   "dc_description_s": "1 atlas: 32 l.; 21 X 28 cm. No known copyright restrictions. University of Iowa. Libraries. Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4233\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4233~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4233~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4233\"}",
   "dct_spatial_sm": [
     "Iowa--Worth County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:49Z",
   "dc_language_sm": [
     "eng"
   ],

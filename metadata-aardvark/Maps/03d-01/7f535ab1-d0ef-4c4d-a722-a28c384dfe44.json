@@ -40,22 +40,25 @@
     "Iowa--Adair County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-94.7025 41.5033, -94.2424 41.5033, -94.2424 41.1561, -94.7025 41.1561, -94.7025 41.5033))",
-  "dcat_bbox": "ENVELOPE(-94.7025,-94.2424,41.5033,41.1561)",
-  "dcat_centroid": "41.3297,-94.47245000000001",
+  "locn_geometry": "POLYGON((-94.703 41.503, -94.242 41.503, -94.242 41.156, -94.703 41.156, -94.703 41.503))",
+  "dcat_bbox": "ENVELOPE(-94.703,-94.242,41.503,41.156)",
+  "dcat_centroid": "41.329499999999996,-94.4725",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
+    "03d-01-01",
     "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_2022\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_2022~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_2022~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_2022\"}",
   "id": "7f535ab1-d0ef-4c4d-a722-a28c384dfe44",
   "dct_identifier_sm": [
     "7f535ab1-d0ef-4c4d-a722-a28c384dfe44"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:40:38Z",
   "gbl_mdVersion_s": "Aardvark"
 }

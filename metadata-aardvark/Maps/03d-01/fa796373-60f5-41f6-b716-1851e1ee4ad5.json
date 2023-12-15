@@ -30,22 +30,25 @@
     "Iowa--Dubuque County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-91.1334 42.6753, -90.4746 42.6753, -90.4746 42.2933, -91.1334 42.2933, -91.1334 42.6753))",
-  "dcat_bbox": "ENVELOPE(-91.1334,-90.4746,42.6753,42.2933)",
-  "dcat_centroid": "42.484300000000005,-90.804",
+  "locn_geometry": "POLYGON((-91.133 42.675, -90.475 42.675, -90.475 42.293, -91.133 42.293, -91.133 42.675))",
+  "dcat_bbox": "ENVELOPE(-91.133,-90.475,42.675,42.293)",
+  "dcat_centroid": "42.483999999999995,-90.804",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "b8609c7c-8e90-4d2a-8441-7f4075911f1e"
+    "b8609c7c-8e90-4d2a-8441-7f4075911f1e",
+    "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_683\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_683~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_683~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_683\"}",
   "id": "fa796373-60f5-41f6-b716-1851e1ee4ad5",
   "dct_identifier_sm": [
     "fa796373-60f5-41f6-b716-1851e1ee4ad5"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:40:58Z",
   "gbl_mdVersion_s": "Aardvark"
 }

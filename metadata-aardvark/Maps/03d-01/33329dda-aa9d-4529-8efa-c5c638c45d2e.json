@@ -35,22 +35,25 @@
     "Iowa--Fremont County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-95.8883 40.9023, -95.3707 40.9023, -95.3707 40.5812, -95.8883 40.5812, -95.8883 40.9023))",
-  "dcat_bbox": "ENVELOPE(-95.8883,-95.3707,40.9023,40.5812)",
-  "dcat_centroid": "40.741749999999996,-95.62950000000001",
+  "locn_geometry": "POLYGON((-95.888 40.902, -95.371 40.902, -95.371 40.581, -95.888 40.581, -95.888 40.902))",
+  "dcat_bbox": "ENVELOPE(-95.888,-95.371,40.902,40.581)",
+  "dcat_centroid": "40.7415,-95.62950000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
+    "03d-01-01",
     "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_9840\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_9840~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_9840~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_9840\"}",
   "id": "33329dda-aa9d-4529-8efa-c5c638c45d2e",
   "dct_identifier_sm": [
     "33329dda-aa9d-4529-8efa-c5c638c45d2e"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:41:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

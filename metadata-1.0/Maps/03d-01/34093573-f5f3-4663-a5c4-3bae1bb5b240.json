@@ -5,16 +5,15 @@
   "dc_title_s": "Plat Book of Tama County, Iowa, 1892",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "34093573-f5f3-4663-a5c4-3bae1bb5b240",
-  "solr_geom": "ENVELOPE(-92.7697,-92.2976,42.2976,41.8618)",
+  "solr_geom": "ENVELOPE(-92.770,-92.298,42.298,41.862)",
   "solr_year_i": "1892",
   "dc_description_s": "North West Publishing, 1892, Plat Book of Tama County, Iowa; 1atlas. col.; 39 X 46 cm. Material in the public domain. No restrictions on use. State Historical Society of Iowa (Iowa City)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6657\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_6657~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_6657~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6657\"}",
   "dct_spatial_sm": [
     "Iowa--Tama County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:58Z",
   "dc_language_sm": [
     "eng"
   ],

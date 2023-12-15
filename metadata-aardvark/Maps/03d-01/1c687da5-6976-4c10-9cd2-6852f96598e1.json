@@ -35,22 +35,25 @@
     "Iowa--Clarke County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-94.0152 41.1613, -93.558 41.1613, -93.558 40.8961, -94.0152 40.8961, -94.0152 41.1613))",
-  "dcat_bbox": "ENVELOPE(-94.0152,-93.558,41.1613,40.8961)",
-  "dcat_centroid": "41.0287,-93.78659999999999",
+  "locn_geometry": "POLYGON((-94.015 41.161, -93.558 41.161, -93.558 40.896, -94.015 40.896, -94.015 41.161))",
+  "dcat_bbox": "ENVELOPE(-94.015,-93.558,41.161,40.896)",
+  "dcat_centroid": "41.0285,-93.7865",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
+    "03d-01-01",
     "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_12651\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_12651~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_12651~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_12651\"}",
   "id": "1c687da5-6976-4c10-9cd2-6852f96598e1",
   "dct_identifier_sm": [
     "1c687da5-6976-4c10-9cd2-6852f96598e1"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:40:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }
