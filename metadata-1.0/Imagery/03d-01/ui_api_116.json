@@ -1,0 +1,24 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://digital.lib.uiowa.edu/islandora/object/ui%3Aapi_116",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Marshall County, Iowa, 1939, aerial photomosaic index",
+  "dct_provenance_s": "University of Iowa",
+  "layer_slug_s": "ui_api_116",
+  "solr_geom": "ENVELOPE(-96.64,-90.14,43.50,40.38)",
+  "solr_year_i": "1930",
+  "dc_description_s": "Title supplied by cataloger based on information from sheet label. Image is a photoreduction of the mosaic created from original aerial photographs. Designating symbol BZW. Form of individual image numbering: BZW-2-[number], BZW-3-[number], or BZW-4-[number]. Flown by Aero Service Corp., Philidelphia, Pa.\"Date of completion Sept. 4, 1939.\"\"Approximate scale, 1:20,000\" [refers to individual images from which mosaic was made].|Contact the Map Collection at The University of Iowa Libraries: http://www.lib.uiowa.edu/maps/contact/",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:api_116~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui%3Aapi_116\"}",
+  "dct_spatial_sm": [
+    "Iowa--Marshall County",
+    "Iowa"
+  ],
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "United States. Department of Agriculture|United States. Agricultural Stabilization and Conservation Service",
+  "dct_temporal_sm": [
+    "1930-1940"
+  ]
+}

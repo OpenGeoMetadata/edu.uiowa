@@ -35,22 +35,25 @@
     "Iowa--Calhoun County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-94.9152 42.5602, -94.3974 42.5602, -94.3974 42.2086, -94.9152 42.2086, -94.9152 42.5602))",
-  "dcat_bbox": "ENVELOPE(-94.9152,-94.3974,42.5602,42.2086)",
-  "dcat_centroid": "42.3844,-94.6563",
+  "locn_geometry": "POLYGON((-94.915 42.560, -94.397 42.560, -94.397 42.209, -94.915 42.209, -94.915 42.560))",
+  "dcat_bbox": "ENVELOPE(-94.915,-94.397,42.560,42.209)",
+  "dcat_centroid": "42.3845,-94.656",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
+    "03d-01-01",
     "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4159\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4159~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4159~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4159\"}",
   "id": "93501fd3-fa04-4ec0-9990-1e6cfacd4683",
   "dct_identifier_sm": [
     "93501fd3-fa04-4ec0-9990-1e6cfacd4683"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:40:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

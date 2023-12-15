@@ -35,22 +35,25 @@
     "Iowa--Clayton County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-91.606 43.0817, -90.896 43.0817, -90.896 42.6437, -91.606 42.6437, -91.606 43.0817))",
-  "dcat_bbox": "ENVELOPE(-91.606,-90.896,43.0817,42.6437)",
-  "dcat_centroid": "42.862700000000004,-91.251",
+  "locn_geometry": "POLYGON((-91.606 43.082, -90.896 43.082, -90.896 42.644, -91.606 42.644, -91.606 43.082))",
+  "dcat_bbox": "ENVELOPE(-91.606,-90.896,43.082,42.644)",
+  "dcat_centroid": "42.863,-91.251",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
+    "03d-01-01",
     "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_12489\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_12489~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_12489~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_12489\"}",
   "id": "e7812026-965c-4de9-a200-e87bd818975b",
   "dct_identifier_sm": [
     "e7812026-965c-4de9-a200-e87bd818975b"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:40:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

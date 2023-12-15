@@ -35,22 +35,25 @@
     "Iowa--Black Hawk County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-92.5554 42.6413, -92.0647 42.6413, -92.0647 42.2972, -92.5554 42.2972, -92.5554 42.6413))",
-  "dcat_bbox": "ENVELOPE(-92.5554,-92.0647,42.6413,42.2972)",
-  "dcat_centroid": "42.46925,-92.31005",
+  "locn_geometry": "POLYGON((-92.555 42.641, -92.065 42.641, -92.065 42.297, -92.555 42.297, -92.555 42.641))",
+  "dcat_bbox": "ENVELOPE(-92.555,-92.065,42.641,42.297)",
+  "dcat_centroid": "42.468999999999994,-92.31",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
+    "03d-01-01",
     "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6583\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_6583~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_6583~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6583\"}",
   "id": "4d349c06-4bac-4ad7-85c5-2094b4de8a0e",
   "dct_identifier_sm": [
     "4d349c06-4bac-4ad7-85c5-2094b4de8a0e"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:40:57Z",
   "gbl_mdVersion_s": "Aardvark"
 }

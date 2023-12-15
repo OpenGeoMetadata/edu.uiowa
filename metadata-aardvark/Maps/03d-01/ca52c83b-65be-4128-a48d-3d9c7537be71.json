@@ -35,22 +35,25 @@
     "Iowa--Delaware County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-91.6085 42.6451, -91.1292 42.6451, -91.1292 42.2949, -91.6085 42.2949, -91.6085 42.6451))",
-  "dcat_bbox": "ENVELOPE(-91.6085,-91.1292,42.6451,42.2949)",
-  "dcat_centroid": "42.47,-91.36885000000001",
+  "locn_geometry": "POLYGON((-91.609 42.645, -91.129 42.645, -91.129 42.295, -91.609 42.295, -91.609 42.645))",
+  "dcat_bbox": "ENVELOPE(-91.609,-91.129,42.645,42.295)",
+  "dcat_centroid": "42.47,-91.369",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
+    "03d-01-01",
     "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1103\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_1103~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_1103~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1103\"}",
   "id": "ca52c83b-65be-4128-a48d-3d9c7537be71",
   "dct_identifier_sm": [
     "ca52c83b-65be-4128-a48d-3d9c7537be71"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:40:31Z",
   "gbl_mdVersion_s": "Aardvark"
 }

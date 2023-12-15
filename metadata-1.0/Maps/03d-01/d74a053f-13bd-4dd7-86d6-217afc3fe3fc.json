@@ -5,15 +5,14 @@
   "dc_title_s": "Map of Polk Township",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "d74a053f-13bd-4dd7-86d6-217afc3fe3fc",
-  "solr_geom": "ENVELOPE(-95.5585,-95.0418,41.8626,41.5037)",
+  "solr_geom": "ENVELOPE(-95.558,-95.042,41.863,41.504)",
   "solr_year_i": "1921",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_778\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_778~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_778~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_778\"}",
   "dct_spatial_sm": [
     "Iowa--Shelby County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:41:02Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,16 +5,15 @@
   "dc_title_s": "Atlas of Muscatine County, Iowa, 1874",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "6575acd4-eb35-45b7-8ef2-0ca1823957a6",
-  "solr_geom": "ENVELOPE(-91.3701,-90.7849,41.5987,41.3329)",
+  "solr_geom": "ENVELOPE(-91.370,-90.785,41.599,41.333)",
   "solr_year_i": "1874",
   "dc_description_s": "(Harrison & Warner, 1874, Atlas of Muscatine County, Iowa); 1 atlas: b&w.; 36 X 42 cm. Material in the public domain. No restrictions on use. State Historical Society of Iowa (Iowa City)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_7263\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_7263~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_7263~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_7263\"}",
   "dct_spatial_sm": [
     "Iowa--Muscatine County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:41:00Z",
   "dc_language_sm": [
     "eng"
   ],

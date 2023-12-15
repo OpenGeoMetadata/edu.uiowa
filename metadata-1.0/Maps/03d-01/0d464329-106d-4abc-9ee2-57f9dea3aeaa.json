@@ -5,15 +5,14 @@
   "dc_title_s": "Part of the city of Ottumwa and environs Section 18",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "0d464329-106d-4abc-9ee2-57f9dea3aeaa",
-  "solr_geom": "ENVELOPE(-92.6441,-92.1798,41.1617,40.8979)",
+  "solr_geom": "ENVELOPE(-92.644,-92.180,41.162,40.898)",
   "solr_year_i": "1922",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_340\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_340~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_340~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_340\"}",
   "dct_spatial_sm": [
     "Iowa--Wapello County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:44Z",
   "dc_language_sm": [
     "eng"
   ],

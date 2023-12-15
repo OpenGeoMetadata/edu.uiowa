@@ -35,22 +35,25 @@
     "Iowa--Pottawattamie County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-96.0171 41.5058, -95.1558 41.5058, -95.1558 41.1587, -96.0171 41.1587, -96.0171 41.5058))",
-  "dcat_bbox": "ENVELOPE(-96.0171,-95.1558,41.5058,41.1587)",
-  "dcat_centroid": "41.33225,-95.58645",
+  "locn_geometry": "POLYGON((-96.017 41.506, -95.156 41.506, -95.156 41.159, -96.017 41.159, -96.017 41.506))",
+  "dcat_bbox": "ENVELOPE(-96.017,-95.156,41.506,41.159)",
+  "dcat_centroid": "41.332499999999996,-95.5865",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
+    "03d-01-01",
     "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6802\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_6802~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_6802~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6802\"}",
   "id": "dd8f109a-4ab5-49ef-a790-06c4bb56a03c",
   "dct_identifier_sm": [
     "dd8f109a-4ab5-49ef-a790-06c4bb56a03c"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:40:58Z",
   "gbl_mdVersion_s": "Aardvark"
 }

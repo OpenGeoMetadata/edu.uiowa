@@ -5,19 +5,18 @@
   "dc_title_s": "Atlas of Sioux County, Iowa, circa 1928",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "f25ba543-0358-45f3-b422-591122603299",
-  "solr_geom": "ENVELOPE(-96.5659,-95.8573,43.2615,42.909)",
+  "solr_geom": "ENVELOPE(-96.566,-95.857,43.261,42.909)",
   "solr_year_i": "1928",
   "dc_creator_sm": [
     "Alton Democrat (Firm)"
   ],
   "dc_description_s": "No known copyright restrictions. University of Iowa. Libraries. Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_13684\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_13684~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_13684~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_13684\"}",
   "dct_spatial_sm": [
     "Iowa--Sioux County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:36Z",
   "dc_language_sm": [
     "eng"
   ],

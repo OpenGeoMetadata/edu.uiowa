@@ -5,15 +5,14 @@
   "dc_title_s": "Map of Willow Township",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "a335b1ef-4e15-4ab5-bf78-80830f445824",
-  "solr_geom": "ENVELOPE(-96.3585,-95.6701,42.2148,41.8619)",
+  "solr_geom": "ENVELOPE(-96.359,-95.670,42.215,41.862)",
   "solr_year_i": "1919",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_553\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_553~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_553~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_553\"}",
   "dct_spatial_sm": [
     "Iowa--Monona County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:54Z",
   "dc_language_sm": [
     "eng"
   ],

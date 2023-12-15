@@ -35,22 +35,25 @@
     "Iowa--Taylor County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-94.9309 40.9009, -94.4723 40.9009, -94.4723 40.5703, -94.9309 40.5703, -94.9309 40.9009))",
-  "dcat_bbox": "ENVELOPE(-94.9309,-94.4723,40.9009,40.5703)",
-  "dcat_centroid": "40.735600000000005,-94.7016",
+  "locn_geometry": "POLYGON((-94.931 40.901, -94.472 40.901, -94.472 40.570, -94.931 40.570, -94.931 40.901))",
+  "dcat_bbox": "ENVELOPE(-94.931,-94.472,40.901,40.570)",
+  "dcat_centroid": "40.7355,-94.7015",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
+    "03d-01-01",
     "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1499\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_1499~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_1499~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1499\"}",
   "id": "6685ca42-271f-4a64-9ae7-bf5885c03171",
   "dct_identifier_sm": [
     "6685ca42-271f-4a64-9ae7-bf5885c03171"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:40:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

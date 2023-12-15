@@ -35,22 +35,25 @@
     "Iowa--Buchanan County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-92.083 42.6437, -91.5969 42.6437, -91.5969 42.2959, -92.083 42.2959, -92.083 42.6437))",
-  "dcat_bbox": "ENVELOPE(-92.083,-91.5969,42.6437,42.2959)",
-  "dcat_centroid": "42.469800000000006,-91.83995",
+  "locn_geometry": "POLYGON((-92.083 42.644, -91.597 42.644, -91.597 42.296, -92.083 42.296, -92.083 42.644))",
+  "dcat_bbox": "ENVELOPE(-92.083,-91.597,42.644,42.296)",
+  "dcat_centroid": "42.47,-91.84",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
+    "03d-01-01",
     "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_7852\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_7852~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_7852~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_7852\"}",
   "id": "cf105ced-21f4-4467-9963-11ba78eb0fe3",
   "dct_identifier_sm": [
     "cf105ced-21f4-4467-9963-11ba78eb0fe3"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:41:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

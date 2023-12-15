@@ -35,22 +35,25 @@
     "Iowa--Mahaska County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-92.8729 41.509, -92.4115 41.509, -92.4115 41.1591, -92.8729 41.1591, -92.8729 41.509))",
-  "dcat_bbox": "ENVELOPE(-92.8729,-92.4115,41.509,41.1591)",
-  "dcat_centroid": "41.334050000000005,-92.6422",
+  "locn_geometry": "POLYGON((-92.873 41.509, -92.412 41.509, -92.412 41.159, -92.873 41.159, -92.873 41.509))",
+  "dcat_bbox": "ENVELOPE(-92.873,-92.412,41.509,41.159)",
+  "dcat_centroid": "41.334,-92.64250000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
+    "03d-01-01",
     "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_12350\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_12350~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_12350~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_12350\"}",
   "id": "4189d8e5-dbe2-4e6b-8ec6-c97cef7f167a",
   "dct_identifier_sm": [
     "4189d8e5-dbe2-4e6b-8ec6-c97cef7f167a"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:40:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

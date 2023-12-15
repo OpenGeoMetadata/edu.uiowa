@@ -5,16 +5,15 @@
   "dc_title_s": "Atlas of Greene County, Iowa, 1921",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "02701c24-60aa-4cf9-ab56-cf34f266191e",
-  "solr_geom": "ENVELOPE(-94.6302,-94.1649,42.2091,41.8616)",
+  "solr_geom": "ENVELOPE(-94.630,-94.165,42.209,41.862)",
   "solr_year_i": "1921",
   "dc_description_s": "(The Jefferson Bee, 1921, Atlas of Greene County, Iowa); 1 atlas.: b&w.; 29 X 35 cm. Material in the public domain. No restrictions on use. State Historical Society of Iowa (Iowa City)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_12669\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_12669~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_12669~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_12669\"}",
   "dct_spatial_sm": [
     "Iowa--Greene County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:34Z",
   "dc_language_sm": [
     "eng"
   ],

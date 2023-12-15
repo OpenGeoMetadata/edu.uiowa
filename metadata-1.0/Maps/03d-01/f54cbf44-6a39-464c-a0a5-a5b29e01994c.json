@@ -5,16 +5,15 @@
   "dc_title_s": "Atlas of Harrison County, Iowa, 1922",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "f54cbf44-6a39-464c-a0a5-a5b29e01994c",
-  "solr_geom": "ENVELOPE(-96.1365,-95.4968,41.8657,41.5051)",
+  "solr_geom": "ENVELOPE(-96.136,-95.497,41.866,41.505)",
   "solr_year_i": "1922",
   "dc_description_s": "(Anderson Publishing Co., 1922, Atlas of Harrison County, Iowa); 1 atlas: b&w.; 39 X 45 cm. Material in the public domain. No restrictions on use. State Historical Society of Iowa (Iowa City)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_9660\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_9660~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_9660~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_9660\"}",
   "dct_spatial_sm": [
     "Iowa--Harrison County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:41:05Z",
   "dc_language_sm": [
     "eng"
   ],

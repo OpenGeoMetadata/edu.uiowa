@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "1954.jpg|ucm_265",
+  "dc_rights_s": "Public",
+  "dc_title_s": "University of Iowa campus map, 1954",
+  "dct_provenance_s": "University of Iowa",
+  "layer_slug_s": "ui_ucm_265",
+  "solr_geom": "ENVELOPE(-91.589815,-91.520099,41.679965,41.650579)",
+  "solr_year_i": "1950",
+  "dc_creator_sm": [
+    "Conrad, J."
+  ],
+  "dc_description_s": "20 × 34 cm",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Universities & colleges"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:ucm_265~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui%3Aucm_265\"}",
+  "dct_spatial_sm": [
+    "Iowa--Johnson County",
+    "Iowa--Iowa City",
+    "Iowa"
+  ],
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "University of Iowa",
+  "dct_temporal_sm": [
+    "1954"
+  ]
+}

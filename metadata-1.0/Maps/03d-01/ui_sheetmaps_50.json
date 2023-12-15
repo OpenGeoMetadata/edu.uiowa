@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G4151.C5 1904 .C35|31858060835943.tif|(OCoLC)812926163|31858060835943|7138770|sheetmaps_50",
+  "dc_rights_s": "Public",
+  "dc_title_s": "A geological map of Iowa, 1904",
+  "dct_provenance_s": "University of Iowa",
+  "layer_slug_s": "ui_sheetmaps_50",
+  "solr_geom": "ENVELOPE(-96.639704,-90.140061,43.501196,40.375501)",
+  "solr_year_i": "1900",
+  "dc_creator_sm": [
+    "Calvin, S. (Samuel), 1840-1911."
+  ],
+  "dc_description_s": "1 map|Scale not given.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:sheetmaps_50~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui%3Asheetmaps_50\"}",
+  "dct_spatial_sm": [
+    "Iowa"
+  ],
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Iowa Geological Survey",
+  "dct_issued_s": "1904.0",
+  "dct_temporal_sm": [
+    "1900-1910"
+  ]
+}

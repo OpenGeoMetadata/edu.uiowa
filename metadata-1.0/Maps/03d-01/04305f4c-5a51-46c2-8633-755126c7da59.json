@@ -5,16 +5,15 @@
   "dc_title_s": "Plat Book of Wayne County, Iowa, 1897",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "04305f4c-5a51-46c2-8633-755126c7da59",
-  "solr_geom": "ENVELOPE(-93.558,-93.0974,40.8986,40.5789)",
+  "solr_geom": "ENVELOPE(-93.558,-93.097,40.899,40.579)",
   "solr_year_i": "1897",
   "dc_description_s": "Material in the public domain. No restrictions on use. University of Iowa. Libraries. Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1570\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_1570~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_1570~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1570\"}",
   "dct_spatial_sm": [
     "Iowa--Wayne County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:37Z",
   "dc_language_sm": [
     "eng"
   ],

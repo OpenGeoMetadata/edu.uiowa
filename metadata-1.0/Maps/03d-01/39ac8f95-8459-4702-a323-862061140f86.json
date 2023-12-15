@@ -5,20 +5,19 @@
   "dc_title_s": "Atlas of Benton County, Iowa, 1872",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "39ac8f95-8459-4702-a323-862061140f86",
-  "solr_geom": "ENVELOPE(-92.2996,-91.8318,42.2987,41.8617)",
+  "solr_geom": "ENVELOPE(-92.300,-91.832,42.299,41.862)",
   "solr_year_i": "1872",
   "dc_creator_sm": [
     "Harrison & Warner.",
     "State Historical Society of Iowa (Iowa City)"
   ],
   "dc_description_s": "(Harrison & Warner, 1872, Atlas of Benton County, Iowa); 1 atlas; b&w.; 32 X 39 cm. Material in the public domain. No restrictions on use. State Historical Society of Iowa (Iowa City)",
-  "dc_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://uiowa.maps.arcgis.com/sharing/rest/content/items/8fc187c1d5584686a10a627decc911da/data\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6912\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_6912~JP2~~default/info.json\"}",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://uiowa.maps.arcgis.com/sharing/rest/content/items/8fc187c1d5584686a10a627decc911da/data\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_6912~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6912\"}",
   "dct_spatial_sm": [
     "Iowa--Benton County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:58Z",
   "dc_language_sm": [
     "eng"
   ],

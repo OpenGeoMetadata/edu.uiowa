@@ -35,22 +35,25 @@
     "Iowa--Humboldt County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-94.4457 42.9076, -93.9713 42.9076, -93.9713 42.6434, -94.4457 42.6434, -94.4457 42.9076))",
-  "dcat_bbox": "ENVELOPE(-94.4457,-93.9713,42.9076,42.6434)",
+  "locn_geometry": "POLYGON((-94.446 42.908, -93.971 42.908, -93.971 42.643, -94.446 42.643, -94.446 42.908))",
+  "dcat_bbox": "ENVELOPE(-94.446,-93.971,42.908,42.643)",
   "dcat_centroid": "42.7755,-94.2085",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
+    "03d-01-01",
     "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_7598\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_7598~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_7598~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_7598\"}",
   "id": "f2780816-ac87-4660-84e4-64d3c7cabe48",
   "dct_identifier_sm": [
     "f2780816-ac87-4660-84e4-64d3c7cabe48"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:41:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

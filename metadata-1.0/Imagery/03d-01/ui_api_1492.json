@@ -1,0 +1,24 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://digital.lib.uiowa.edu/islandora/object/ui%3Aapi_1492",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Black Hawk County, Iowa, 1970, aerial photomosaic index",
+  "dct_provenance_s": "University of Iowa",
+  "layer_slug_s": "ui_api_1492",
+  "solr_geom": "ENVELOPE(-96.64,-90.14,43.50,40.38)",
+  "solr_year_i": "1970",
+  "dc_description_s": "Title supplied by cataloger based on information from sheet labels. Images are photoreductions of mosaics created from original aerial photographs. Designating symbol ST. Form of individual image numbering: ST-2LL-[number], ST-3LL-[number], ST-4LL-[number], ST-5LL-[number], ST-6LL-[number], or ST-7LL-[number]. Year Flown 1970. Flown by Park Aerial Surveys, Inc. Louisville, K.Y. Approximate scale, 1:20,000|Contact the Map Collection at The University of Iowa Libraries: http://www.lib.uiowa.edu/maps/contact/|Scanned at 300 ppi in Greyscale.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui%3Aapi_1492\"}",
+  "dct_spatial_sm": [
+    "Iowa--Black Hawk County",
+    "Iowa"
+  ],
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "United States. Agricultural Stabilization and Conservation Service",
+  "dct_temporal_sm": [
+    "1970-1980"
+  ]
+}

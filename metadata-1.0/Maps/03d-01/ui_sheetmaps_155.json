@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G4151 P2 1938 .U55|index.cpd|(OCoLC)07155569|31858052286493|3670244|sheetmaps_155",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Iowa transportation map: Highways, railroads canals, air lanes, and dredged channels, 1938",
+  "dct_provenance_s": "University of Iowa",
+  "layer_slug_s": "ui_sheetmaps_155",
+  "solr_geom": "ENVELOPE(-96.62,-90.12,43.50,40.12)",
+  "solr_year_i": "1930",
+  "dc_creator_sm": [
+    "United States. Bureau of Public Roads."
+  ],
+  "dc_description_s": "1 map in 8 sections|Scale 1:250,000. Approximately 1 inch to 4 miles|Modified polyconic projection|W 96°37′--W 90°07′/N 43°30′--N 40°07′",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui%3Asheetmaps_155\"}",
+  "dct_spatial_sm": [
+    "Iowa"
+  ],
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "The Bureau",
+  "dct_issued_s": "1938.0",
+  "dct_temporal_sm": [
+    "1930-1940"
+  ]
+}

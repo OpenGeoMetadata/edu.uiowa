@@ -35,22 +35,25 @@
     "Iowa--Lyon County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-96.5974 43.5034, -95.8594 43.5034, -95.8594 43.2583, -96.5974 43.2583, -96.5974 43.5034))",
-  "dcat_bbox": "ENVELOPE(-96.5974,-95.8594,43.5034,43.2583)",
-  "dcat_centroid": "43.380849999999995,-96.2284",
+  "locn_geometry": "POLYGON((-96.597 43.503, -95.859 43.503, -95.859 43.258, -96.597 43.258, -96.597 43.503))",
+  "dcat_bbox": "ENVELOPE(-96.597,-95.859,43.503,43.258)",
+  "dcat_centroid": "43.3805,-96.228",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
+    "03d-01-01",
     "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_2343\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_2343~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_2343~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_2343\"}",
   "id": "a7fee2bb-aeb5-4194-b467-dbe2865091dd",
   "dct_identifier_sm": [
     "a7fee2bb-aeb5-4194-b467-dbe2865091dd"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:40:39Z",
   "gbl_mdVersion_s": "Aardvark"
 }

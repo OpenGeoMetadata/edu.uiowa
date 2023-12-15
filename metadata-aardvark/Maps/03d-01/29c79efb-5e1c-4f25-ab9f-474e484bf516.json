@@ -35,22 +35,25 @@
     "Iowa--Scott County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-90.901 41.7744, -90.3163 41.7744, -90.3163 41.4495, -90.901 41.4495, -90.901 41.7744))",
-  "dcat_bbox": "ENVELOPE(-90.901,-90.3163,41.7744,41.4495)",
-  "dcat_centroid": "41.61195,-90.60865",
+  "locn_geometry": "POLYGON((-90.901 41.774, -90.316 41.774, -90.316 41.450, -90.901 41.450, -90.901 41.774))",
+  "dcat_bbox": "ENVELOPE(-90.901,-90.316,41.774,41.450)",
+  "dcat_centroid": "41.612,-90.60849999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
+    "03d-01-01",
     "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6182\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_6182~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_6182~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6182\"}",
   "id": "29c79efb-5e1c-4f25-ab9f-474e484bf516",
   "dct_identifier_sm": [
     "29c79efb-5e1c-4f25-ab9f-474e484bf516"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:40:56Z",
   "gbl_mdVersion_s": "Aardvark"
 }

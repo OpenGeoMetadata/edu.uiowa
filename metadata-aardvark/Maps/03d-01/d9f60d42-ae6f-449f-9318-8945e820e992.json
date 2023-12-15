@@ -35,22 +35,25 @@
     "Iowa--Butler County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-93.0284 42.9071, -92.5536 42.9071, -92.5536 42.555, -93.0284 42.555, -93.0284 42.9071))",
-  "dcat_bbox": "ENVELOPE(-93.0284,-92.5536,42.9071,42.555)",
-  "dcat_centroid": "42.731049999999996,-92.791",
+  "locn_geometry": "POLYGON((-93.028 42.907, -92.554 42.907, -92.554 42.555, -93.028 42.555, -93.028 42.907))",
+  "dcat_bbox": "ENVELOPE(-93.028,-92.554,42.907,42.555)",
+  "dcat_centroid": "42.730999999999995,-92.791",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
+    "03d-01-01",
     "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_8756\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_8756~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_8756~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_8756\"}",
   "id": "d9f60d42-ae6f-449f-9318-8945e820e992",
   "dct_identifier_sm": [
     "d9f60d42-ae6f-449f-9318-8945e820e992"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:41:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

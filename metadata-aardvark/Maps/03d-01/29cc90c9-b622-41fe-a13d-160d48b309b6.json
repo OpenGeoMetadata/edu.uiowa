@@ -35,22 +35,25 @@
     "Iowa--Dickinson County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-95.388 43.504, -94.9132 43.504, -94.9132 43.2551, -95.388 43.2551, -95.388 43.504))",
-  "dcat_bbox": "ENVELOPE(-95.388,-94.9132,43.504,43.2551)",
-  "dcat_centroid": "43.379549999999995,-95.1506",
+  "locn_geometry": "POLYGON((-95.388 43.504, -94.913 43.504, -94.913 43.255, -95.388 43.255, -95.388 43.504))",
+  "dcat_bbox": "ENVELOPE(-95.388,-94.913,43.504,43.255)",
+  "dcat_centroid": "43.3795,-95.1505",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
+    "03d-01-01",
     "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_3046\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_3046~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_3046~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_3046\"}",
   "id": "29cc90c9-b622-41fe-a13d-160d48b309b6",
   "dct_identifier_sm": [
     "29cc90c9-b622-41fe-a13d-160d48b309b6"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:40:42Z",
   "gbl_mdVersion_s": "Aardvark"
 }

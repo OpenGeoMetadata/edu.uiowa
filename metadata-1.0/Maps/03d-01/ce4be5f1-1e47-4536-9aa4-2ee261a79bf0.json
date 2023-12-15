@@ -5,16 +5,15 @@
   "dc_title_s": "Atlas of Ida County, Iowa, 1906",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "ce4be5f1-1e47-4536-9aa4-2ee261a79bf0",
-  "solr_geom": "ENVELOPE(-95.7414,-95.3214,42.5609,42.2095)",
+  "solr_geom": "ENVELOPE(-95.741,-95.321,42.561,42.209)",
   "solr_year_i": "1906",
   "dc_description_s": "1 atlas: 91 p.; 48 cm. Material in the public domain. No restrictions on use. State Historical Society of Iowa (Iowa City)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4473\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4473~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4473~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4473\"}",
   "dct_spatial_sm": [
     "Iowa--Ida County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:50Z",
   "dc_language_sm": [
     "eng"
   ],

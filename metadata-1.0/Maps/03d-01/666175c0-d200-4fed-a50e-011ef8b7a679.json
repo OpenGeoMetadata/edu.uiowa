@@ -5,16 +5,15 @@
   "dc_title_s": "Atlas of Humboldt County, Iowa, 1915",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "666175c0-d200-4fed-a50e-011ef8b7a679",
-  "solr_geom": "ENVELOPE(-94.4457,-93.9713,42.9076,42.6434)",
+  "solr_geom": "ENVELOPE(-94.446,-93.971,42.908,42.643)",
   "solr_year_i": "1915",
   "dc_description_s": "(Messenger Printing Co., 1915, Atlas of Humboldt County, Iowa); 1 atlas: b&w.; 36 X 41 cm. Material in the public domain. No restrictions on use. Iowa State University Library (Ames)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_7515\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_7515~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_7515~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_7515\"}",
   "dct_spatial_sm": [
     "Iowa--Humboldt County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:41:01Z",
   "dc_language_sm": [
     "eng"
   ],

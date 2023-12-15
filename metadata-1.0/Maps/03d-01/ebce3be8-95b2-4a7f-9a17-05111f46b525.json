@@ -5,7 +5,7 @@
   "dc_title_s": "Map of Iowa, issued by the Board of Railroad Commissioners, 1915",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "ebce3be8-95b2-4a7f-9a17-05111f46b525",
-  "solr_geom": "ENVELOPE(-96.6395,-90.1401,43.5012,40.3754)",
+  "solr_geom": "ENVELOPE(-96.639,-90.140,43.501,40.375)",
   "solr_year_i": "1915",
   "dc_creator_sm": [
     "Iowa. Board of Railroad Commissioners"
@@ -15,11 +15,10 @@
   "dc_subject_sm": [
     "Railroads"
   ],
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_3797\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_3797~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_3797~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_3797\"}",
   "dct_spatial_sm": [
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:46Z",
   "dc_language_sm": [
     "eng"
   ],

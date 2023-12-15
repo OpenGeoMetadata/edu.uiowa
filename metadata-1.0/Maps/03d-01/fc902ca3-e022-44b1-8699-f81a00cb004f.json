@@ -5,17 +5,16 @@
   "dc_title_s": "Iowa",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "fc902ca3-e022-44b1-8699-f81a00cb004f",
-  "solr_geom": "ENVELOPE(-96.6395,-90.1401,43.5012,40.3754)",
+  "solr_geom": "ENVELOPE(-96.639,-90.140,43.501,40.375)",
   "solr_year_i": "1904",
   "dc_creator_sm": [
     "Huebinger, M. (Melchior)"
   ],
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_330\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_330~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_330~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_330\"}",
   "dct_spatial_sm": [
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:43Z",
   "dc_language_sm": [
     "eng"
   ],

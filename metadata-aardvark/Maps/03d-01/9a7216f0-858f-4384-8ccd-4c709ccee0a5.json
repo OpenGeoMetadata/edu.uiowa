@@ -35,22 +35,25 @@
     "Iowa--Poweshiek County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-92.7683 41.8625, -92.2986 41.8625, -92.2986 41.5082, -92.7683 41.5082, -92.7683 41.8625))",
-  "dcat_bbox": "ENVELOPE(-92.7683,-92.2986,41.8625,41.5082)",
-  "dcat_centroid": "41.68535,-92.53344999999999",
+  "locn_geometry": "POLYGON((-92.768 41.862, -92.299 41.862, -92.299 41.508, -92.768 41.508, -92.768 41.862))",
+  "dcat_bbox": "ENVELOPE(-92.768,-92.299,41.862,41.508)",
+  "dcat_centroid": "41.685,-92.5335",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
+    "03d-01-01",
     "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_2464\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_2464~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_2464~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_2464\"}",
   "id": "9a7216f0-858f-4384-8ccd-4c709ccee0a5",
   "dct_identifier_sm": [
     "9a7216f0-858f-4384-8ccd-4c709ccee0a5"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:40:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

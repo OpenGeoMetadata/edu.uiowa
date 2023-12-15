@@ -1,0 +1,25 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G4153.S6 1908 .M35|31858058256490.tif|(OCoLC)550621849|31858058256490|5124930|sheetmaps_313",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Buncombe Township, Sioux County, Iowa, 1908",
+  "dct_provenance_s": "University of Iowa",
+  "layer_slug_s": "ui_sheetmaps_313",
+  "solr_geom": "ENVELOPE(-96.57151,-95.85932,43.26015,42.90877)",
+  "solr_year_i": "1900",
+  "dc_description_s": "1 map",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:sheetmaps_313~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui%3Asheetmaps_313\"}",
+  "dct_spatial_sm": [
+    "Iowa--Sioux County--Buncombe Township",
+    "Iowa"
+  ],
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "First National Bank (Haywarden, Ia.). Farm Loan Department",
+  "dct_issued_s": "1908.0",
+  "dct_temporal_sm": [
+    "1900-1910"
+  ]
+}

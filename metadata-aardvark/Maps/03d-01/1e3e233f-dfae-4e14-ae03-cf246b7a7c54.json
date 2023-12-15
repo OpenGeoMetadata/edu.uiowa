@@ -35,22 +35,25 @@
     "Iowa--Fayette County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-92.083 43.0826, -91.604 43.0826, -91.604 42.6407, -92.083 42.6407, -92.083 43.0826))",
-  "dcat_bbox": "ENVELOPE(-92.083,-91.604,43.0826,42.6407)",
-  "dcat_centroid": "42.86165,-91.8435",
+  "locn_geometry": "POLYGON((-92.083 43.083, -91.604 43.083, -91.604 42.641, -92.083 42.641, -92.083 43.083))",
+  "dcat_bbox": "ENVELOPE(-92.083,-91.604,43.083,42.641)",
+  "dcat_centroid": "42.861999999999995,-91.8435",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
+    "03d-01-01",
     "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_7291\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_7291~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_7291~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_7291\"}",
   "id": "1e3e233f-dfae-4e14-ae03-cf246b7a7c54",
   "dct_identifier_sm": [
     "1e3e233f-dfae-4e14-ae03-cf246b7a7c54"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:41:00Z",
   "gbl_mdVersion_s": "Aardvark"
 }

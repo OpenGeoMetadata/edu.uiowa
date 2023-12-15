@@ -1,0 +1,66 @@
+{
+  "dct_title_s": "General Land Office Township Plat: Cedar County, Iowa; 80N 1W",
+  "dct_alternative_sm": [
+    "Iowa land survey map of t080n, r001w"
+  ],
+  "dct_description_sm": [
+    "Part of a set of digitized microfilm of manuscript maps of Iowa townships. Individual maps in the set may include: Native American villages and fields; the first farmsteads, town sites and fields established by settlers; networks of trails; distribution of rivers, woods, prairies, wetlands and springs; and survey data such as creator, date created, and date accepted."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "United States Surveyor General"
+  ],
+  "schema_provider_s": "University of Iowa",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Cadastral maps"
+  ],
+  "dct_subject_sm": [
+    "Surveying--Public lands"
+  ],
+  "dcat_theme_sm": [
+    "Property"
+  ],
+  "dct_temporal_sm": [
+    "1837-1838"
+  ],
+  "dct_issued_s": "1837",
+  "gbl_indexYear_im": [
+    "1837"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1837 TO 1838]"
+  ],
+  "dct_spatial_sm": [
+    "Iowa",
+    "T080N-R001W"
+  ],
+  "locn_geometry": "POLYGON((-91.016 41.772, -90.899 41.772, -90.899 41.684, -91.016 41.684, -91.016 41.772))",
+  "dcat_bbox": "ENVELOPE(-91.016,-90.899,41.772,41.684)",
+  "dcat_centroid": "41.727999999999994,-90.95750000000001",
+  "dct_relation_sm": [
+    "8888-003"
+  ],
+  "pcdm_memberOf_sm": [
+    "77f-0001"
+  ],
+  "dct_isPartOf_sm": [
+    "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:glo_119~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:glo_119\"}",
+  "id": "60065925-0bd5-4191-b9db-2397aa5674eb",
+  "dct_identifier_sm": [
+    "60065925-0bd5-4191-b9db-2397aa5674eb",
+    "IA-T080N-R001W"
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+}

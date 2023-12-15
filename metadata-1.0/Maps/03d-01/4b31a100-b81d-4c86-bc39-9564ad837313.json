@@ -5,16 +5,15 @@
   "dc_title_s": "Plat book of Floyd County, Iowa, 1895",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "4b31a100-b81d-4c86-bc39-9564ad837313",
-  "solr_geom": "ENVELOPE(-93.026,-92.5536,43.2129,42.9059)",
+  "solr_geom": "ENVELOPE(-93.026,-92.554,43.213,42.906)",
   "solr_year_i": "1895",
   "dc_description_s": "Union Publishing Company, 1895, Plat Book of Floyd County, Iowa; 1 atlas: b&w.; 41 x 48 cm. Material in the public domain. No restrictions on use. State Historical Society of Iowa (Iowa City)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6551\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_6551~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_6551~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6551\"}",
   "dct_spatial_sm": [
     "Iowa--Floyd County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:57Z",
   "dc_language_sm": [
     "eng"
   ],

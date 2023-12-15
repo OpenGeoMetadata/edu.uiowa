@@ -35,22 +35,25 @@
     "Iowa--Kossuth County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-94.4456 43.5044, -93.9691 43.5044, -93.9691 42.9066, -94.4456 42.9066, -94.4456 43.5044))",
-  "dcat_bbox": "ENVELOPE(-94.4456,-93.9691,43.5044,42.9066)",
-  "dcat_centroid": "43.2055,-94.20734999999999",
+  "locn_geometry": "POLYGON((-94.446 43.504, -93.969 43.504, -93.969 42.907, -94.446 42.907, -94.446 43.504))",
+  "dcat_bbox": "ENVELOPE(-94.446,-93.969,43.504,42.907)",
+  "dcat_centroid": "43.2055,-94.2075",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
+    "03d-01-01",
     "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1968\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_1968~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_1968~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1968\"}",
   "id": "69c33bc7-eef5-444e-984a-d0c0dfe53488",
   "dct_identifier_sm": [
     "69c33bc7-eef5-444e-984a-d0c0dfe53488"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:40:38Z",
   "gbl_mdVersion_s": "Aardvark"
 }

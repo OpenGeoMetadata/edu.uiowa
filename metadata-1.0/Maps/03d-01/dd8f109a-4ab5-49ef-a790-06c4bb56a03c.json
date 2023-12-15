@@ -5,16 +5,15 @@
   "dc_title_s": "Illustrated Atlas of Pottawattamie County, Iowa, 1885",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "dd8f109a-4ab5-49ef-a790-06c4bb56a03c",
-  "solr_geom": "ENVELOPE(-96.0171,-95.1558,41.5058,41.1587)",
+  "solr_geom": "ENVELOPE(-96.017,-95.156,41.506,41.159)",
   "solr_year_i": "1885",
   "dc_description_s": "C. R. Allen, 1885, Illustrated Atlas of Pottawattamie County, Iowa; 1atlas: b&w.; 37 X 44 cm. Material in the public domain. No restrictions on use. State Historical Society of Iowa (Iowa City)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6802\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_6802~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_6802~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6802\"}",
   "dct_spatial_sm": [
     "Iowa--Pottawattamie County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:58Z",
   "dc_language_sm": [
     "eng"
   ],

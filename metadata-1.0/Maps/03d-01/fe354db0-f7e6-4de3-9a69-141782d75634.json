@@ -5,19 +5,18 @@
   "dc_title_s": "Standard atlas of Audubon County, Iowa, 1900",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "fe354db0-f7e6-4de3-9a69-141782d75634",
-  "solr_geom": "ENVELOPE(-95.0947,-94.7014,41.8626,41.5032)",
+  "solr_geom": "ENVELOPE(-95.095,-94.701,41.863,41.503)",
   "solr_year_i": "1900",
   "dc_creator_sm": [
     "Geo. A. Ogle & Company"
   ],
   "dc_description_s": "2 in. to the mile Material in the public domain. No restrictions on use. University of Iowa. Libraries. Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_11436\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_11436~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_11436~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_11436\"}",
   "dct_spatial_sm": [
     "Iowa--Audubon County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:32Z",
   "dc_language_sm": [
     "eng"
   ],

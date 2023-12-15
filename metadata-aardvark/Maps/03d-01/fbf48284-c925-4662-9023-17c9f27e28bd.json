@@ -35,22 +35,25 @@
     "Iowa--Chickasaw County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-92.5544 43.2132, -92.0808 43.2132, -92.0808 42.9059, -92.5544 42.9059, -92.5544 43.2132))",
-  "dcat_bbox": "ENVELOPE(-92.5544,-92.0808,43.2132,42.9059)",
-  "dcat_centroid": "43.05955,-92.3176",
+  "locn_geometry": "POLYGON((-92.554 43.213, -92.081 43.213, -92.081 42.906, -92.554 42.906, -92.554 43.213))",
+  "dcat_bbox": "ENVELOPE(-92.554,-92.081,43.213,42.906)",
+  "dcat_centroid": "43.0595,-92.3175",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
+    "03d-01-01",
     "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_8631\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_8631~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_8631~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_8631\"}",
   "id": "fbf48284-c925-4662-9023-17c9f27e28bd",
   "dct_identifier_sm": [
     "fbf48284-c925-4662-9023-17c9f27e28bd"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:41:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

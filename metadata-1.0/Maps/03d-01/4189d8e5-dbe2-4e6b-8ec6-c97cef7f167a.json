@@ -5,16 +5,15 @@
   "dc_title_s": "Atlas of Mahaska County, Iowa, 1905",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "4189d8e5-dbe2-4e6b-8ec6-c97cef7f167a",
-  "solr_geom": "ENVELOPE(-92.8729,-92.4115,41.509,41.1591)",
+  "solr_geom": "ENVELOPE(-92.873,-92.412,41.509,41.159)",
   "solr_year_i": "1905",
   "dc_description_s": "(Midland Map Co., 1905, Atlas of Mahaska County, Iowa); 1 atlas: b&w.; 45 X 48 cm. Material in the public domain. No restrictions on use. Iowa State University Library (Ames)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_12350\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_12350~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_12350~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_12350\"}",
   "dct_spatial_sm": [
     "Iowa--Mahaska County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:34Z",
   "dc_language_sm": [
     "eng"
   ],

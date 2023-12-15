@@ -35,22 +35,25 @@
     "Iowa--Van Buren County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-92.1798 40.9, -91.7169 40.9, -91.7169 40.6007, -92.1798 40.6007, -92.1798 40.9))",
-  "dcat_bbox": "ENVELOPE(-92.1798,-91.7169,40.9,40.6007)",
-  "dcat_centroid": "40.75035,-91.94835",
+  "locn_geometry": "POLYGON((-92.180 40.900, -91.717 40.900, -91.717 40.601, -92.180 40.601, -92.180 40.900))",
+  "dcat_bbox": "ENVELOPE(-92.180,-91.717,40.900,40.601)",
+  "dcat_centroid": "40.7505,-91.9485",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
+    "03d-01-01",
     "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4511\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4511~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4511~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4511\"}",
   "id": "7469b0ca-0dd2-4272-92f9-bcbb8ca4cee5",
   "dct_identifier_sm": [
     "7469b0ca-0dd2-4272-92f9-bcbb8ca4cee5"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:40:51Z",
   "gbl_mdVersion_s": "Aardvark"
 }

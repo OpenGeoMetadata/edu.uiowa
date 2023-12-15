@@ -5,16 +5,15 @@
   "dc_title_s": "Atlas of Howard County, Iowa, 1915",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "87aea489-b561-43a1-8732-fcba09063842",
-  "solr_geom": "ENVELOPE(-92.5545,-92.0803,43.5027,43.2129)",
+  "solr_geom": "ENVELOPE(-92.555,-92.080,43.503,43.213)",
   "solr_year_i": "1915",
   "dc_description_s": "W. H. Lee's 1915 Atlas of Howard County, Iowa; 1 atlas: col.; 34 X 44 cm. Material in the public domain. No restrictions on use. State Historical Society of Iowa (Iowa City)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_5544\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_5544~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_5544~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_5544\"}",
   "dct_spatial_sm": [
     "Iowa--Howard County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:54Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -30,22 +30,25 @@
     "Iowa--Wapello County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-92.6441 41.1617, -92.1798 41.1617, -92.1798 40.8979, -92.6441 40.8979, -92.6441 41.1617))",
-  "dcat_bbox": "ENVELOPE(-92.6441,-92.1798,41.1617,40.8979)",
-  "dcat_centroid": "41.0298,-92.41194999999999",
+  "locn_geometry": "POLYGON((-92.644 41.162, -92.180 41.162, -92.180 40.898, -92.644 40.898, -92.644 41.162))",
+  "dcat_bbox": "ENVELOPE(-92.644,-92.180,41.162,40.898)",
+  "dcat_centroid": "41.03,-92.412",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "1ebc9851-4501-4929-a5f0-10a377376de7"
+    "1ebc9851-4501-4929-a5f0-10a377376de7",
+    "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_347\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_347~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_347~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_347\"}",
   "id": "6f7e2537-5a74-4abf-9040-6714a5746ea3",
   "dct_identifier_sm": [
     "6f7e2537-5a74-4abf-9040-6714a5746ea3"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:40:44Z",
   "gbl_mdVersion_s": "Aardvark"
 }

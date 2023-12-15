@@ -5,16 +5,15 @@
   "dc_title_s": "Plat Book of Decatur County, Iowa, 1894",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "1e84a33d-9366-4d10-b39a-659b1edcbafe",
-  "solr_geom": "ENVELOPE(-94.0182,-93.5565,40.8989,40.5735)",
+  "solr_geom": "ENVELOPE(-94.018,-93.556,40.899,40.574)",
   "solr_year_i": "1894",
   "dc_description_s": "North West Publishing's 1894 Plat Book of Decatur County, Iowa; 1 atlas; b&w.;39x45 Material in the public domain. No restrictions on use. University of Iowa. Libraries. Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_5775\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_5775~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_5775~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_5775\"}",
   "dct_spatial_sm": [
     "Iowa--Decatur County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:55Z",
   "dc_language_sm": [
     "eng"
   ],

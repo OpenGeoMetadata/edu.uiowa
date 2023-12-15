@@ -5,16 +5,15 @@
   "dc_title_s": "Atlas of Carroll County, Iowa, 1923",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "dcedee6e-69c1-473f-ba98-7891ec2b4951",
-  "solr_geom": "ENVELOPE(-95.0947,-94.6298,42.2101,41.861)",
+  "solr_geom": "ENVELOPE(-95.095,-94.630,42.210,41.861)",
   "solr_year_i": "1923",
   "dc_description_s": "1 atlas: 178 p; 42 cm. No commercial reproduction or distribution of this file is permitted without permission. University of Iowa. Libraries. Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_956\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_956~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_956~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_956\"}",
   "dct_spatial_sm": [
     "Iowa--Carroll County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:41:05Z",
   "dc_language_sm": [
     "eng"
   ],

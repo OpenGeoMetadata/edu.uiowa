@@ -5,16 +5,15 @@
   "dc_title_s": "Plat Book of Bremer County, Iowa, 1894",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "1d755f48-c655-48bf-86da-164f2a54e648",
-  "solr_geom": "ENVELOPE(-92.5554,-92.0825,42.9063,42.6407)",
+  "solr_geom": "ENVELOPE(-92.555,-92.082,42.906,42.641)",
   "solr_year_i": "1894",
   "dc_description_s": "(Union Publishing Co., 1894, Plat Book of Bremer County, Iowa); 1 atlas: b&w.; 39 X 45 cm. Material in the public domain. No restrictions on use. State Historical Society of Iowa (Iowa City)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_8085\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_8085~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_8085~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_8085\"}",
   "dct_spatial_sm": [
     "Iowa--Bremer County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:41:03Z",
   "dc_language_sm": [
     "eng"
   ],

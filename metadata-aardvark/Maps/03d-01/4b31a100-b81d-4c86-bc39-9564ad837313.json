@@ -35,22 +35,25 @@
     "Iowa--Floyd County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-93.026 43.2129, -92.5536 43.2129, -92.5536 42.9059, -93.026 42.9059, -93.026 43.2129))",
-  "dcat_bbox": "ENVELOPE(-93.026,-92.5536,43.2129,42.9059)",
-  "dcat_centroid": "43.0594,-92.7898",
+  "locn_geometry": "POLYGON((-93.026 43.213, -92.554 43.213, -92.554 42.906, -93.026 42.906, -93.026 43.213))",
+  "dcat_bbox": "ENVELOPE(-93.026,-92.554,43.213,42.906)",
+  "dcat_centroid": "43.0595,-92.78999999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
+    "03d-01-01",
     "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6551\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_6551~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_6551~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6551\"}",
   "id": "4b31a100-b81d-4c86-bc39-9564ad837313",
   "dct_identifier_sm": [
     "4b31a100-b81d-4c86-bc39-9564ad837313"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:40:57Z",
   "gbl_mdVersion_s": "Aardvark"
 }

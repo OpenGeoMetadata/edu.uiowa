@@ -35,22 +35,25 @@
     "Iowa--Jasper County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-93.3504 41.8624, -92.7564 41.8624, -92.7564 41.5074, -93.3504 41.5074, -93.3504 41.8624))",
-  "dcat_bbox": "ENVELOPE(-93.3504,-92.7564,41.8624,41.5074)",
-  "dcat_centroid": "41.6849,-93.0534",
+  "locn_geometry": "POLYGON((-93.350 41.862, -92.756 41.862, -92.756 41.507, -93.350 41.507, -93.350 41.862))",
+  "dcat_bbox": "ENVELOPE(-93.350,-92.756,41.862,41.507)",
+  "dcat_centroid": "41.6845,-93.053",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
+    "03d-01-01",
     "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1135\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_1135~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_1135~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1135\"}",
   "id": "d41aa166-c42b-4003-a296-1d07c91c1ced",
   "dct_identifier_sm": [
     "d41aa166-c42b-4003-a296-1d07c91c1ced"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:40:32Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -5,16 +5,15 @@
   "dc_title_s": "Map of White Cloud Township",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "fa72b698-0b19-45a4-b358-3b5cf7e347eb",
-  "solr_geom": "ENVELOPE(-95.8823,-95.3836,41.1596,40.9003)",
+  "solr_geom": "ENVELOPE(-95.882,-95.384,41.160,40.900)",
   "solr_year_i": "1910",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_429\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_429~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_429~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_429\"}",
   "dct_spatial_sm": [
     "Iowa--Mills County",
     "Iowa--Fremont County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:49Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,19 +5,18 @@
   "dc_title_s": "Standard atlas of Buena Vista County, Iowa, 1908",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "926bc3ad-ecd4-4729-8121-189ea6c2995f",
-  "solr_geom": "ENVELOPE(-95.3889,-94.9152,42.9096,42.5602)",
+  "solr_geom": "ENVELOPE(-95.389,-94.915,42.910,42.560)",
   "solr_year_i": "1908",
   "dc_creator_sm": [
     "Geo. A. Ogle & Company"
   ],
   "dc_description_s": "400 ft. to 1 in. Material in the public domain. No restrictions on use. University of Iowa. Libraries. Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_11526\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_11526~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_11526~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_11526\"}",
   "dct_spatial_sm": [
     "Iowa--Buena Vista County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:32Z",
   "dc_language_sm": [
     "eng"
   ],

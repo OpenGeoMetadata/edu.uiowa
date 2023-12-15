@@ -33,22 +33,25 @@
   "dct_spatial_sm": [
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-96.6395 43.5012, -90.1401 43.5012, -90.1401 40.3754, -96.6395 40.3754, -96.6395 43.5012))",
-  "dcat_bbox": "ENVELOPE(-96.6395,-90.1401,43.5012,40.3754)",
-  "dcat_centroid": "41.9383,-93.38980000000001",
+  "locn_geometry": "POLYGON((-96.639 43.501, -90.140 43.501, -90.140 40.375, -96.639 40.375, -96.639 43.501))",
+  "dcat_bbox": "ENVELOPE(-96.639,-90.140,43.501,40.375)",
+  "dcat_centroid": "41.938,-93.3895",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
-    "5f08f194-e1e3-4c20-8294-d92b0bb7320a"
+    "5f08f194-e1e3-4c20-8294-d92b0bb7320a",
+    "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_56\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_56~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_56~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_56\"}",
   "id": "73c00142-10df-43d8-946c-a7f577e27089",
   "dct_identifier_sm": [
     "73c00142-10df-43d8-946c-a7f577e27089"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:40:54Z",
   "gbl_mdVersion_s": "Aardvark"
 }

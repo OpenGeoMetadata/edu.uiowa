@@ -5,16 +5,15 @@
   "dc_title_s": "Atlas and Rural Directory of Marion County, Iowa, 1937",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "696ea9ce-33bc-41d3-9e8b-0f4033c35dcf",
-  "solr_geom": "ENVELOPE(-93.3306,-92.871,41.5083,41.1588)",
+  "solr_geom": "ENVELOPE(-93.331,-92.871,41.508,41.159)",
   "solr_year_i": "1937",
   "dc_description_s": "(Jackson Publicity Service, 1937, Atlas and Rural Directory of Marion County, Iowa); 1 atlas: b&w.; 27 X 39 cm. No known copyright restrictions. State Historical Society of Iowa (Iowa City)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_13526\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_13526~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_13526~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_13526\"}",
   "dct_spatial_sm": [
     "Iowa--Marion County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:36Z",
   "dc_language_sm": [
     "eng"
   ],

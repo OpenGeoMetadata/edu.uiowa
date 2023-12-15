@@ -5,16 +5,15 @@
   "dc_title_s": "Atlas of Clarke County, Iowa, 1915",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "c44d7389-9c55-461f-b7b7-8804a0067fe4",
-  "solr_geom": "ENVELOPE(-94.0152,-93.558,41.1613,40.8961)",
+  "solr_geom": "ENVELOPE(-94.015,-93.558,41.161,40.896)",
   "solr_year_i": "1915",
   "dc_description_s": "Osceola Democrat's 1915 Altas of Clarke County, Iowa; 1 atlas: b&w.: 31 X 40 cm. Material in the public domain. No restrictions on use. State Historical Society of Iowa (Iowa City)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_5674\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_5674~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_5674~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_5674\"}",
   "dct_spatial_sm": [
     "Iowa--Clarke County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:54Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,16 +5,15 @@
   "dc_title_s": "Atlas of Hardin County, Iowa, 1918",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "71001dd1-73e7-40ff-94e5-d48846d31d7a",
-  "solr_geom": "ENVELOPE(-93.5002,-93.0022,42.557,42.2081)",
+  "solr_geom": "ENVELOPE(-93.500,-93.002,42.557,42.208)",
   "solr_year_i": "1918",
   "dc_description_s": "(Midland Map Co., 1918, Atlas of Hardin County, Iowa); 1 atlas: b&w.; 43 X 44 cm. Material in the public domain. No restrictions on use. Iowa State University Library (Ames)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_8212\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_8212~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_8212~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_8212\"}",
   "dct_spatial_sm": [
     "Iowa--Hardin County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:41:03Z",
   "dc_language_sm": [
     "eng"
   ],

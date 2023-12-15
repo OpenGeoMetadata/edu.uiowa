@@ -35,22 +35,25 @@
     "Iowa--Lucas County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-93.5606 41.1598, -93.0984 41.1598, -93.0984 40.8971, -93.5606 40.8971, -93.5606 41.1598))",
-  "dcat_bbox": "ENVELOPE(-93.5606,-93.0984,41.1598,40.8971)",
-  "dcat_centroid": "41.02845,-93.3295",
+  "locn_geometry": "POLYGON((-93.561 41.160, -93.098 41.160, -93.098 40.897, -93.561 40.897, -93.561 41.160))",
+  "dcat_bbox": "ENVELOPE(-93.561,-93.098,41.160,40.897)",
+  "dcat_centroid": "41.028499999999994,-93.3295",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
+    "03d-01-01",
     "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_7641\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_7641~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_7641~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_7641\"}",
   "id": "3136d92f-b0e9-4938-a4b0-0a86815f8a87",
   "dct_identifier_sm": [
     "3136d92f-b0e9-4938-a4b0-0a86815f8a87"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:41:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

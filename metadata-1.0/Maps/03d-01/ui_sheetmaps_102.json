@@ -1,0 +1,23 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G4151.C57 1916 .G46|31858060833104.jp2|(OCoLC)812847694|31858060833104|7138654|sheetmaps_102|990071386540202771|812847694",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Geologic map of Iowa, 1916",
+  "dct_provenance_s": "University of Iowa",
+  "layer_slug_s": "ui_sheetmaps_102",
+  "solr_geom": "ENVELOPE(-96.62,-90.12,43.50,40.12)",
+  "solr_year_i": "1910",
+  "dc_description_s": "1 color map|72 x 110 cm|1 :500,000",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:sheetmaps_102~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui%3Asheetmaps_102\"}",
+  "dct_spatial_sm": [
+    "Iowa"
+  ],
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1916.0",
+  "dct_temporal_sm": [
+    "1910-1920"
+  ]
+}

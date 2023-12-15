@@ -35,22 +35,25 @@
     "Iowa--Audubon County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-95.0947 41.8626, -94.7014 41.8626, -94.7014 41.5032, -95.0947 41.5032, -95.0947 41.8626))",
-  "dcat_bbox": "ENVELOPE(-95.0947,-94.7014,41.8626,41.5032)",
-  "dcat_centroid": "41.682900000000004,-94.89805000000001",
+  "locn_geometry": "POLYGON((-95.095 41.863, -94.701 41.863, -94.701 41.503, -95.095 41.503, -95.095 41.863))",
+  "dcat_bbox": "ENVELOPE(-95.095,-94.701,41.863,41.503)",
+  "dcat_centroid": "41.683,-94.898",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
+    "03d-01-01",
     "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_11470\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_11470~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_11470~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_11470\"}",
   "id": "9cccbd03-9f6c-4314-a53f-0f9abc2f52f8",
   "dct_identifier_sm": [
     "9cccbd03-9f6c-4314-a53f-0f9abc2f52f8"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:40:32Z",
   "gbl_mdVersion_s": "Aardvark"
 }

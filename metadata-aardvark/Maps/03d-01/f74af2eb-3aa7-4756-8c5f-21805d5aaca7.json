@@ -35,22 +35,25 @@
     "Iowa--O'Brien County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-95.8626 43.2595, -95.3877 43.2595, -95.3877 42.909, -95.8626 42.909, -95.8626 43.2595))",
-  "dcat_bbox": "ENVELOPE(-95.8626,-95.3877,43.2595,42.909)",
-  "dcat_centroid": "43.08425,-95.62514999999999",
+  "locn_geometry": "POLYGON((-95.863 43.260, -95.388 43.260, -95.388 42.909, -95.863 42.909, -95.863 43.260))",
+  "dcat_bbox": "ENVELOPE(-95.863,-95.388,43.260,42.909)",
+  "dcat_centroid": "43.0845,-95.6255",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
+    "03d-01-01",
     "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1425\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_1425~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_1425~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1425\"}",
   "id": "f74af2eb-3aa7-4756-8c5f-21805d5aaca7",
   "dct_identifier_sm": [
     "f74af2eb-3aa7-4756-8c5f-21805d5aaca7"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:40:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -5,15 +5,14 @@
   "dc_title_s": "The world",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "edccbce9-bb62-4d58-9a43-5c990aa0f6bb",
-  "solr_geom": "ENVELOPE(-95.5585,-95.0418,41.8626,41.5037)",
+  "solr_geom": "ENVELOPE(-95.558,-95.042,41.863,41.504)",
   "solr_year_i": "1921",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_801\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_801~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_801~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_801\"}",
   "dct_spatial_sm": [
     "Iowa--Shelby County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:41:03Z",
   "dc_language_sm": [
     "eng"
   ],

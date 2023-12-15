@@ -1,0 +1,25 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Report and recommendations on secondary roads",
+  "dct_provenance_s": "University of Iowa",
+  "layer_slug_s": "ui_testiadep_963",
+  "solr_geom": "ENVELOPE(-96.6397,-90.1401,43.5012,40.3756)",
+  "solr_year_i": "1930",
+  "dc_creator_sm": [
+    "Iowa. State Planning Board. Transportation Committee"
+  ],
+  "dc_description_s": "38 pages ; 29 cm",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui%3Atestiadep_963\"}",
+  "dct_spatial_sm": [
+    "Iowa"
+  ],
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Iowa. State Planning Board",
+  "dct_temporal_sm": [
+    "1930-1940"
+  ]
+}

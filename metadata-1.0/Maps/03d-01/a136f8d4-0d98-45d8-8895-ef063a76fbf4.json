@@ -5,16 +5,15 @@
   "dc_title_s": "Atlas of Page County Iowa, 1920",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "a136f8d4-0d98-45d8-8895-ef063a76fbf4",
-  "solr_geom": "ENVELOPE(-95.3852,-94.9164,40.9023,40.5748)",
+  "solr_geom": "ENVELOPE(-95.385,-94.916,40.902,40.575)",
   "solr_year_i": "1920",
   "dc_description_s": "Anderson Publishing Company's 1920 Atlas of Page County, Iowa.; 1 atlas: col.; 28.5 X 45 cm. Material in the public domain. No restrictions on use. University of Iowa. Libraries. Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6110\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_6110~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_6110~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6110\"}",
   "dct_spatial_sm": [
     "Iowa--Page County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:55Z",
   "dc_language_sm": [
     "eng"
   ],

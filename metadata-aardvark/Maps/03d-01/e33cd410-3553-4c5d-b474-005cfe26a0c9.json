@@ -35,22 +35,25 @@
     "Iowa--Muscatine County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-91.3701 41.5987, -90.7849 41.5987, -90.7849 41.3329, -91.3701 41.3329, -91.3701 41.5987))",
-  "dcat_bbox": "ENVELOPE(-91.3701,-90.7849,41.5987,41.3329)",
-  "dcat_centroid": "41.4658,-91.07749999999999",
+  "locn_geometry": "POLYGON((-91.370 41.599, -90.785 41.599, -90.785 41.333, -91.370 41.333, -91.370 41.599))",
+  "dcat_bbox": "ENVELOPE(-91.370,-90.785,41.599,41.333)",
+  "dcat_centroid": "41.465999999999994,-91.0775",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
+    "03d-01-01",
     "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_13396\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_13396~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_13396~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_13396\"}",
   "id": "e33cd410-3553-4c5d-b474-005cfe26a0c9",
   "dct_identifier_sm": [
     "e33cd410-3553-4c5d-b474-005cfe26a0c9"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:40:35Z",
   "gbl_mdVersion_s": "Aardvark"
 }

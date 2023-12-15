@@ -5,16 +5,15 @@
   "dc_title_s": "An Atlas of Buchanan County, 1923",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "cf105ced-21f4-4467-9963-11ba78eb0fe3",
-  "solr_geom": "ENVELOPE(-92.083,-91.5969,42.6437,42.2959)",
+  "solr_geom": "ENVELOPE(-92.083,-91.597,42.644,42.296)",
   "solr_year_i": "1923",
   "dc_description_s": "(The Independence Conservative, 1923, An Atlas of Buchanan County, Iowa); 1 atlas: b&w; 31 X 24 cm. No known copyright restrictions. State Historical Society of Iowa (Iowa City)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_7852\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_7852~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_7852~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_7852\"}",
   "dct_spatial_sm": [
     "Iowa--Buchanan County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:41:02Z",
   "dc_language_sm": [
     "eng"
   ],

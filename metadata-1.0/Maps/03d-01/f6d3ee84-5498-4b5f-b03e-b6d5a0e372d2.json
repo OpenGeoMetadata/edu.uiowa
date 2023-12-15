@@ -5,15 +5,14 @@
   "dc_title_s": "Zwingle; Sylva",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "f6d3ee84-5498-4b5f-b03e-b6d5a0e372d2",
-  "solr_geom": "ENVELOPE(-91.1334,-90.4746,42.6753,42.2933)",
+  "solr_geom": "ENVELOPE(-91.133,-90.475,42.675,42.293)",
   "solr_year_i": "1892",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_716\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_716~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_716~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_716\"}",
   "dct_spatial_sm": [
     "Iowa--Dubuque County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:41:00Z",
   "dc_language_sm": [
     "eng"
   ],

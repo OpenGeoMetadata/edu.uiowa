@@ -5,16 +5,15 @@
   "dc_title_s": "Plat Book of Benton County, Iowa, 1885",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "9e72e3b1-ecf6-4392-a8a4-8cab8b5507aa",
-  "solr_geom": "ENVELOPE(-92.2996,-91.8318,42.2987,41.8617)",
+  "solr_geom": "ENVELOPE(-92.300,-91.832,42.299,41.862)",
   "solr_year_i": "1885",
   "dc_description_s": "(Warner & Foote, 1885, Plat Book of Benton County, Iowa); 1 atlas: b&w.; 38 X 45 cm. Material in the public domain. No restrictions on use. State Historical Society of Iowa (Iowa City)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_8120\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_8120~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_8120~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_8120\"}",
   "dct_spatial_sm": [
     "Iowa--Benton County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:41:03Z",
   "dc_language_sm": [
     "eng"
   ],

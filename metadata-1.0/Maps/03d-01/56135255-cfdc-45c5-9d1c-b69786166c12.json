@@ -5,16 +5,15 @@
   "dc_title_s": "Atlas Map of Bremer County, Iowa, 1875",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "56135255-cfdc-45c5-9d1c-b69786166c12",
-  "solr_geom": "ENVELOPE(-92.5554,-92.0825,42.9063,42.6407)",
+  "solr_geom": "ENVELOPE(-92.555,-92.082,42.906,42.641)",
   "solr_year_i": "1875",
   "dc_description_s": "1 atlas (34 p.): ill., hand col. maps; 37 cm. Material in the public domain. No restrictions on use. State Historical Society of Iowa (Iowa City)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_5177\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_5177~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_5177~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_5177\"}",
   "dct_spatial_sm": [
     "Iowa--Bremer County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:52Z",
   "dc_language_sm": [
     "eng"
   ],

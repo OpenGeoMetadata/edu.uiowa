@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G4151 A1 1912 .U5 z|31858039634633.jp2|(OCoLC)54622152|31858039634633|3579720|sheetmaps_82",
+  "dc_rights_s": "Public",
+  "dc_title_s": "State of Iowa, 1912",
+  "dct_provenance_s": "University of Iowa",
+  "layer_slug_s": "ui_sheetmaps_82",
+  "solr_geom": "ENVELOPE(-96.63,-90.12,43.50,40.38)",
+  "solr_year_i": "1910",
+  "dc_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dc_description_s": "1 map|Scale 1:500,000|W 96°38′--W 90°07′/N 43°30′--N 40°23′",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:sheetmaps_82~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui%3Asheetmaps_82\"}",
+  "dct_spatial_sm": [
+    "Iowa"
+  ],
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Geological Survey",
+  "dct_issued_s": "1912.0",
+  "dct_temporal_sm": [
+    "1910-1920"
+  ]
+}

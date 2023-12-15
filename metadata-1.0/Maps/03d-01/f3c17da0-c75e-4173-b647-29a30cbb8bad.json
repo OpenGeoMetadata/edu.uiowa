@@ -5,16 +5,15 @@
   "dc_title_s": "Atlas of Greene County, Iowa, 1909",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "f3c17da0-c75e-4173-b647-29a30cbb8bad",
-  "solr_geom": "ENVELOPE(-94.6302,-94.1649,42.2091,41.8616)",
+  "solr_geom": "ENVELOPE(-94.630,-94.165,42.209,41.862)",
   "solr_year_i": "1909",
   "dc_description_s": "(Midland Map Co., 1909, Atlas of Greene County, Iowa); 1 atlas: b&w; 31 X 36 cm. Material in the public domain. No restrictions on use. Iowa State University Library (Ames)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_7467\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_7467~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_7467~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_7467\"}",
   "dct_spatial_sm": [
     "Iowa--Greene County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:41:01Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,16 +5,15 @@
   "dc_title_s": "Standard Atlas of Henry County, Iowa, 1917",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "aab6469f-2dcd-4463-ad05-b5b0cbf51f13",
-  "solr_geom": "ENVELOPE(-91.7192,-91.3713,41.163,40.8123)",
+  "solr_geom": "ENVELOPE(-91.719,-91.371,41.163,40.812)",
   "solr_year_i": "1917",
   "dc_description_s": "Geo. A. Ogle & Co.'s 1917 Standard atlas of Henry County, Iowa.; 1 atlas: 57 p; 46 cm. Material in the public domain. No restrictions on use. University of Iowa. Libraries. Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_767\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_767~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_767~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_767\"}",
   "dct_spatial_sm": [
     "Iowa--Henry County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:41:01Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -35,22 +35,25 @@
     "Iowa--Marion County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-93.3306 41.5083, -92.871 41.5083, -92.871 41.1588, -93.3306 41.1588, -93.3306 41.5083))",
-  "dcat_bbox": "ENVELOPE(-93.3306,-92.871,41.5083,41.1588)",
-  "dcat_centroid": "41.33355,-93.10079999999999",
+  "locn_geometry": "POLYGON((-93.331 41.508, -92.871 41.508, -92.871 41.159, -93.331 41.159, -93.331 41.508))",
+  "dcat_bbox": "ENVELOPE(-93.331,-92.871,41.508,41.159)",
+  "dcat_centroid": "41.3335,-93.101",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
+    "03d-01-01",
     "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_2962\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_2962~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_2962~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_2962\"}",
   "id": "f200b53f-1964-4016-b8df-bd2b007c45d0",
   "dct_identifier_sm": [
     "f200b53f-1964-4016-b8df-bd2b007c45d0"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:40:42Z",
   "gbl_mdVersion_s": "Aardvark"
 }

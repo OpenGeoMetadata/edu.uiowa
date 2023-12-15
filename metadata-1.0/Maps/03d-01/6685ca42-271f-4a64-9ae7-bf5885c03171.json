@@ -5,16 +5,15 @@
   "dc_title_s": "Plat book of Taylor County, Iowa, 1894",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "6685ca42-271f-4a64-9ae7-bf5885c03171",
-  "solr_geom": "ENVELOPE(-94.9309,-94.4723,40.9009,40.5703)",
+  "solr_geom": "ENVELOPE(-94.931,-94.472,40.901,40.570)",
   "solr_year_i": "1894",
   "dc_description_s": "1 atlas: 50 p.; 45 cm. Material in the public domain. No restrictions on use. University of Iowa. Libraries. Map Collection",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1499\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_1499~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_1499~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_1499\"}",
   "dct_spatial_sm": [
     "Iowa--Taylor County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:36Z",
   "dc_language_sm": [
     "eng"
   ],

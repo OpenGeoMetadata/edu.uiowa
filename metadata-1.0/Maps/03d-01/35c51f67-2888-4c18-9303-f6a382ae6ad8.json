@@ -5,16 +5,15 @@
   "dc_title_s": "Souvenir Atlas of Tama County, Iowa, 1909",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "35c51f67-2888-4c18-9303-f6a382ae6ad8",
-  "solr_geom": "ENVELOPE(-92.7697,-92.2976,42.2976,41.8618)",
+  "solr_geom": "ENVELOPE(-92.770,-92.298,42.298,41.862)",
   "solr_year_i": "1909",
   "dc_description_s": "(C. J. Wonser, 1909, Souvenir Atlas of Tama County, Iowa); 1 atlas: col.; 31 X 36 cm. Material in the public domain. No restrictions on use. Tama County Historical Society and Genealogical Library",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_11102\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_11102~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_11102~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_11102\"}",
   "dct_spatial_sm": [
     "Iowa--Tama County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:31Z",
   "dc_language_sm": [
     "eng"
   ],

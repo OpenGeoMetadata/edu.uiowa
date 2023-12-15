@@ -35,22 +35,25 @@
     "Iowa--Davis County",
     "Iowa"
   ],
-  "locn_geometry": "POLYGON((-92.64 40.8994, -92.1792 40.8994, -92.1792 40.5914, -92.64 40.5914, -92.64 40.8994))",
-  "dcat_bbox": "ENVELOPE(-92.64,-92.1792,40.8994,40.5914)",
-  "dcat_centroid": "40.745400000000004,-92.4096",
+  "locn_geometry": "POLYGON((-92.640 40.899, -92.179 40.899, -92.179 40.591, -92.640 40.591, -92.640 40.899))",
+  "dcat_bbox": "ENVELOPE(-92.640,-92.179,40.899,40.591)",
+  "dcat_centroid": "40.745000000000005,-92.40950000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
+    "03d-01-01",
     "03d-01"
+  ],
+  "dct_rights_sm": [
+    "Material in the public domain. No restrictions on use. For  more information\\\\, contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/contact."
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_5037\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_5037~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_5037~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_5037\"}",
   "id": "685f8a54-4612-4d69-a569-79907a308916",
   "dct_identifier_sm": [
     "685f8a54-4612-4d69-a569-79907a308916"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:40:52Z",
   "gbl_mdVersion_s": "Aardvark"
 }

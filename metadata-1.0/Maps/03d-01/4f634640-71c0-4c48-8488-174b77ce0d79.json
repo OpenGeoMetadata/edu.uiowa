@@ -5,16 +5,15 @@
   "dc_title_s": "Atlas of Madison County Iowa, 1905",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "4f634640-71c0-4c48-8488-174b77ce0d79",
-  "solr_geom": "ENVELOPE(-94.2434,-93.7919,41.5108,41.1538)",
+  "solr_geom": "ENVELOPE(-94.243,-93.792,41.511,41.154)",
   "solr_year_i": "1905",
   "dc_description_s": "1 atlas Material in the public domain. No restrictions on use.",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_2998\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_2998~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_2998~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_2998\"}",
   "dct_spatial_sm": [
     "Iowa--Madison County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:42Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,16 +5,15 @@
   "dc_title_s": "Atlas of Louisa County, Iowa, 1917",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "e2e5d00f-e024-49a5-a59c-e9b8736ba4ac",
-  "solr_geom": "ENVELOPE(-91.487,-90.9473,41.4235,41.0718)",
+  "solr_geom": "ENVELOPE(-91.487,-90.947,41.423,41.072)",
   "solr_year_i": "1917",
   "dc_description_s": "(Geo. A. Ogle & Co., 1917, Atlas of Louisa County, Iowa); 1 atlas: b&w.; 40 X 45 cm. Material in the public domain. No restrictions on use. State Historical Society of Iowa (Iowa City)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_12929\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_12929~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_12929~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_12929\"}",
   "dct_spatial_sm": [
     "Iowa--Louisa County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:34Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,16 +5,15 @@
   "dc_title_s": "Republican Atlas of Boone County, Iowa, 1902",
   "dct_provenance_s": "University of Iowa",
   "layer_slug_s": "f42da5d5-1409-41c4-959d-bdd8cbb723bc",
-  "solr_geom": "ENVELOPE(-94.1673,-93.6998,42.2094,41.8621)",
+  "solr_geom": "ENVELOPE(-94.167,-93.700,42.209,41.862)",
   "solr_year_i": "1902",
   "dc_description_s": "(Kenyon Printing & Mapping Co., 1902, Republican Atlas of Boone County, Iowa); 1 atlas: b&w.; 24 X 30 cm. Material in the public domain. No restrictions on use. State Historical Society of Iowa (Iowa City)",
   "dc_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_11252\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_11252~JP2~~default/info.json\"}",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_11252~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_11252\"}",
   "dct_spatial_sm": [
     "Iowa--Boone County",
     "Iowa"
   ],
-  "layer_modified_dt": "2023-06-16T20:40:32Z",
   "dc_language_sm": [
     "eng"
   ],
