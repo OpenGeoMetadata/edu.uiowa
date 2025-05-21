@@ -50,7 +50,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_12694~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_12694\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_12694\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_12694~JP2~~default/info.json\"}",
   "id": "fde8d3e7-0ab9-42ea-b4db-b52ab99864e2",
   "dct_identifier_sm": [
     "fde8d3e7-0ab9-42ea-b4db-b52ab99864e2"

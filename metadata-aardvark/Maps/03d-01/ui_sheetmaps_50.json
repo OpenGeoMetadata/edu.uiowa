@@ -25,7 +25,7 @@
   "dct_temporal_sm": [
     "1900-1910"
   ],
-  "dct_issued_s": "1904.0",
+  "dct_issued_s": "1904",
   "gbl_indexYear_im": [
     "1900"
   ],
@@ -39,7 +39,7 @@
   "dcat_bbox": "ENVELOPE(-96.639704,-90.140061,43.501196,40.375501)",
   "dcat_centroid": "41.938348500000004,-93.3898825",
   "pcdm_memberOf_sm": [
-    "dc8c18df-7d64-4ff4-a754-d18d0891187d"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
     "03d-01-05",
@@ -50,7 +50,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:sheetmaps_50~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui%3Asheetmaps_50\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui%3Asheetmaps_50\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:sheetmaps_50~JP2~~default/info.json\"}",
   "id": "ui_sheetmaps_50",
   "dct_identifier_sm": [
     "G4151.C5 1904 .C35",

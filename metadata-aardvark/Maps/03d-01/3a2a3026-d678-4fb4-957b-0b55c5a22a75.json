@@ -13,9 +13,6 @@
   "gbl_resourceType_sm": [
     "Atlases"
   ],
-  "dcat_keyword_sm": [
-    "Iowa Counties Historic Atlases"
-  ],
   "dct_temporal_sm": [
     "1910"
   ],
@@ -46,7 +43,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_424~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_424\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_424\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_424~JP2~~default/info.json\"}",
   "id": "3a2a3026-d678-4fb4-957b-0b55c5a22a75",
   "dct_identifier_sm": [
     "3a2a3026-d678-4fb4-957b-0b55c5a22a75"

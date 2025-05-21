@@ -24,7 +24,7 @@
   "dct_temporal_sm": [
     "1900-1910"
   ],
-  "dct_issued_s": "1901.0",
+  "dct_issued_s": "1901",
   "gbl_indexYear_im": [
     "1900"
   ],
@@ -39,7 +39,7 @@
   "dcat_bbox": "ENVELOPE(-94.44329,-93.97020,43.50047,42.90776)",
   "dcat_centroid": "43.204115,-94.20674500000001",
   "pcdm_memberOf_sm": [
-    "dc8c18df-7d64-4ff4-a754-d18d0891187d"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
     "03d-01-05",

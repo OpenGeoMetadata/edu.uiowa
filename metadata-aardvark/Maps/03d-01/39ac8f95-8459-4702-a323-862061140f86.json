@@ -23,8 +23,7 @@
   "dcat_keyword_sm": [
     "Real property",
     "Land ownership",
-    "Iowa Counties Historic Atlases",
-    "2022-creator-sprint"
+    "Iowa Counties Historic Atlases"
   ],
   "dct_temporal_sm": [
     "1872"
@@ -55,7 +54,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://uiowa.maps.arcgis.com/sharing/rest/content/items/8fc187c1d5584686a10a627decc911da/data\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_6912~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6912\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_6912\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://uiowa.maps.arcgis.com/sharing/rest/content/items/8fc187c1d5584686a10a627decc911da/data\",\"label\":\"JPEG\"}],\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_6912~JP2~~default/info.json\"}",
   "id": "39ac8f95-8459-4702-a323-862061140f86",
   "dct_identifier_sm": [
     "39ac8f95-8459-4702-a323-862061140f86"

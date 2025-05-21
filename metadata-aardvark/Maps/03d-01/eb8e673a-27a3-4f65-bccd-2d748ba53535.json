@@ -50,7 +50,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://uiowa.maps.arcgis.com/sharing/rest/content/items/fbad48ba4f4745b99b7157f236e00f0a/data\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4081~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4081\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4081\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://uiowa.maps.arcgis.com/sharing/rest/content/items/fbad48ba4f4745b99b7157f236e00f0a/data\",\"label\":\"JPEG\"}],\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4081~JP2~~default/info.json\"}",
   "id": "eb8e673a-27a3-4f65-bccd-2d748ba53535",
   "dct_identifier_sm": [
     "eb8e673a-27a3-4f65-bccd-2d748ba53535"

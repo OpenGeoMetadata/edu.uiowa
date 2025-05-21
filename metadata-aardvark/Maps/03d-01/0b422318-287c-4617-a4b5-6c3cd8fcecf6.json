@@ -16,11 +16,6 @@
   "gbl_resourceType_sm": [
     "Atlases"
   ],
-  "dcat_keyword_sm": [
-    "2022-07-26-language",
-    "Iowa Counties Historic Atlases",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1904"
   ],
@@ -49,7 +44,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_194~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_194\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_194\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_194~JP2~~default/info.json\"}",
   "id": "0b422318-287c-4617-a4b5-6c3cd8fcecf6",
   "dct_identifier_sm": [
     "0b422318-287c-4617-a4b5-6c3cd8fcecf6"

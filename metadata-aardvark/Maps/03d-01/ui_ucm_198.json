@@ -20,7 +20,7 @@
     "Aerial views"
   ],
   "dct_subject_sm": [
-    "Universities & colleges"
+    "Universities and Colleges"
   ],
   "dct_temporal_sm": [
     "1957"
@@ -40,7 +40,7 @@
   "dcat_bbox": "ENVELOPE(-91.589815,-91.520099,41.679965,41.650579)",
   "dcat_centroid": "41.665272,-91.554957",
   "pcdm_memberOf_sm": [
-    "dc8c18df-7d64-4ff4-a754-d18d0891187d"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
     "03d-01-07",
@@ -51,7 +51,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:ucm_198~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui%3Aucm_198\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui%3Aucm_198\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:ucm_198~JP2~~default/info.json\"}",
   "id": "ui_ucm_198",
   "dct_identifier_sm": [
     "1957.jpg",

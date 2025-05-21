@@ -26,7 +26,7 @@
   "dct_temporal_sm": [
     "1890-1900"
   ],
-  "dct_issued_s": "1895.0",
+  "dct_issued_s": "1895",
   "gbl_indexYear_im": [
     "1890"
   ],
@@ -40,7 +40,7 @@
   "dcat_bbox": "ENVELOPE(-96.62,-90.12,43.50,40.37)",
   "dcat_centroid": "41.935,-93.37",
   "pcdm_memberOf_sm": [
-    "dc8c18df-7d64-4ff4-a754-d18d0891187d"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
     "03d-01-05",
@@ -51,7 +51,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:sheetmaps_109~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui%3Asheetmaps_109\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui%3Asheetmaps_109\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:sheetmaps_109~JP2~~default/info.json\"}",
   "id": "ui_sheetmaps_109",
   "dct_identifier_sm": [
     "G4151 .P3 1895 .I8",

@@ -24,7 +24,7 @@
   "dct_temporal_sm": [
     "1850-1860"
   ],
-  "dct_issued_s": "1850.0",
+  "dct_issued_s": "1850",
   "gbl_indexYear_im": [
     "1850"
   ],
@@ -38,7 +38,7 @@
   "dcat_bbox": "ENVELOPE(-97.00,-89.12,44.50,39.77)",
   "dcat_centroid": "42.135000000000005,-93.06",
   "pcdm_memberOf_sm": [
-    "dc8c18df-7d64-4ff4-a754-d18d0891187d"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
     "03d-01-05",
@@ -49,7 +49,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:sheetmaps_14~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui%3Asheetmaps_14\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui%3Asheetmaps_14\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:sheetmaps_14~JP2~~default/info.json\"}",
   "id": "ui_sheetmaps_14",
   "dct_identifier_sm": [
     "G4150 1850 .T46",

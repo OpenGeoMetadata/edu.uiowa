@@ -28,7 +28,7 @@
   "dct_temporal_sm": [
     "1870-1880"
   ],
-  "dct_issued_s": "1872.0",
+  "dct_issued_s": "1872",
   "gbl_indexYear_im": [
     "1870"
   ],
@@ -43,7 +43,7 @@
   "dcat_bbox": "ENVELOPE(-97.00,-89.00,44.00,36.00)",
   "dcat_centroid": "40.0,-93.0",
   "pcdm_memberOf_sm": [
-    "dc8c18df-7d64-4ff4-a754-d18d0891187d"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
     "03d-01-05",
@@ -54,7 +54,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:sheetmaps_41~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui%3Asheetmaps_41\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui%3Asheetmaps_41\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:sheetmaps_41~JP2~~default/info.json\"}",
   "id": "ui_sheetmaps_41",
   "dct_identifier_sm": [
     "G4130 1872 .G3",

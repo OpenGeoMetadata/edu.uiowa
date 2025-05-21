@@ -23,10 +23,6 @@
   "dct_subject_sm": [
     "Railroads"
   ],
-  "dcat_keyword_sm": [
-    "Iowa Counties Historic Atlases",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1886"
   ],
@@ -56,7 +52,7 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_405~JP2~~default/info.json\",\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_405\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/islandora/object/ui:atlases_405\",\"http://iiif.io/api/image\":\"https://digital.lib.uiowa.edu/iiif/2/ui:atlases_405~JP2~~default/info.json\"}",
   "id": "6dab3f4c-b4d9-40cf-8830-a5f5d479daf1",
   "dct_identifier_sm": [
     "6dab3f4c-b4d9-40cf-8830-a5f5d479daf1"
